@@ -3,12 +3,80 @@
 # Master index of all extracted stories in the archive.
 # Each entry references a story file in Stories/by-source/ or Stories/by-theme/.
 
-stories: []
+stories:
+  - id: bible-genesis-creation
+    title: The Creation
+    source: bible/genesis
+    themes: [creation, light-and-darkness, order-from-chaos, sabbath]
+    motifs: [creation-from-chaos, seven-days, word-as-creative-force]
+    adaptation_status: not_started
 
-# Example entry:
-# - id: bible-genesis-flood
-#   title: The Flood
-#   source: bible/genesis
-#   themes: [creation, flood, divine-judgment]
-#   motifs: [the-flood-hero, the-divine-warning]
-#   adaptation_status: not_started
+  - id: bible-genesis-adam-eve
+    title: Adam and Eve
+    source: bible/genesis
+    themes: [creation-of-humanity, temptation, fall-from-grace, knowledge-and-ignorance]
+    motifs: [the-garden, the-serpent, the-forbidden-tree, the-fall]
+    adaptation_status: not_started
+
+  - id: bible-genesis-cain-abel
+    title: Cain and Abel
+    source: bible/genesis
+    themes: [brotherly-conflict, jealousy, murder, divine-justice]
+    motifs: [first-murder, divine-question, mark-of-cain]
+    adaptation_status: not_started
+
+  - id: bible-genesis-flood
+    title: The Flood
+    source: bible/genesis
+    themes: [divine-judgment, covenant, renewal, salvation-through-obedience]
+    motifs: [the-flood-hero, the-divine-warning, the-preservation-of-life, the-rainbow-covenant]
+    adaptation_status: not_started
+
+  - id: bulfinch-creation
+    title: The Creation of the World
+    source: bulfinch-greek
+    themes: [creation, titanomachy, prometheus, emergence-from-chaos]
+    motifs: [creation-from-chaos, titanomachy, prometheus-stealing-fire]
+    adaptation_status: not_started
+
+  - id: bulfinch-odysseus-polyphemus
+    title: The Odyssey — Polyphemus
+    source: bulfinch-greek
+    themes: [cunning-vs-strength, hospitality, survival, escape]
+    motifs: [the-cyclops, the-blinding, nobody-trick]
+    adaptation_status: not_started
+
+  - id: edda-creation
+    title: The Creation of the World
+    source: norse/prose-edda
+    themes: [creation, ymir, world-formation, emergence-from-void]
+    motifs: [cosmic-sacrifice, world-from-body, yggdrasil]
+    adaptation_status: not_started
+
+  - id: edda-baldr-death
+    title: The Death of Baldr
+    source: norse/prose-edda
+    themes: [death-of-god, fate, mistletoe, ragnarok-omen]
+    motifs: [invulnerability-flaw, death-of-deity, fate-unavoidable]
+    adaptation_status: not_started
+
+  - id: edda-ragnarok
+    title: Ragnarok
+    source: norse/prose-edda
+    themes: [apocalypse, rebirth, fate, cosmic-destruction]
+    motifs: [twilight-of-gods, world-serpent, fenrir, rebirth-after-destruction]
+    adaptation_status: not_started
+
+  - id: jataka-monkey-king
+    title: The Monkey King
+    source: buddhist/jataka
+    themes: [self-sacrifice, leadership, compassion]
+    motifs: [self-sacrifice-for-others, bridge-of-bodies]
+    adaptation_status: not_started
+
+  - id: jataka-banyan-deer
+    title: The Banyan Deer
+    source: buddhist/jataka
+    themes: [compassion, sacrifice, kingship]
+    motifs: [animal-bodhisattva, deer-king, sacrifice-for-herd]
+    adaptation_status: not_started

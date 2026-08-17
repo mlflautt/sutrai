@@ -1,0 +1,96 @@
+---
+id: jataka-banyan-deer
+title: The Banyan Deer
+source:
+  name: "Jataka Tales"
+  tradition: Buddhist / Indian
+  original_language: Pali (originals), English (this translation)
+  source_text: Archive/translations/by-source/jataka-tales/jataka-tales.txt
+  translation: Ellen C. Babbitt (1912)
+  reference: Chapter XII - The Banyan Deer, lines 1208-1284
+extracted_units:
+  - id: golden-deer
+    text: "There was once a Deer the color of gold..."
+    reference: "Chapter XII, opening"
+  - id: the-park
+    text: "The king of that country was fond of hunting the Deer..."
+    reference: "Chapter XII, lines 1220-1242"
+  - id: the-lot-system
+    text: "The King of the Banyan Deer sent for the King of the Monkey Deer..."
+    reference: "Chapter XII, lines 1243-1254"
+  - id: mother-deer
+    text: "One day the lot fell to a mother Deer who had a young baby..."
+    reference: "Chapter XII, lines 1256-1266"
+  - id: king-takes-place
+    text: "Go back to your herd. I will go in your place..."
+    reference: "Chapter XII, lines 1266-1270"
+  - id: king's-mercy
+    text: "King of the Banyan Deer! I never saw such kindness and mercy..."
+    reference: "Chapter XII, lines 1272-1283"
+themes:
+  - compassion
+  - sacrifice
+  - kingship
+motifs:
+  - animal-bodhisattva
+  - deer-king
+  - sacrifice-for-herd
+related_stories:
+  - jataka-monkey-king
+  - bible-genesis-cain-abel
+cultural_context:
+  - buddhist
+  - indian
+  - folklore
+adaptation_status: not_started
+adaptation_notes: >
+  A Jataka tale of the Buddha as the golden Banyan Deer king. The bodhisattva
+  ideal: a ruler who sacrifices himself for his subjects, particularly the
+  vulnerable. The lot system as organizational compassion, the mother deer's
+  plea, and the king's voluntary self-sacrifice create a powerful moral tale.
+  The human king's recognition and mercy complete the circle.
+---
+
+# The Banyan Deer
+
+## Chapter XII — The Banyan Deer
+
+There was once a Deer the color of gold. His eyes were like round jewels, his horns were white as silver, his mouth was red like a flower, his hoofs were bright and hard. He had a large body and a fine tail.
+
+He lived in a forest and was king of a herd of five hundred Banyan Deer. Near by lived another herd of Deer, called the Monkey Deer. They, too, had a king.
+
+The king of that country was fond of hunting the Deer and eating deer meat. He did not like to go alone so he called the people of his town to go with him, day after day.
+
+The townspeople did not like this for while they were gone no one did their work. So they decided to make a park and drive the Deer into it. Then the king could go into the park and hunt and they could go on with their daily work.
+
+They made a park, planted grass in it and provided water for the Deer, built a fence all around it and drove the Deer into it.
+
+Then they shut the gate and went to the king to tell him that in the park near by he could find all the Deer he wanted.
+
+The king went at once to look at the Deer. First he saw there the two Deer kings, and granted them their lives. Then he looked at their great herds.
+
+Some days the king would go to hunt the Deer, sometimes his cook would go. As soon as any of the Deer saw them they would shake with fear and run. But when they had been hit once or twice they would drop down dead.
+
+The King of the Banyan Deer sent for the King of the Monkey Deer and said, "Friend, many of the Deer are being killed. Many are wounded besides those who are killed. After this suppose one from my herd goes up to be killed one day, and the next day let one from your herd go up. Fewer Deer will be lost this way."
+
+The Monkey Deer agreed. Each day the Deer whose turn it was would go and lie down, placing its head on the block. The cook would come and carry off the one he found lying there.
+
+One day the lot fell to a mother Deer who had a young baby. She went to her king and said, "O King of the Monkey Deer, let the turn pass me by until my baby is old enough to get along without me. Then I will go and put my head on the block."
+
+But the king did not help her. He told her that if the lot had fallen to her she must die.
+
+Then she went to the King of the Banyan Deer and asked him to save her.
+
+"Go back to your herd. I will go in your place," said he.
+
+The next day the cook found the King of the Banyan Deer lying with his head on the block. The cook went to the king, who came himself to find out about this.
+
+"King of the Banyan Deer! did I not grant you your life? Why are you lying here?"
+
+"O great King!" said the King of the Banyan Deer, "a mother came with her young baby and told me that the lot had fallen to her. I could not ask any one else to take her place, so I came myself."
+
+"King of the Banyan Deer! I never saw such kindness and mercy. Rise up. I grant your life and hers. Nor will I hunt any more the Deer in either park or forest."
+
+---
+
+*Adaptation notes: A Jataka tale of the Buddha as the golden Banyan Deer. The bodhisattva ideal: a ruler who sacrifices himself for the vulnerable. The lot system as organizational compassion, the mother deer's plea, and the king's voluntary self-sacrifice create a powerful moral narrative. The human king's recognition of virtue and subsequent mercy complete the circle—goodness begets goodness.*

@@ -43,3 +43,183 @@ sources:
     license: Public Domain
     file_formats: [txt]
     extracted_story_count: 0
+
+  - id: dao-de-jing-chinese
+    title: 道德經 (Dao De Jing) — Chinese Original
+    category: sacred
+    tradition: Daoism
+    original_language: Classical Chinese
+    word_count: 5000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: dao-de-jing-legge
+    title: The Tao Teh King (James Legge Translation)
+    category: sacred
+    tradition: Daoism
+    original_language: Classical Chinese (translated to English)
+    word_count: 12000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: zhuangzi-chinese
+    title: 莊子 (Zhuangzi) — Chinese Original
+    category: sacred
+    tradition: Daoism
+    original_language: Classical Chinese
+    word_count: 60000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: zhuangzi-giles
+    title: Chuang Tzu (Herbert Giles Translation)
+    category: sacred
+    tradition: Daoism
+    original_language: Classical Chinese (translated to English)
+    word_count: 116070
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: bon-death-ritual
+    title: Tibet Bon Religion — A Death Ritual of the Tibetan Bonpos
+    category: sacred
+    tradition: Bon (Pre-Buddhist Tibetan)
+    original_language: English
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0
+
+  - id: bon-zhang-zhung
+    title: On Zhang-zhung
+    category: sacred
+    tradition: Bon (Pre-Buddhist Tibetan)
+    original_language: English
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0
+
+  - id: bon-collection-studies
+    title: A Collection of Studies on the Tibetan Bon Tradition
+    category: sacred
+    tradition: Bon (Pre-Buddhist Tibetan)
+    original_language: English
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0
+
+  - id: bon-primitive-tibet
+    title: Bon — The Primitive Religion of Tibet
+    category: sacred
+    tradition: Bon (Pre-Buddhist Tibetan)
+    original_language: English
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0
+
+  - id: bon-jiabr
+    title: JIABR Journal Article on Bon
+    category: sacred
+    tradition: Bon (Pre-Buddhist Tibetan)
+    original_language: English
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0
+
+  - id: bon-iconography
+    title: The Bon Religion of Tibet — The Iconography of a Living Tradition
+    category: sacred
+    tradition: Bon (Pre-Buddhist Tibetan)
+    original_language: English
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0
+
+  - id: bon-valley-eagle
+    title: Valley of the Eagle
+    category: sacred
+    tradition: Bon (Pre-Buddhist Tibetan)
+    original_language: English
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0
+
+  - id: vajrayana-eternal-bliss
+    title: Collected Works of Eternal Bliss — Introduction to Tibetan Vajrayana Buddhism
+    category: sacred
+    tradition: Vajrayana (Tibetan Buddhism)
+    original_language: English
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0
+
+  - id: vajrayana-secret-vajra-world
+    title: Secret of the Vajra World — The Tantric Buddhism of Tibet
+    category: sacred
+    tradition: Vajrayana (Tibetan Buddhism)
+    original_language: English
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0
+
+  - id: vajrayana-secret-buddhism
+    title: Secret Buddhism — Vajrayana Practices
+    category: sacred
+    tradition: Vajrayana (Tibetan Buddhism)
+    original_language: English
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0
+
+  - id: vajrayana-tattvasamgraha
+    title: Tattvasaṃgraha Tantra (Yoga Tantra)
+    category: sacred
+    tradition: Vajrayana (Tibetan Buddhism)
+    original_language: Tibetan/Chinese/Japanese
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0
+
+  - id: vajrayana-guhyagarbha
+    title: The Guhyagarbha Tantra
+    category: sacred
+    tradition: Vajrayana (Tibetan Buddhism)
+    original_language: Tibetan
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0
+
+  - id: vajrayana-lotus-sutra
+    title: The Lotus Sutra
+    category: sacred
+    tradition: Vajrayana (Tibetan Buddhism)
+    original_language: Sanskrit/Chinese
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0
+
+  - id: vajrayana-tibetan-book-dead
+    title: The Tibetan Book of the Dead
+    category: sacred
+    tradition: Vajrayana (Tibetan Buddhism)
+    original_language: Tibetan
+    word_count: 0
+    license: Unknown
+    file_formats: [pdf]
+    extracted_story_count: 0

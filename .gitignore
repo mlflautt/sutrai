@@ -119,10 +119,16 @@ Creative/storyboards/**
 Creative/audio/**
 Creative/edits/**
 
-# Ignore archive text files (managed separately)
+# Ignore archive text files (managed separately) — but keep .yaml metadata
 Archive/texts/**
 Archive/translations/**
 Archive/commentaries/**
+!Archive/texts/**/.gitkeep
+!Archive/texts/**/*.yaml
+!Archive/translations/**/.gitkeep
+!Archive/translations/**/*.yaml
+!Archive/commentaries/**/.gitkeep
+!Archive/commentaries/**/*.yaml
 
 # Ignore project assets
 Projects/*/edit/**

@@ -1,0 +1,19 @@
+id: vajrayana-tibetan-book-dead
+title: The Tibetan Book of the Dead
+category: sacred
+tradition: Vajrayana (Tibetan Buddhism)
+original_language: Tibetan
+author: Unknown
+date_composed: '2025'
+date_acquired: '2026-08-17'
+source_url: ''
+license: Unknown
+copyright_status: unknown
+file_formats:
+  - pdf
+file_paths:
+  pdf: Archive/texts/sacred/vajrayana/The-Tibetan-Book-of-the-Dead.pdf
+quality_rating: high
+notes: |
+  The Tibetan Book of the Dead (Bardo Thodol), a guide for the deceased
+  through the intermediate state between death and rebirth.
