@@ -1,0 +1,57 @@
+# Motif Schema
+
+$id: motif.schema.yaml
+title: Motif Schema
+description: Schema for a motif entry in the Sutrai motif index
+type: object
+required:
+  - id
+  - name
+  - description
+
+properties:
+  id:
+    type: string
+    pattern: '^[a-z0-9-]+$'
+    description: Unique identifier for this motif (e.g., 'the-flood-hero')
+  name:
+    type: string
+    description: Human-readable name of the motif
+  description:
+    type: string
+    description: Brief description of the motif
+  thompson_reference:
+    type: string
+    description: Reference to Thompson Motif-Index (e.g., 'A1010', 'A1021')
+  category:
+    type: string
+    enum:
+      - mythological
+      - religious
+      - psychological
+      - cultural
+      - symbolic
+      - narrative
+      - character
+      - object
+      - other
+    description: Category of the motif
+  related_motifs:
+    type: array
+    items:
+      type: string
+      description: IDs of related motifs
+  stories_containing:
+    type: array
+    items:
+      type: string
+      description: Story IDs that contain this motif
+  cultural_distribution:
+    type: array
+    items:
+      type: string
+      description: Cultural traditions where this motif appears
+  notes:
+    type: string
+    description: Additional notes about this motif
+

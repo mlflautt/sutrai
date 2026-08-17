@@ -1,0 +1,121 @@
+# Project Schema
+
+$id: project.schema.yaml
+title: Project Schema
+description: Schema for an adaptation project within the Sutrai system
+type: object
+required:
+  - id
+  - title
+  - source_story
+  - status
+  - created_date
+  - last_updated
+
+properties:
+  id:
+    type: string
+    pattern: '^[a-z0-9-]+$'
+    description: Unique identifier for this project (e.g., 'the-flood', 'ragnarok')
+  title:
+    type: string
+    description: Human-readable project title
+  source_story:
+    type: string
+    description: Story ID from the story index (e.g., 'bible-genesis-flood')
+  status:
+    type: string
+    enum:
+      - draft
+      - research
+      - development
+      - pre_production
+      - production
+      - post_production
+      - complete
+    description: Current project phase
+  created_date:
+    type: string
+    format: date
+    description: Project creation date
+  last_updated:
+    type: string
+    format: date
+    description: Last modification date
+  assigned_agents:
+    type: array
+    description: Agent roles assigned to this project
+    items:
+      type: string
+      enum:
+        - curator
+        - researcher
+        - visual-artist
+        - editor
+  deliverables:
+    type: array
+    description: Planned deliverables for this project
+    items:
+      type: string
+      enum:
+        - interpretation
+        - visual-bible
+        - storyboard
+        - shot-manifest
+        - concept-art
+        - animation
+        - voice-audio
+        - music-audio
+        - sfx-audio
+        - rough-cut
+        - final-cut
+        - color-graded
+        - sound-mixed
+  pipeline_version:
+    type: string
+    description: Version of the pipeline used for this project
+  adaptation_approach:
+    type: string
+    description: Brief description of the creative approach
+  target_duration:
+    type: string
+    description: Target runtime (e.g., '5m', '10m', '30s')
+  target_platforms:
+    type: array
+    items:
+      type: string
+      enum:
+        - youtube
+        - instagram
+        - tiktok
+        - installation
+        - web
+        - film-festival
+    description: Intended distribution platforms
+  fidelity_notes:
+    type: string
+    description: Notes on how this adaptation maintains fidelity to the source
+  assets:
+    type: object
+    description: Paths to generated assets
+    properties:
+      concept_art:
+        type: array
+        items:
+          type: string
+      storyboards:
+        type: array
+        items:
+          type: string
+      animations:
+        type: array
+        items:
+          type: string
+      audio:
+        type: array
+        items:
+          type: string
+      edits:
+        type: array
+        items:
+          type: string

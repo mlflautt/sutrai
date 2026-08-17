@@ -1,0 +1,114 @@
+# Source Schema
+
+$id: source.schema.yaml
+title: Source Schema
+description: Schema for a source text in the Sutrai archive
+type: object
+required:
+  - id
+  - title
+  - category
+  - tradition
+  - availability
+
+properties:
+  id:
+    type: string
+    pattern: '^[a-z0-9-]+$'
+    description: Unique identifier for this source
+  title:
+    type: string
+    description: Full title of the source text
+  category:
+    type: string
+    enum:
+      - sacred
+      - mythology
+      - folklore
+      - philosophical
+      - poetry
+      - other
+    description: Category of the source
+  tradition:
+    type: string
+    description: Cultural or religious tradition
+  original_language:
+    type: string
+    description: Original language of the text
+  author:
+    type: string
+    description: Author or attributed author
+  date_composed:
+    type: string
+    description: Approximate date of composition (e.g., 'c. 8th century BCE')
+  date_acquired:
+    type: string
+    format: date
+    description: Date this source was added to the archive
+  source_url:
+    type: string
+    format: uri
+    description: URL where the source was obtained
+  license:
+    type: string
+    description: License status (e.g., 'Public Domain', 'CC-BY-4.0')
+  copyright_status:
+    type: string
+    enum:
+      - public_domain
+      - copyrighted
+      - unknown
+      - fair_use
+      - licensed
+    description: Copyright status
+  file_formats:
+    type: array
+    items:
+      type: string
+      enum:
+        - pdf
+        - txt
+        - epub
+        - html
+        - docx
+    description: Available file formats
+  file_paths:
+    type: object
+    description: Paths to the actual files
+    properties:
+      pdf:
+        type: string
+      txt:
+        type: string
+      epub:
+        type: string
+      html:
+        type: string
+  word_count:
+    type: integer
+    description: Approximate word count
+  extracted_story_count:
+    type: integer
+    description: Number of stories extracted from this source
+  extracted_stories:
+    type: array
+    items:
+      type: string
+      description: Story IDs extracted from this source
+  translations_available:
+    type: array
+    items:
+      type: string
+      description: Source IDs of available translations
+  quality_rating:
+    type: string
+    enum:
+      - high
+      - medium
+      - low
+      - unverified
+    description: Quality rating of this source text
+  notes:
+    type: string
+    description: Additional notes about this source
+

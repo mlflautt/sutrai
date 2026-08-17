@@ -1,0 +1,104 @@
+# Story Schema
+
+$id: story.schema.yaml
+title: Story Schema
+description: Schema for an extracted narrative unit within the Sutrai archive
+type: object
+required:
+  - id
+  - title
+  - source
+  - themes
+  - motifs
+  - adaptation_status
+
+properties:
+  id:
+    type: string
+    pattern: '^[a-z0-9-]+$'
+    description: Unique identifier for this story (e.g., 'bible-genesis-flood')
+  title:
+    type: string
+    description: Human-readable title of this narrative unit
+  summary:
+    type: string
+    description: Brief summary of the story (2-4 sentences)
+  source:
+    type: object
+    properties:
+      name:
+        type: string
+        description: Name of the parent text (e.g., 'Genesis', 'Mahabharata')
+      tradition:
+        type: string
+        description: Cultural/religious tradition
+      original_language:
+        type: string
+        description: Original language of the source text
+      source_text:
+        type: string
+        description: Path to the original text file in the archive
+      translation:
+        type: string
+        description: Path to the translation used
+      reference:
+        type: string
+        description: Verse/chapter/page reference in the source text
+  extracted_units:
+    type: array
+    description: Segments within this story that can be individually addressed
+    items:
+      type: object
+      properties:
+        id:
+          type: string
+        text:
+          type: string
+        reference:
+          type: string
+  themes:
+    type: array
+    description: Thematic tags for cross-cultural comparison
+    items:
+      type: string
+    examples:
+      - creation
+      - flood
+      - sacrifice
+      - transformation
+      - divine-judgment
+      - covenant
+  motifs:
+    type: array
+    description: Motif tags aligned with Thompson Motif-Index where applicable
+    items:
+      type: string
+    examples:
+      - the-flood-hero
+      - the-divine-warning
+      - the-preservation-of-life
+  related_stories:
+    type: array
+    description: References to similar stories across cultures
+    items:
+      type: string
+      description: Story ID of the related narrative
+  cultural_context:
+    type: array
+    description: Cultural/historical context tags
+    items:
+      type: string
+  adaptation_status:
+    type: string
+    enum:
+      - not_started
+      - in_development
+      - in_production
+      - complete
+    description: Current status of any adaptation project for this story
+  adaptation_notes:
+    type: string
+    description: Notes on adaptation potential and direction
+  full_text:
+    type: string
+    description: Full text of the extracted story (optional)

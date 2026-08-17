@@ -1,0 +1,13 @@
+# Sutrai — Motif Index
+
+# Master index of motifs extracted from stories in the archive.
+
+motifs: []
+
+# Example entry:
+# - id: the-flood-hero
+#   name: The Flood Hero
+#   description: A hero who survives a great flood, often with the help of a divine warning
+#   thompson_reference: A1010
+#   category: mythological
+#   cultural_distribution: [Mesopotamian, Hebrew, Greek, Hindu, Mesoamerican]

@@ -1,0 +1,26 @@
+id: project-id
+title: Project Title
+source_story: story-id
+status: draft
+created_date: '2026-01-01'
+last_updated: '2026-01-01'
+pipeline_version: v1.0.0
+adaptation_approach: Brief description of the creative approach
+target_duration: 5m
+target_platforms:
+  - youtube
+  - instagram
+fidelity_notes: Notes on how this adaptation maintains fidelity to the source
+deliverables:
+  - interpretation
+  - visual-bible
+  - storyboard
+  - shot-manifest
+  - audio-plan
+assets:
+  concept_art: []
+  storyboards: []
+  animations: []
+  audio: []
+  edits: []
+notes: Project notes go here

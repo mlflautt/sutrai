@@ -1,0 +1,50 @@
+name: text-acquisition
+version: 1.0.0
+description: Acquire public domain sacred texts from trusted sources
+agent: curator
+inputs:
+  query: string
+  sources: list
+  language: string
+steps:
+  - name: search_for_texts
+    skill: archive/ingest_text
+    params:
+      query: '{{query}}'
+      sources: '{{sources}}'
+      language: '{{language}}'
+    output: search_results.yaml
+
+  - name: verify_public_domain
+    skill: archive/verify_source
+    params:
+      results: '{{search_results}}'
+      target_status: public_domain
+    output: verified_results.yaml
+
+  - name: download_text
+    skill: archive/ingest_text
+    params:
+      results: '{{verified_results}}'
+      output_dir: 'Archive/texts/{{category}}/{{tradition}}/'
+      formats: [pdf, txt, epub]
+    output: downloaded_files.yaml
+
+  - name: extract_metadata
+    skill: archive/ingest_text
+    params:
+      files: '{{downloaded_files}}'
+    output: metadata.yaml
+
+  - name: add_to_source_index
+    skill: archive/maintain_index
+    params:
+      metadata: '{{metadata}}'
+      index: System/indexes/source-index.yaml
+    output: updated_index.yaml
+
+  - name: generate_source_summary
+    skill: research/research_context
+    params:
+      text: '{{downloaded_files}}'
+    output: summary.md

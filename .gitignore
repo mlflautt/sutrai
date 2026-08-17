@@ -1,0 +1,166 @@
+# ============================================================
+# Sutrai .gitignore
+# ============================================================
+# Large media files (synced via alternative backup only)
+# ============================================================
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.svg
+*.tiff
+*.ico
+*.heic
+*.heif
+
+# Video
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.webm
+*.flv
+
+# Audio
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.m4a
+*.wma
+
+# Large document formats (source texts)
+*.pdf
+*.epub
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.odt
+*.ods
+*.odp
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Edit project files
+*.drp
+*.fcp
+*.prproj
+*.fcpxml
+
+# ComfyUI output (if applicable)
+*/output/
+*/models/
+
+# Environment files
+.env
+.env.local
+.env.production
+.envrc
+
+# Cache and temporary files
+.cache/
+cache/
+tmp/
+temp/
+*.tmp
+*.log
+*.bak
+*.backup
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+ntuser.dat*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# Node.js
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ============================================================
+# Directory-level ignores (large content directories)
+# ============================================================
+
+# Ignore all generated media assets
+Creative/concept-art/**
+Creative/animations/**
+Creative/storyboards/**
+Creative/audio/**
+Creative/edits/**
+
+# Ignore archive text files (managed separately)
+Archive/texts/**
+Archive/translations/**
+Archive/commentaries/**
+
+# Ignore project assets
+Projects/*/edit/**
+Projects/*/exports/**
+
+# Ignore existing media assets (to be migrated)
+Background Assets/**
+Logos/**
+Thoth/**
+
+# Ignore system logs
+System/logs/**
+
+# ============================================================
+# KEEP these directories tracked (with .gitkeep if empty)
+# ============================================================
+
+# Keep directory structure with .gitkeep
+!Creative/concept-art/.gitkeep
+!Creative/animations/.gitkeep
+!Creative/storyboards/.gitkeep
+!Creative/audio/voice/.gitkeep
+!Creative/audio/music/.gitkeep
+!Creative/audio/sfx/.gitkeep
+!Creative/edits/.gitkeep
+!Archive/texts/.gitkeep
+!Archive/translations/.gitkeep
+!Archive/commentaries/.gitkeep
+!Projects/_template/edit/.gitkeep
+!Projects/_template/exports/.gitkeep
+!System/logs/.gitkeep
+
+# Keep all markdown and data files
+!*.md
+!*.yaml
+!*.yml
+!*.json
+
+# Keep documentation
+!Docs/**
+!System/docs/**

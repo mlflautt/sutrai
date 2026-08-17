@@ -1,0 +1,16 @@
+# Sutrai — Source Index
+
+# Master index of all source texts in the archive.
+# Each entry references files in Archive/texts/ or Archive/translations/.
+
+sources: []
+
+# Example entry:
+# - id: bible-kjv
+#   title: King James Bible
+#   category: sacred
+#   tradition: Christian
+#   original_language: Hebrew/Greek
+#   license: Public Domain
+#   file_formats: [pdf, txt, epub]
+#   extracted_story_count: 0

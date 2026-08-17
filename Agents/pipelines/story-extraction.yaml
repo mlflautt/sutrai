@@ -1,0 +1,62 @@
+name: story-extraction
+version: 1.0.0
+description: Segment source texts into addressable narrative units
+agents:
+  - curator
+  - researcher
+inputs:
+  source_id: string
+steps:
+  - name: load_source_text
+    skill: archive/extract_story
+    params:
+      source_id: '{{source_id}}'
+    output: full_text.txt
+
+  - name: identify_units
+    skill: archive/extract_story
+    params:
+      text: '{{full_text}}'
+      segmentation_rules:
+        - chapter_boundaries
+        - episode_boundaries
+        - parable_boundaries
+        - scene_boundaries
+    output: narrative_units.yaml
+
+  - name: extract_each_unit
+    skill: archive/extract_story
+    params:
+      units: '{{narrative_units}}'
+      include_context: true
+      context_window: 2
+    output: extracted_stories/
+
+  - name: auto_tag_stories
+    skill: research/research_context
+    params:
+      stories: '{{extracted_stories}}'
+      tag_with:
+        - themes
+        - motifs
+        - characters
+        - symbols
+        - cultural_context
+    output: tagged_stories/
+
+  - name: build_relationships
+    skill: research/find_related_motifs
+    params:
+      stories: '{{tagged_stories}}'
+      motif_index: System/indexes/motif-index.yaml
+    output: relationships.yaml
+
+  - name: update_indexes
+    skill: archive/maintain_index
+    params:
+      stories: '{{tagged_stories}}'
+      relationships: '{{relationships}}'
+      indexes:
+        - System/indexes/story-index.yaml
+        - System/indexes/motif-index.yaml
+    output: updated_indexes.yaml

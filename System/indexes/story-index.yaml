@@ -1,0 +1,14 @@
+# Sutrai — Story Index
+
+# Master index of all extracted stories in the archive.
+# Each entry references a story file in Stories/by-source/ or Stories/by-theme/.
+
+stories: []
+
+# Example entry:
+# - id: bible-genesis-flood
+#   title: The Flood
+#   source: bible/genesis
+#   themes: [creation, flood, divine-judgment]
+#   motifs: [the-flood-hero, the-divine-warning]
+#   adaptation_status: not_started
