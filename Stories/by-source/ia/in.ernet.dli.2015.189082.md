@@ -1061,7 +1061,13 @@ extracted_units:
     fcap 8vo 2 s. 6 d. Ouseley ( Sir F. A . Gore, Bart!). A Treatise on H...
 id: ia-in.ernet.dli.2015.189082
 motifs:
-- to-be-classified
+  - god-of-love
+  - god-of-all
+  - god-of-one
+  - god-of-folly
+  - god-of-something
+  - god-of-desert
+  - god-of-somebody
 source:
   name: Sacred Books Of The East
   original_language: English (translation)
@@ -1069,7 +1075,15 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.189082.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - love-romantic
+  - water
+  - war
+  - forgiveness
+  - forest
+  - rain
+  - hero-journey
+  - first-humans
+  - sin
 title: Sacred Books Of The East
 ---
 

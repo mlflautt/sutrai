@@ -171,7 +171,8 @@ extracted_units:
     28. Warrefield, 242. "Water-dress", Brian's, 104. Waves...
 id: ia-mythologyofbriti00squiuoft
 motifs:
-- to-be-classified
+  - god-of-somebody
+  - god-of-something
 source:
   name: The Mythology Of The
   original_language: English (translation)
@@ -179,7 +180,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/mythologyofbriti00squiuoft.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - celtic-mythology
 title: The Mythology Of The
 ---
 

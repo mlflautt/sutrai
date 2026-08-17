@@ -63,7 +63,9 @@ extracted_units:
     119, 127, 155, 188 ; Little, 36. Snowy-mountain-meu—Tokharas t ‘Téacr...
 id: ia-dli.ministry.10650
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-folly
+  - god-of-something
 source:
   name: The Western World
   original_language: English (translation)
@@ -71,7 +73,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/dli.ministry.10650.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - sin
 title: The Western World
 ---
 

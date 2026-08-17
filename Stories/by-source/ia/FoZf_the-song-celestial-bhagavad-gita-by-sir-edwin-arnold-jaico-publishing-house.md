@@ -211,7 +211,8 @@ extracted_units:
     unsurpassed in his mastery over the depiction of life of peasant mas...
 id: ia-FoZf_the-song-celestial-bhagavad-gita-by-sir-edwin-arnold-jaico-publishing-house
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-something
 source:
   name: Translated From The Sanskrit Text
   original_language: English (translation)
@@ -219,7 +220,8 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/FoZf_the-song-celestial-bhagavad-gita-by-sir-edwin-arnold-jaico-publishing-house.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - wonder
+  - kingship
 title: Translated From The Sanskrit Text
 ---
 

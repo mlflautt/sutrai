@@ -374,7 +374,7 @@ extracted_units:
     cloth, $^.^0 net. No. I. Sympathetic Strikes and Sym- pathetic Locko...
 id: ia-brahmanastudyon00grisgoog
 motifs:
-- to-be-classified
+
 source:
   name: Cornell Studies In Philosophy
   original_language: English (translation)
@@ -382,7 +382,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/brahmanastudyon00grisgoog.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - buddhist-teachings
 title: Cornell Studies In Philosophy
 ---
 

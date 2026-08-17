@@ -1191,7 +1191,12 @@ extracted_units:
     ; also what N&r£Lyana spoke to the bighsouled N&rada is also said...
 id: ia-in.ernet.dli.2015.463317
 motifs:
-- to-be-classified
+  - god-of-rain
+  - god-of-one
+  - god-of-folly
+  - god-of-something
+  - god-of-somebody
+  - god-of-creation
 source:
   name: Translated By Various Sanskrit Scholars
   original_language: English (translation)
@@ -1199,7 +1204,23 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.463317.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - etiological-myth
+  - water
+  - war
+  - creation
+  - omen
+  - hell
+  - mountain
+  - ritual
+  - moon
+  - wonder
+  - vedic-hymns
+  - origin-of-death
+  - sun
+  - kingship
+  - godhood
+  - fire
+  - sin
 title: Translated By Various Sanskrit Scholars
 ---
 

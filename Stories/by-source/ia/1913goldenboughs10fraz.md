@@ -406,7 +406,7 @@ extracted_units:
     U'i.n 1/ *-' * "''* '*', it,4 ;J* ■'* . 1...
 id: ia-1913goldenboughs10fraz
 motifs:
-- to-be-classified
+
 source:
   name: The Golden Bough
   original_language: English (translation)
@@ -414,7 +414,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/1913goldenboughs10fraz.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - magic
 title: The Golden Bough
 ---
 

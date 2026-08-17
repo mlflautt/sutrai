@@ -6262,7 +6262,16 @@ extracted_units:
     taken from the sacred canon of the Buddhists. Vou. XII. The Satap...
 id: ia-relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
 motifs:
-- to-be-classified
+  - god-of-rain
+  - god-of-all
+  - god-of-war
+  - god-of-folly
+  - god-of-one
+  - god-of-something
+  - fire-deity
+  - god-of-desert
+  - god-of-somebody
+  - god-of-creation
 source:
   name: A Princeton N J
   original_language: English (translation)
@@ -6270,7 +6279,41 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - love-romantic
+  - marriage
+  - forest
+  - sun
+  - fire
+  - clan
+  - prayer
+  - magic
+  - war
+  - sacrifice
+  - creation
+  - omen
+  - wind
+  - fear
+  - heaven
+  - earth
+  - grief
+  - curse
+  - godhood
+  - sin
+  - dragon-slaying
+  - storm
+  - water
+  - dream
+  - rain
+  - origin-of-death
+  - stars
+  - first-humans
+  - moon
+  - mountain
+  - wonder
+  - hero-journey
+  - zen
+  - kingship
+  - ritual
 title: A Princeton N J
 ---
 

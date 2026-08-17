@@ -522,7 +522,7 @@ extracted_units:
     Yacatecutli, whose name means ** lord of travelers," or ** the lord who...
 id: ia-rigvedaamerican00bringoog
 motifs:
-- to-be-classified
+
 source:
   name: 'Rig Veda Americanus: Sacred Songs of the Ancient Mexicans'
   original_language: English (translation)
@@ -530,7 +530,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/rigvedaamerican00bringoog.txt
   tradition: Mesoamerican
 themes:
-- to-be-classified
+  - sin
 title: 'Rig Veda Americanus: Sacred Songs of the Ancient Mexicans'
 ---
 

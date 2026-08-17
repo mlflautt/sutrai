@@ -391,7 +391,8 @@ extracted_units:
     Only a few were killed in the upper half of the town...
 id: ia-chinooktext00boas
 motifs:
-- to-be-classified
+  - god-of-justice
+  - god-of-something
 source:
   name: Bureau Of Ethnology
   original_language: English (translation)
@@ -399,7 +400,8 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/chinooktext00boas.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - water
+  - sin
 title: Bureau Of Ethnology
 ---
 

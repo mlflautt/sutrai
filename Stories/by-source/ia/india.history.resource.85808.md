@@ -363,7 +363,11 @@ extracted_units:
     sr, forte: By) cee ene Sa | been oe ee we fete Pe & etee || eer e...'
 id: ia-india.history.resource.85808
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-folly
+  - creator-god
+  - god-of-something
+  - god-of-somebody
 source:
   name: Rpradsl Dios Ross Ee Ee
   original_language: English (translation)
@@ -371,7 +375,27 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/india.history.resource.85808.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - war
+  - creation
+  - omen
+  - hell
+  - prophecy
+  - heaven
+  - resurrection
+  - godhood
+  - wisdom
+  - water
+  - dream
+  - lawgiving
+  - first-humans
+  - greek-mythology
+  - islamic-tradition
+  - wonder
+  - divine-reward
+  - social-customs
+  - flood
+  - last-judgment
+  - ritual
 title: Rpradsl Dios Ross Ee Ee
 ---
 

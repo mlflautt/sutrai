@@ -361,7 +361,8 @@ extracted_units:
     called the Mountain of Flowers and Fruits. And on...
 id: ia-chinesefairybook00wilh
 motifs:
-- to-be-classified
+  - god-of-folly
+  - god-of-something
 source:
   name: The Chinese Fairy Book
   original_language: English (translation)
@@ -369,7 +370,10 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/chinesefairybook00wilh.txt
   tradition: Chinese expanded
 themes:
-- to-be-classified
+  - heaven
+  - godhood
+  - water
+  - earth
 title: The Chinese Fairy Book
 ---
 

@@ -447,7 +447,10 @@ extracted_units:
     by Google...
 id: ia-godsandfighting01yeatgoog
 motifs:
-- to-be-classified
+  - thunder-deity
+  - god-of-one
+  - god-of-folly
+  - god-of-something
 source:
   name: Gods and Fighting Men
   original_language: English (translation)
@@ -455,7 +458,8 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/godsandfighting01yeatgoog.txt
   tradition: Celtic
 themes:
-- to-be-classified
+  - kingship
+  - sin
 title: Gods and Fighting Men
 ---
 

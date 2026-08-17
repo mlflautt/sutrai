@@ -131,7 +131,7 @@ extracted_units:
     **# ;.,.™_ . y/ / s s ,0 ^ * o * K...
 id: ia-morecelticfairyt00jaco_1
 motifs:
-- to-be-classified
+  - god-of-something
 source:
   name: More Celtic Fairy Tales
   original_language: English (translation)
@@ -139,7 +139,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/morecelticfairyt00jaco_1.txt
   tradition: Celtic
 themes:
-- to-be-classified
+  - fire
 title: More Celtic Fairy Tales
 ---
 

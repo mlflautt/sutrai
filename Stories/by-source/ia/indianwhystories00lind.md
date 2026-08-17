@@ -771,7 +771,9 @@ extracted_units:
     again, until the last of flesh or muscle disappeared...
 id: ia-indianwhystories00lind
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-folly
+  - god-of-something
 source:
   name: Indian Why Stories
   original_language: English (translation)
@@ -779,7 +781,15 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/indianwhystories00lind.txt
   tradition: Native American
 themes:
-- to-be-classified
+  - etiological-myth
+  - water
+  - war
+  - mountain
+  - wonder
+  - rain
+  - earth-diver
+  - stars
+  - fire
 title: Indian Why Stories
 ---
 

@@ -99,7 +99,11 @@ extracted_units:
     help. in Paipp. 467 vii. I >3- BOOK VII. THE ATHARV...'
 id: ia-pli.kerala.rare.25896
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-folly
+  - god-of-something
+  - fire-deity
+  - god-of-creation
 source:
   name: Atharvaveda Sam Hit A
   original_language: English (translation)
@@ -107,7 +111,12 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/pli.kerala.rare.25896.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - wind
+  - omen
+  - creation
+  - dream
+  - ritual
+  - sin
 title: Atharvaveda Sam Hit A
 ---
 

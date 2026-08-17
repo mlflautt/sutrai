@@ -7,7 +7,7 @@ extracted_units:
     AUTHOR. it Snbtrnosfi : A. & W. MACKENZIE. 1885. ^-^n^i^...'
 id: ia-celticmythology00macbgoog
 motifs:
-- to-be-classified
+  - thunder-deity
 source:
   name: Alexander A C B A I N
   original_language: English (translation)
@@ -15,7 +15,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/celticmythology00macbgoog.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+
 title: Alexander A C B A I N
 ---
 

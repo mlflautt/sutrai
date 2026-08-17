@@ -295,7 +295,7 @@ extracted_units:
     7 doyi ^^ DATE DUE 88U MAR.- 7 «M 280 JUN If N0V2 31S9J...
 id: ia-russianfolktale01ralsgoog
 motifs:
-- to-be-classified
+  - god-of-something
 source:
   name: Russian Folk-Tales
   original_language: English (translation)
@@ -303,7 +303,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/russianfolktale01ralsgoog.txt
   tradition: Slavic
 themes:
-- to-be-classified
+
 title: Russian Folk-Tales
 ---
 

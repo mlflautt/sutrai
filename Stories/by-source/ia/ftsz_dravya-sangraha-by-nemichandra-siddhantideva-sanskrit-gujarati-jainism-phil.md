@@ -11,7 +11,7 @@ extracted_units:
     वगेरे ३५ 8 अने [परिण मादिलक्ष्यः] परिणुभन गाई कक्ष्णुथी व्यश शङाय || [स...
 id: ia-ftsz_dravya-sangraha-by-nemichandra-siddhantideva-sanskrit-gujarati-jainism-phil
 motifs:
-- to-be-classified
+  - to-be-classified
 source:
   name: Dravya-Sangraha
   original_language: English (translation)
@@ -19,7 +19,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/ftsz_dravya-sangraha-by-nemichandra-siddhantideva-sanskrit-gujarati-jainism-phil.txt
   tradition: Jain
 themes:
-- to-be-classified
+  - to-be-classified
 title: Dravya-Sangraha
 ---
 

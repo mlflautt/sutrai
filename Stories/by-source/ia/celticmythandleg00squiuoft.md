@@ -270,7 +270,8 @@ extracted_units:
     (3) • (strong). (4) ; (emphatic). Bo Cymr...'
 id: ia-celticmythandleg00squiuoft
 motifs:
-- to-be-classified
+  - god-of-somebody
+  - god-of-something
 source:
   name: Celtic Myth and Legend, Poetry and Romance
   original_language: English (translation)
@@ -278,7 +279,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/celticmythandleg00squiuoft.txt
   tradition: Celtic
 themes:
-- to-be-classified
+  - celtic-mythology
 title: Celtic Myth and Legend, Poetry and Romance
 ---
 

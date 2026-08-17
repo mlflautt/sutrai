@@ -7,7 +7,7 @@ extracted_units:
     ^ 15 56५1626 60 1085 8 क ह == न, ~ ४ न्क „>~ = > (] 9 = , (...
 id: ia-satapatha-brahmana-part-i
 motifs:
-- to-be-classified
+  - to-be-classified
 source:
   name: The Satapatha-Brahmana, Part I
   original_language: English (translation)
@@ -15,7 +15,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/satapatha-brahmana-part-i.txt
   tradition: Hindu / Vedic
 themes:
-- to-be-classified
+  - to-be-classified
 title: The Satapatha-Brahmana, Part I
 ---
 

@@ -231,7 +231,7 @@ extracted_units:
     in the background, the book gives, in a most interesting way, the yo...
 id: ia-hawaiianfolktal00unkngoog
 motifs:
-- to-be-classified
+  - god-of-something
 source:
   name: Hawaiian Folk Tales
   original_language: English (translation)
@@ -239,7 +239,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/hawaiianfolktal00unkngoog.txt
   tradition: Polynesian / Oceanian
 themes:
-- to-be-classified
+  - first-humans
 title: Hawaiian Folk Tales
 ---
 

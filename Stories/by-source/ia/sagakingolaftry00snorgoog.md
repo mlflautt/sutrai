@@ -310,7 +310,7 @@ extracted_units:
     209, 259, 310, 332, 335 Ygg, a name of Odin,...
 id: ia-sagakingolaftry00snorgoog
 motifs:
-- to-be-classified
+  - to-be-classified
 source:
   name: The Saga Of
   original_language: English (translation)
@@ -318,7 +318,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/sagakingolaftry00snorgoog.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - to-be-classified
 title: The Saga Of
 ---
 

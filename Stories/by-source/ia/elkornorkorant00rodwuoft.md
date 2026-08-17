@@ -46,7 +46,8 @@ extracted_units:
     ; Ixvi. 12 (604). — Her fcson, the Messiah, v....
 id: ia-elkornorkorant00rodwuoft
 motifs:
-- to-be-classified
+  - god-of-desert
+  - god-of-folly
 source:
   name: Coiln In Swi Iji
   original_language: English (translation)
@@ -54,7 +55,8 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/elkornorkorant00rodwuoft.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - fear
+  - godhood
 title: Coiln In Swi Iji
 ---
 

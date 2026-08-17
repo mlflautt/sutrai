@@ -83,7 +83,8 @@ extracted_units:
     117 — of Gihematii, 1J7 NaOA (01 #*t>« at) net, Sr...'
 id: ia-CustomAndMyth
 motifs:
-- to-be-classified
+  - god-of-folly
+  - god-of-something
 source:
   name: Custom and Myth
   original_language: English (translation)
@@ -91,7 +92,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/CustomAndMyth.txt
   tradition: Comparative mythology
 themes:
-- to-be-classified
+  - sin
 title: Custom and Myth
 ---
 

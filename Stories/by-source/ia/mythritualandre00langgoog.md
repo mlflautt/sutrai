@@ -107,7 +107,7 @@ extracted_units:
     to show in what region or where they were originally invented. The...
 id: ia-mythritualandre00langgoog
 motifs:
-- to-be-classified
+  - god-of-something
 source:
   name: Myth, Ritual and Religion
   original_language: English (translation)
@@ -115,7 +115,9 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/mythritualandre00langgoog.txt
   tradition: Comparative mythology
 themes:
-- to-be-classified
+  - godhood
+  - ritual
+  - clan
 title: Myth, Ritual and Religion
 ---
 

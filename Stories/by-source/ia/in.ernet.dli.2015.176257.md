@@ -379,7 +379,12 @@ extracted_units:
     practised Yoga with all its eight essen- tial components, now hear me dis...'
 id: ia-in.ernet.dli.2015.176257
 motifs:
-- to-be-classified
+  - god-of-preservation
+  - god-of-folly
+  - god-of-something
+  - god-of-transformation
+  - god-of-somebody
+  - god-of-creation
 source:
   name: Qaruda Pur Apa
   original_language: English (translation)
@@ -387,7 +392,14 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.176257.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - water
+  - vedic-hymns
+  - moon
+  - origin-of-death
+  - lawgiving
+  - kingship
+  - godhood
+  - sin
 title: Qaruda Pur Apa
 ---
 

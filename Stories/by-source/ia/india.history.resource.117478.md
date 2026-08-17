@@ -35,7 +35,7 @@ extracted_units:
     vessel, he is born a worm; aud- for stealing a garment of woven silk he be...
 id: ia-india.history.resource.117478
 motifs:
-- to-be-classified
+  - god-of-something
 source:
   name: Huan Um A Na
   original_language: English (translation)
@@ -43,7 +43,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/india.history.resource.117478.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+
 title: Huan Um A Na
 ---
 

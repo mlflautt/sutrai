@@ -31,7 +31,7 @@ extracted_units:
     Return this material to the library from whi...
 id: ia-myths-myth-makers
 motifs:
-- to-be-classified
+  - to-be-classified
 source:
   name: Myths And Mythmakers
   original_language: English (translation)
@@ -39,7 +39,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/myths-myth-makers.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - to-be-classified
 title: Myths And Mythmakers
 ---
 

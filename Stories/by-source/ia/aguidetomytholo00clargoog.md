@@ -283,7 +283,16 @@ extracted_units:
     Cixy, N. Y. ^ r >...
 id: ia-aguidetomytholo00clargoog
 motifs:
-- to-be-classified
+  - god-of-moon
+  - god-of-rain
+  - god-of-all
+  - god-of-one
+  - god-of-folly
+  - god-of-something
+  - sky-father
+  - god-of-beauty
+  - goddess-of-harvest
+  - god-of-somebody
 source:
   name: A Guide To Mythology
   original_language: English (translation)
@@ -291,7 +300,27 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/aguidetomytholo00clargoog.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - love-romantic
+  - vedic-hymns
+  - sun
+  - native-american-mythology
+  - war
+  - wind
+  - japanese-mythology
+  - earth
+  - godhood
+  - sin
+  - dragon-slaying
+  - storm
+  - water
+  - dream
+  - greek-mythology
+  - stars
+  - first-humans
+  - moon
+  - hero-journey
+  - earth-diver
+  - kingship
 title: A Guide To Mythology
 ---
 

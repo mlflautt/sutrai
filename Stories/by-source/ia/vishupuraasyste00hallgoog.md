@@ -199,7 +199,13 @@ extracted_units:
     KESIN, confiding in his prowess, having received the commands of Eamsa,...'
 id: ia-vishupuraasyste00hallgoog
 motifs:
-- to-be-classified
+  - god-of-rain
+  - god-of-preservation
+  - god-of-all
+  - god-of-one
+  - god-of-folly
+  - god-of-something
+  - god-of-creation
 source:
   name: Hindu Mythology And Tradition
   original_language: English (translation)
@@ -207,7 +213,19 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/vishupuraasyste00hallgoog.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - dragon-slaying
+  - love-romantic
+  - water
+  - war
+  - mountain
+  - omen
+  - forest
+  - moon
+  - rain
+  - origin-of-death
+  - kingship
+  - godhood
+  - sin
 title: Hindu Mythology And Tradition
 ---
 

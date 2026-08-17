@@ -171,7 +171,9 @@ extracted_units:
     following points respecting the pronunciation of proper...
 id: ia-ancientirishepi00dunn
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-folly
+  - god-of-something
 source:
   name: The Ancient Irish Epic Tale Táin Bó Cúalnge
   original_language: English (translation)
@@ -179,7 +181,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/ancientirishepi00dunn.txt
   tradition: Celtic
 themes:
-- to-be-classified
+  - war
 title: The Ancient Irish Epic Tale Táin Bó Cúalnge
 ---
 

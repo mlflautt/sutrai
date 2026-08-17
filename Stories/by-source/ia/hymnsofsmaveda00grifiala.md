@@ -1658,7 +1658,17 @@ extracted_units:
     248, Yajamdna, 35, 239. Vdyu, 94, 97, 98, 139, 250...
 id: ia-hymnsofsmaveda00grifiala
 motifs:
-- to-be-classified
+  - god-of-rain
+  - god-of-preservation
+  - god-of-all
+  - god-of-war
+  - god-of-folly
+  - god-of-one
+  - god-of-something
+  - fire-deity
+  - god-of-transformation
+  - god-of-desert
+  - god-of-creation
 source:
   name: Hymns Of The Samaveda
   original_language: English (translation)
@@ -1666,7 +1676,29 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/hymnsofsmaveda00grifiala.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - love-romantic
+  - sun
+  - fire
+  - prayer
+  - war
+  - sacrifice
+  - wind
+  - fear
+  - heaven
+  - earth
+  - godhood
+  - sin
+  - wisdom
+  - storm
+  - water
+  - rain
+  - lawgiving
+  - trickster
+  - wonder
+  - hero-journey
+  - blessing
+  - kingship
+  - ritual
 title: Hymns Of The Samaveda
 ---
 

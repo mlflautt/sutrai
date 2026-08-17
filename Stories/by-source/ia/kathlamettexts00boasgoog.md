@@ -95,7 +95,8 @@ extracted_units:
     a large snake. The roots are transformed into small snakes, which follow...
 id: ia-kathlamettexts00boasgoog
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-folly
 source:
   name: Kathlamet Texts
   original_language: English (translation)
@@ -103,7 +104,9 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/kathlamettexts00boasgoog.txt
   tradition: Native American
 themes:
-- to-be-classified
+  - trickster
+  - water
+  - sin
 title: Kathlamet Texts
 ---
 

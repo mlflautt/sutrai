@@ -2738,7 +2738,14 @@ extracted_units:
     UNh LIB...'
 id: ia-in.ernet.dli.2015.152304
 motifs:
-- to-be-classified
+  - god-of-all
+  - god-of-war
+  - god-of-folly
+  - god-of-one
+  - god-of-something
+  - god-of-back
+  - thunder-deity
+  - god-of-somebody
 source:
   name: Sacred Books Of The East
   original_language: English (translation)
@@ -2746,7 +2753,31 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.152304.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - marriage
+  - sun
+  - joy
+  - fire
+  - divine-punishment
+  - war
+  - creation
+  - wind
+  - hell
+  - heaven
+  - family
+  - resurrection
+  - sin
+  - water
+  - rain
+  - lawgiving
+  - stars
+  - first-humans
+  - etiological-myth
+  - moon
+  - miracle
+  - hero-journey
+  - kingship
+  - zoroastrianism
+  - ritual
 title: Sacred Books Of The East
 ---
 

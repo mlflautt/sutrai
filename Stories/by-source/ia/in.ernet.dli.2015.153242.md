@@ -3255,7 +3255,12 @@ extracted_units:
     tciken from the sacred canon of the Buddhists. VOL. XII. The vS’a...
 id: ia-in.ernet.dli.2015.153242
 motifs:
-- to-be-classified
+  - god-of-all
+  - god-of-one
+  - god-of-folly
+  - creator-god
+  - god-of-something
+  - thunder-deity
 source:
   name: The Text Is Fly
   original_language: English (translation)
@@ -3263,7 +3268,25 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.153242.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - love-romantic
+  - sun
+  - fire
+  - prayer
+  - war
+  - creation
+  - heaven
+  - earth
+  - curse
+  - godhood
+  - sin
+  - wisdom
+  - water
+  - origin-of-death
+  - stars
+  - etiological-myth
+  - first-humans
+  - moon
+  - kingship
 title: The Text Is Fly
 ---
 

@@ -571,7 +571,9 @@ extracted_units:
     Malcolm Canmore (Langhals), 46, 55, 71, 86. the Maiden, 108, 1...
 id: ia-india.history.resource.87271
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-folly
+  - god-of-something
 source:
   name: Nct To Be Issued Out
   original_language: English (translation)
@@ -579,7 +581,8 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/india.history.resource.87271.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - kingship
+  - war
 title: Nct To Be Issued Out
 ---
 

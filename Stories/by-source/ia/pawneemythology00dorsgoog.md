@@ -1019,7 +1019,9 @@ extracted_units:
     he will find artichokes, and White Rat where he wi...
 id: ia-pawneemythology00dorsgoog
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-folly
+  - god-of-something
 source:
   name: 'The Pawnee: Mythology'
   original_language: English (translation)
@@ -1027,7 +1029,10 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/pawneemythology00dorsgoog.txt
   tradition: Native American
 themes:
-- to-be-classified
+  - trickster
+  - stars
+  - war
+  - wind
 title: 'The Pawnee: Mythology'
 ---
 

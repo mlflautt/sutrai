@@ -203,7 +203,7 @@ extracted_units:
     Tyndall. Second Edition. Crown 8vo. Cloth, price 3*. dd. WHITNEY...
 id: ia-slavonicfairyta00naakgoog
 motifs:
-- to-be-classified
+  - god-of-something
 source:
   name: Slavonic Fairy Tales
   original_language: English (translation)
@@ -211,7 +211,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/slavonicfairyta00naakgoog.txt
   tradition: Slavic
 themes:
-- to-be-classified
+  - mountain
 title: Slavonic Fairy Tales
 ---
 

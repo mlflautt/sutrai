@@ -39,7 +39,8 @@ extracted_units:
     O mighty-armed! to know severally the essence of renunciation,* O...'
 id: ia-bhagavadgt00besagoog
 motifs:
-- to-be-classified
+  - god-of-something
+  - god-of-creation
 source:
   name: The Bhagavad Gita
   original_language: English (translation)
@@ -47,7 +48,8 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/bhagavadgt00besagoog.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - kingship
+  - sacrifice
 title: The Bhagavad Gita
 ---
 

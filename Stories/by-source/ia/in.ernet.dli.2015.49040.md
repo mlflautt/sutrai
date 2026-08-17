@@ -1050,7 +1050,14 @@ extracted_units:
     OF ORIENTAL ALPHABETS u5p«n- Dentales modifica...
 id: ia-in.ernet.dli.2015.49040
 motifs:
-- to-be-classified
+  - god-of-rain
+  - god-of-all
+  - god-of-war
+  - god-of-folly
+  - god-of-one
+  - god-of-something
+  - god-of-desert
+  - god-of-creation
 source:
   name: Sacred Books Of The East
   original_language: English (translation)
@@ -1058,7 +1065,24 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.49040.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - wisdom
+  - storm
+  - water
+  - war
+  - creation
+  - omen
+  - wonder
+  - vedic-hymns
+  - heaven
+  - family
+  - earth
+  - hero-journey
+  - joy
+  - buddhist-teachings
+  - lawgiving
+  - kingship
+  - godhood
+  - sin
 title: Sacred Books Of The East
 ---
 

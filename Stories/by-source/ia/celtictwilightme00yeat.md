@@ -39,7 +39,7 @@ extracted_units:
     Dr. Hyde contrasts with certain tales of Indian j...
 id: ia-celtictwilightme00yeat
 motifs:
-- to-be-classified
+  - to-be-classified
 source:
   name: The Celtic Twilight
   original_language: English (translation)
@@ -47,7 +47,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/celtictwilightme00yeat.txt
   tradition: Celtic
 themes:
-- to-be-classified
+  - to-be-classified
 title: The Celtic Twilight
 ---
 

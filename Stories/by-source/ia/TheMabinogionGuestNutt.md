@@ -1463,7 +1463,8 @@ extracted_units:
     • 3§s2F ■ \ , C* >1 4 > leK&nfM iilfp -..»■ 3 UJ...
 id: ia-TheMabinogionGuestNutt
 motifs:
-- to-be-classified
+  - god-of-somebody
+  - god-of-something
 source:
   name: The Mabinogion
   original_language: English (translation)
@@ -1471,7 +1472,10 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/TheMabinogionGuestNutt.txt
   tradition: Celtic
 themes:
-- to-be-classified
+  - omen
+  - hell
+  - love-romantic
+  - sin
 title: The Mabinogion
 ---
 

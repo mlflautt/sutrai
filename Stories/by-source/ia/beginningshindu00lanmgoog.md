@@ -15,7 +15,7 @@ extracted_units:
     OF CALIFORNIA, BERKELEY BERKELEY, CA 94720 ®«...
 id: ia-beginningshindu00lanmgoog
 motifs:
-- to-be-classified
+  - god-of-folly
 source:
   name: Beginnings Of Hindu Pantheism
   original_language: English (translation)
@@ -23,7 +23,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/beginningshindu00lanmgoog.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+
 title: Beginnings Of Hindu Pantheism
 ---
 

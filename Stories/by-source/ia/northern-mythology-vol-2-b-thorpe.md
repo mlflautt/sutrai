@@ -247,7 +247,8 @@ extracted_units:
     anecdotes of, 252. ups, re forthe, 277. (St) of Slagels...
 id: ia-northern-mythology-vol-2-b-thorpe
 motifs:
-- to-be-classified
+  - god-of-all
+  - god-of-something
 source:
   name: Northern Mythology
   original_language: English (translation)
@@ -255,7 +256,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/northern-mythology-vol-2-b-thorpe.txt
   tradition: Norse / Germanic
 themes:
-- to-be-classified
+  - wind
 title: Northern Mythology
 ---
 

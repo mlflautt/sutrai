@@ -1635,7 +1635,15 @@ extracted_units:
     , 3. AtOrpadakan, land, Zs, 16 , la ; 22 , 911. Afiharmasf/, Int. 4-...
 id: ia-in.ernet.dli.2015.499399
 motifs:
-- to-be-classified
+  - god-of-love
+  - god-of-all
+  - god-of-one
+  - god-of-folly
+  - creator-god
+  - god-of-something
+  - thunder-deity
+  - god-of-somebody
+  - god-of-creation
 source:
   name: J Delhi University J
   original_language: English (translation)
@@ -1643,7 +1651,23 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.499399.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - wisdom
+  - magic
+  - water
+  - war
+  - zoroastrianism
+  - omen
+  - vedic-hymns
+  - ritual
+  - earth
+  - origin-of-death
+  - hero-journey
+  - jain-cosmology
+  - buddhist-teachings
+  - lawgiving
+  - kingship
+  - first-humans
+  - sin
 title: J Delhi University J
 ---
 

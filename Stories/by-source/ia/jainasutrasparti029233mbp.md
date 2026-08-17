@@ -382,7 +382,13 @@ extracted_units:
     They are allowed to stay in some intermediate place, but not to pass the...
 id: ia-jainasutrasparti029233mbp
 motifs:
-- to-be-classified
+  - god-of-rain
+  - god-of-all
+  - god-of-one
+  - god-of-folly
+  - god-of-something
+  - god-of-somebody
+  - god-of-creation
 source:
   name: 'Jaina Sutras, Part I: Acaranga Sutra and Kalpa Sutra'
   original_language: English (translation)
@@ -390,7 +396,14 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/jainasutrasparti029233mbp.txt
   tradition: Jain
 themes:
-- to-be-classified
+  - water
+  - war
+  - vedic-hymns
+  - rain
+  - lawgiving
+  - sun
+  - first-humans
+  - sin
 title: 'Jaina Sutras, Part I: Acaranga Sutra and Kalpa Sutra'
 ---
 

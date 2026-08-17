@@ -814,7 +814,9 @@ extracted_units:
     library from which it was borrowed. QL JAN i6 2001]...
 id: ia-tarjumanalashwaq00ibnaiala
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-folly
+  - god-of-something
 source:
   name: 'The Tarjuman al-Ashwaq: A Collection of Mystical Odes'
   original_language: English (translation)
@@ -822,7 +824,13 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/tarjumanalashwaq00ibnaiala.txt
   tradition: Islamic / Sufi
 themes:
-- to-be-classified
+  - war
+  - wind
+  - omen
+  - grief
+  - sun
+  - earth-diver
+  - islamic-tradition
 title: 'The Tarjuman al-Ashwaq: A Collection of Mystical Odes'
 ---
 

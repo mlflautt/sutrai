@@ -3179,7 +3179,18 @@ extracted_units:
     ‘ The face of the true (purusha in the sun) is covered by a golden disk.’...'
 id: ia-india.history.resource.85913
 motifs:
-- to-be-classified
+  - god-of-rain
+  - god-of-all
+  - god-of-beginning
+  - god-of-hate
+  - creator-god
+  - god-of-folly
+  - god-of-one
+  - god-of-something
+  - fire-deity
+  - god-of-desert
+  - god-of-somebody
+  - god-of-creation
 source:
   name: Ai Bombay Branch H
   original_language: English (translation)
@@ -3187,7 +3198,28 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/india.history.resource.85913.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - love-romantic
+  - forest
+  - sun
+  - fire
+  - war
+  - sacrifice
+  - omen
+  - heaven
+  - family
+  - earth
+  - godhood
+  - sin
+  - storm
+  - water
+  - rain
+  - origin-of-death
+  - liberation
+  - first-humans
+  - etiological-myth
+  - moon
+  - kingship
+  - ritual
 title: Ai Bombay Branch H
 ---
 

@@ -715,7 +715,8 @@ extracted_units:
     611 — 612 Conclusion of the story of Vikramaditya king of Ujjayin...
 id: ia-in.ernet.dli.2015.48856
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-something
 source:
   name: I Sarit Saara
   original_language: English (translation)
@@ -723,7 +724,8 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.48856.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - kingship
+  - fear
 title: I Sarit Saara
 ---
 

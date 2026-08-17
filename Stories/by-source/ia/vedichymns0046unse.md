@@ -3695,7 +3695,14 @@ extracted_units:
     min meena Ye PE “4 fine...
 id: ia-vedichymns0046unse
 motifs:
-- to-be-classified
+  - god-of-rain
+  - god-of-all
+  - god-of-hate
+  - god-of-folly
+  - god-of-one
+  - god-of-something
+  - fire-deity
+  - god-of-desert
 source:
   name: School Of Theology
   original_language: English (translation)
@@ -3703,7 +3710,27 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/vedichymns0046unse.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - love-romantic
+  - vedic-hymns
+  - forest
+  - sun
+  - joy
+  - clan
+  - prayer
+  - war
+  - sacrifice
+  - wind
+  - heaven
+  - earth
+  - godhood
+  - wisdom
+  - water
+  - rain
+  - lawgiving
+  - first-humans
+  - wonder
+  - hero-journey
+  - kingship
 title: School Of Theology
 ---
 

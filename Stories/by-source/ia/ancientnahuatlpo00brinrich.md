@@ -1042,7 +1042,8 @@ extracted_units:
     NPy 1 1 "82 m AU ^^ PEC2 9?nfl3 Ijtl re...
 id: ia-ancientnahuatlpo00brinrich
 motifs:
-- to-be-classified
+  - god-of-all
+  - god-of-something
 source:
   name: Ancient Nahuatl Poetry
   original_language: English (translation)
@@ -1050,7 +1051,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/ancientnahuatlpo00brinrich.txt
   tradition: Mesoamerican
 themes:
-- to-be-classified
+
 title: Ancient Nahuatl Poetry
 ---
 

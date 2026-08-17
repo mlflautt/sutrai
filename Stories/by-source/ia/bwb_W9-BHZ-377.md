@@ -283,7 +283,11 @@ extracted_units:
     the Torres Strait! Islands, New Guinea, and Melanesia. The Gifford Lectur...
 id: ia-bwb_W9-BHZ-377
 motifs:
-- to-be-classified
+  - god-of-moon
+  - god-of-folly
+  - god-of-something
+  - god-of-desert
+  - god-of-creation
 source:
   name: The Magic Art
   original_language: English (translation)
@@ -291,7 +295,12 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/bwb_W9-BHZ-377.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - magic
+  - etiological-myth
+  - hero-journey
+  - kingship
+  - first-humans
+  - godhood
 title: The Magic Art
 ---
 

@@ -115,7 +115,7 @@ extracted_units:
     of this kind to conclude their narrations. Prof. Cran...
 id: ia-morecelticfairyt00jacouoft
 motifs:
-- to-be-classified
+
 source:
   name: More Celtic Fairy Tales
   original_language: English (translation)
@@ -123,7 +123,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/morecelticfairyt00jacouoft.txt
   tradition: Celtic
 themes:
-- to-be-classified
+  - fire
 title: More Celtic Fairy Tales
 ---
 

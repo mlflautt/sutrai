@@ -23,7 +23,7 @@ extracted_units:
     unleis otherwiie itat«d. THE YOUTH OF VERGIL, By K. S....'
 id: ia-norsemythinengli00herf
 motifs:
-- to-be-classified
+  - to-be-classified
 source:
   name: C H Herford Ma Littd
   original_language: English (translation)
@@ -31,7 +31,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/norsemythinengli00herf.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - to-be-classified
 title: C H Herford Ma Littd
 ---
 

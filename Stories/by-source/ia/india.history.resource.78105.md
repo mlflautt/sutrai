@@ -3913,7 +3913,13 @@ extracted_units:
     OCT 00041893 Digitized _ fins eo from the...'
 id: ia-india.history.resource.78105
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-war
+  - god-of-folly
+  - god-of-hate
+  - god-of-something
+  - thunder-deity
+  - god-of-somebody
 source:
   name: Sacred Books Of The East
   original_language: English (translation)
@@ -3921,7 +3927,26 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/india.history.resource.78105.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - love-romantic
+  - joy
+  - prayer
+  - divine-punishment
+  - war
+  - creation
+  - wind
+  - heaven
+  - godhood
+  - sin
+  - wisdom
+  - lawgiving
+  - first-humans
+  - hubris
+  - divine-reward
+  - hero-journey
+  - social-customs
+  - blessing
+  - zen
+  - ritual
 title: Sacred Books Of The East
 ---
 

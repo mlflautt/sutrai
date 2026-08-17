@@ -75,7 +75,7 @@ extracted_units:
     own act or that of others a portion of its body is cleft to the earth ;...
 id: ia-dli.ministry.25748
 motifs:
-- to-be-classified
+
 source:
   name: A Man Mead
   original_language: English (translation)
@@ -83,7 +83,8 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/dli.ministry.25748.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - chinese-mythology
+  - last-judgment
 title: A Man Mead
 ---
 

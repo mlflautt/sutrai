@@ -691,7 +691,17 @@ extracted_units:
     smelled by a cow, or dedicated to one's ancestors, as w...
 id: ia-in.ernet.dli.2015.279469
 motifs:
-- to-be-classified
+  - god-of-preservation
+  - god-of-all
+  - god-of-hate
+  - god-of-folly
+  - god-of-one
+  - god-of-something
+  - fire-deity
+  - god-of-desert
+  - god-of-fire
+  - god-of-somebody
+  - god-of-creation
 source:
   name: T Prose English Translation
   original_language: English (translation)
@@ -699,7 +709,21 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.279469.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - water
+  - war
+  - sacrifice
+  - creation
+  - sun
+  - ritual
+  - family
+  - hero-journey
+  - joy
+  - astrology
+  - lawgiving
+  - kingship
+  - godhood
+  - fire
+  - sin
 title: T Prose English Translation
 ---
 

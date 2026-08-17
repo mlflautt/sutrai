@@ -923,7 +923,12 @@ extracted_units:
     appearance. Bala TagA. Russian witch, also Yaga Bura. Babushka. The gra...
 id: ia-in.ernet.dli.2015.123051
 motifs:
-- to-be-classified
+  - god-of-all
+  - god-of-one
+  - god-of-war
+  - god-of-folly
+  - god-of-something
+  - god-of-desert
 source:
   name: Translated From The Russian
   original_language: English (translation)
@@ -931,7 +936,24 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.123051.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - magic
+  - dragon-slaying
+  - water
+  - divine-punishment
+  - war
+  - harvest
+  - etiological-myth
+  - love-romantic
+  - forest
+  - earth
+  - fire
+  - christian-tradition
+  - sun
+  - kingship
+  - godhood
+  - shape-shifting
+  - sin
+  - prayer
 title: Translated From The Russian
 ---
 

@@ -468,7 +468,8 @@ extracted_units:
     1; to an old woman, XLii. Yellow, = pale, xxxvn. | ♦...
 id: ia-in.ernet.dli.2015.52959
 motifs:
-- to-be-classified
+  - god-of-somebody
+  - god-of-something
 source:
   name: Xoniou C J Cliav And
   original_language: English (translation)
@@ -476,7 +477,11 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.52959.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - war
+  - stars
+  - gnosticism
+  - godhood
+  - sin
 title: Xoniou C J Cliav And
 ---
 

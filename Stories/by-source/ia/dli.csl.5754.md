@@ -347,7 +347,10 @@ extracted_units:
     of WDIA ERRATA. Page XII. J from bottom for hitaya ydne re...
 id: ia-dli.csl.5754
 motifs:
-- to-be-classified
+  - god-of-transformation
+  - god-of-one
+  - god-of-folly
+  - god-of-something
 source:
   name: Tantra Of The Great Liberation
   original_language: English (translation)
@@ -355,7 +358,14 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/dli.csl.5754.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - water
+  - vedic-hymns
+  - ritual
+  - earth
+  - lawgiving
+  - sun
+  - kingship
+  - moon
 title: Tantra Of The Great Liberation
 ---
 

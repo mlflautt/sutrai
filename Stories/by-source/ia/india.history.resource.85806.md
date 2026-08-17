@@ -2462,7 +2462,15 @@ extracted_units:
     necessary for their healthy Construction, By Captain Douglas Galton, C.B....
 id: ia-india.history.resource.85806
 motifs:
-- to-be-classified
+  - god-of-night
+  - god-of-war
+  - god-of-hate
+  - god-of-folly
+  - god-of-one
+  - god-of-something
+  - god-of-back
+  - thunder-deity
+  - god-of-somebody
 source:
   name: Asiatic Society Of Bombay
   original_language: English (translation)
@@ -2470,7 +2478,27 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/india.history.resource.85806.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - fire
+  - war
+  - creation
+  - omen
+  - wind
+  - prophecy
+  - earth
+  - wisdom
+  - water
+  - rain
+  - origin-of-death
+  - lawgiving
+  - greek-mythology
+  - stars
+  - first-humans
+  - mountain
+  - celtic-mythology
+  - last-judgment
+  - kingship
+  - zoroastrianism
+  - ritual
 title: Asiatic Society Of Bombay
 ---
 

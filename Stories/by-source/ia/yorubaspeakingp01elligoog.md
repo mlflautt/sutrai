@@ -472,7 +472,7 @@ extracted_units:
     (617)495-2413...
 id: ia-yorubaspeakingp01elligoog
 motifs:
-- to-be-classified
+  - to-be-classified
 source:
   name: The Yoruba-Speaking Peoples of the Slave Coast of West Africa
   original_language: English (translation)
@@ -480,7 +480,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/yorubaspeakingp01elligoog.txt
   tradition: African
 themes:
-- to-be-classified
+  - to-be-classified
 title: The Yoruba-Speaking Peoples of the Slave Coast of West Africa
 ---
 

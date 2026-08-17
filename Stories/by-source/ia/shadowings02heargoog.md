@@ -227,7 +227,8 @@ extracted_units:
     THE ETERNAL HAUNTERS. If one were to attempt any adequ...
 id: ia-shadowings02heargoog
 motifs:
-- to-be-classified
+  - god-of-folly
+  - god-of-something
 source:
   name: Shadowings
   original_language: English (translation)
@@ -235,7 +236,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/shadowings02heargoog.txt
   tradition: Japanese folklore
 themes:
-- to-be-classified
+  - war
 title: Shadowings
 ---
 

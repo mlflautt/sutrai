@@ -1763,7 +1763,11 @@ extracted_units:
     LETTERS OF WILLIAM COWPER. Chosen and Edited, with a Memoir and a few...
 id: ia-in.ernet.dli.2015.69589
 motifs:
-- to-be-classified
+  - god-of-folly
+  - god-of-something
+  - god-of-desert
+  - thunder-deity
+  - god-of-somebody
 source:
   name: The Golden Bough
   original_language: English (translation)
@@ -1771,7 +1775,17 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.69589.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - taboo
+  - water
+  - african-mythology
+  - sacrifice
+  - native-american-mythology
+  - social-customs
+  - lawgiving
+  - kingship
+  - godhood
+  - fire
+  - sin
 title: The Golden Bough
 ---
 

@@ -239,7 +239,8 @@ extracted_units:
     3s. bd. Max Miiller (F.). HiBBERT Lectures on the Or...
 id: ia-modernmythology00lang
 motifs:
-- to-be-classified
+  - thunder-deity
+  - god-of-something
 source:
   name: Princeton N J
   original_language: English (translation)
@@ -247,7 +248,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/modernmythology00lang.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - social-customs
 title: Princeton N J
 ---
 

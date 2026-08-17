@@ -123,7 +123,8 @@ extracted_units:
     Akampan, IB.'}, 169. Aksha, 169. A\ai-a, 113. JUr.!, .'10, .'...
 id: ia-dli.bengal.10689.15923
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-something
 source:
   name: Translated Intoengush Verse
   original_language: English (translation)
@@ -131,7 +132,10 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/dli.bengal.10689.15923.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - forest
+  - godhood
+  - war
+  - courage
 title: Translated Intoengush Verse
 ---
 

@@ -522,7 +522,9 @@ extracted_units:
     i. 794-802. Carnoy, A. J., “ Magic (Iranian),” viii. 293-6. CasarTELLt,...
 id: ia-ArmenianMythology
 motifs:
-- to-be-classified
+  - thunder-deity
+  - god-of-folly
+  - god-of-something
 source:
   name: Armenian Mythology
   original_language: English (translation)
@@ -530,7 +532,12 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/ArmenianMythology.txt
   tradition: Armenian / Georgian
 themes:
-- to-be-classified
+  - magic
+  - war
+  - christian-tradition
+  - comparative-mythology
+  - armenian-mythology
+  - ritual
 title: Armenian Mythology
 ---
 

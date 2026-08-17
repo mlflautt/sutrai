@@ -1383,7 +1383,10 @@ extracted_units:
     (Maaset). HARRISON. Title p. 625, note 2. pp. 14...
 id: ia-tsimshianmytholo00boas
 motifs:
-- to-be-classified
+  - god-of-beginning
+  - god-of-desert
+  - god-of-folly
+  - god-of-something
 source:
   name: Tsimshian Mythology
   original_language: English (translation)
@@ -1391,7 +1394,15 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/tsimshianmytholo00boas.txt
   tradition: Native American
 themes:
-- to-be-classified
+  - trickster
+  - water
+  - war
+  - mountain
+  - omen
+  - heaven
+  - origin-of-death
+  - sun
+  - stars
 title: Tsimshian Mythology
 ---
 

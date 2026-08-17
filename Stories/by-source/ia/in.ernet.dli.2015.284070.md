@@ -323,7 +323,14 @@ extracted_units:
     good, kind, Good Lord, 40, 123, 199, 267, 276, 278, 336, * 363,...
 id: ia-in.ernet.dli.2015.284070
 motifs:
-- to-be-classified
+  - god-of-rain
+  - god-of-one
+  - god-of-folly
+  - god-of-something
+  - fire-deity
+  - god-of-desert
+  - god-of-somebody
+  - god-of-creation
 source:
   name: Hymns Of The Rig Veda
   original_language: English (translation)
@@ -331,7 +338,27 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.284070.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - love-romantic
+  - forest
+  - sun
+  - joy
+  - prayer
+  - war
+  - sacrifice
+  - heaven
+  - family
+  - earth
+  - godhood
+  - sin
+  - water
+  - lawgiving
+  - first-humans
+  - mountain
+  - wonder
+  - hero-journey
+  - blessing
+  - kingship
+  - ritual
 title: Hymns Of The Rig Veda
 ---
 

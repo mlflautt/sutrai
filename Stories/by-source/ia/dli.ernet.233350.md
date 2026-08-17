@@ -1220,7 +1220,10 @@ extracted_units:
     204, 298; of priest, 155 ; of priestess, 159 ; umDrella carriers, 10...
 id: ia-dli.ernet.233350
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-folly
+  - god-of-all
+  - god-of-something
 source:
   name: Ratan Tata Library
   original_language: English (translation)
@@ -1228,7 +1231,16 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/dli.ernet.233350.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - water
+  - war
+  - marriage
+  - creation
+  - omen
+  - social-customs
+  - lawgiving
+  - first-humans
+  - ritual
+  - clan
 title: Ratan Tata Library
 ---
 

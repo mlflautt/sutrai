@@ -1419,7 +1419,9 @@ extracted_units:
     of such a name on the coast of York- shire is quite u...
 id: ia-sagalibrary05snoruoft
 motifs:
-- to-be-classified
+  - god-of-one
+  - god-of-folly
+  - god-of-something
 source:
   name: The Saga Library
   original_language: English (translation)
@@ -1427,7 +1429,14 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/sagalibrary05snoruoft.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - wisdom
+  - storm
+  - water
+  - war
+  - omen
+  - sun
+  - lawgiving
+  - kingship
 title: The Saga Library
 ---
 

@@ -958,7 +958,11 @@ extracted_units:
     book not only to teach, but also t> stimulate and to suggest, and we t...
 id: ia-dli.csl.6227
 motifs:
-- to-be-classified
+  - god-of-love
+  - god-of-all
+  - god-of-one
+  - god-of-something
+  - god-of-beauty
 source:
   name: The Golden Bough
   original_language: English (translation)
@@ -966,7 +970,16 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/dli.csl.6227.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - love-romantic
+  - water
+  - mountain
+  - stars
+  - rain
+  - social-customs
+  - joy
+  - kingship
+  - first-humans
+  - clan
 title: The Golden Bough
 ---
 

@@ -127,7 +127,9 @@ extracted_units:
     and of speculation — Sketch of conjectural theories — Two elements in...
 id: ia-myth-ritual-religion
 motifs:
-- to-be-classified
+  - god-of-hate
+  - god-of-folly
+  - god-of-something
 source:
   name: T F Crane
   original_language: English (translation)
@@ -135,7 +137,8 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/myth-ritual-religion.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - totemism
+  - comparative-mythology
 title: T F Crane
 ---
 

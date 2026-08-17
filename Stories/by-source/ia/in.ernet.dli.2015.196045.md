@@ -343,7 +343,16 @@ extracted_units:
     286. Wine, Surd, 172. 108, 144,178, 179, 181, impl...
 id: ia-in.ernet.dli.2015.196045
 motifs:
-- to-be-classified
+  - god-of-rain
+  - god-of-preservation
+  - god-of-all
+  - god-of-one
+  - god-of-folly
+  - god-of-something
+  - fire-deity
+  - god-of-desert
+  - thunder-deity
+  - god-of-creation
 source:
   name: The White Yajurveda
   original_language: English (translation)
@@ -351,7 +360,17 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.196045.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - water
+  - war
+  - mountain
+  - heaven
+  - earth
+  - celtic-mythology
+  - joy
+  - sun
+  - first-humans
+  - godhood
+  - sin
 title: The White Yajurveda
 ---
 

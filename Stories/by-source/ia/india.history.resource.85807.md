@@ -42,7 +42,7 @@ extracted_units:
     8 x Pe) 2) eee eevee see (2%) z eeele ere se e+ 7 snusedse “ 98 c (s) £...
 id: ia-india.history.resource.85807
 motifs:
-- to-be-classified
+  - to-be-classified
 source:
   name: Asiatic Society Of Bombay
   original_language: English (translation)
@@ -50,7 +50,7 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/india.history.resource.85807.txt
   tradition: Internet Archive (unmapped)
 themes:
-- to-be-classified
+  - to-be-classified
 title: Asiatic Society Of Bombay
 ---
 

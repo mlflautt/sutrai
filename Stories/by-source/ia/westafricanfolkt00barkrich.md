@@ -619,7 +619,7 @@ extracted_units:
     DISC MAY my 0 n 1989 J UN 12 isbIw "m 0...
 id: ia-westafricanfolkt00barkrich
 motifs:
-- to-be-classified
+  - god-of-folly
 source:
   name: West African Folk-Tales
   original_language: English (translation)
@@ -627,7 +627,8 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/westafricanfolkt00barkrich.txt
   tradition: African
 themes:
-- to-be-classified
+  - trickster
+  - wisdom
 title: West African Folk-Tales
 ---
 

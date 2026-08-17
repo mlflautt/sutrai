@@ -347,7 +347,7 @@ extracted_units:
     obscurity, and all that is known about it is comprised in two tradition...
 id: ia-ewespeakingpeopl0000abel
 motifs:
-- to-be-classified
+  - god-of-something
 source:
   name: The Ewe-Speaking Peoples of the Slave Coast of West Africa
   original_language: English (translation)
@@ -355,7 +355,11 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/ewespeakingpeopl0000abel.txt
   tradition: African
 themes:
-- to-be-classified
+  - storm
+  - water
+  - sacrifice
+  - omen
+  - fire
 title: The Ewe-Speaking Peoples of the Slave Coast of West Africa
 ---
 
