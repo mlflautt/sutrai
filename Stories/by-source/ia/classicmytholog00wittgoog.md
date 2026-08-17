@@ -307,7 +307,7 @@ extracted_units:
     to grow up to manhood in a single night, 229. Cpo5 L -2f...
 id: ia-classicmytholog00wittgoog
 motifs:
-  - to-be-classified
+  - sky-father
 source:
   name: A Tuhsuitioii Vith Tbi Jtnbohb Kumioh Ov
   original_language: English (translation)
@@ -315,7 +315,11 @@ source:
   source_text: Archive/texts/sacred/mythology-arc/classicmytholog00wittgoog.txt
   tradition: Internet Archive (unmapped)
 themes:
-  - to-be-classified
+  - greek-mythology
+  - godhood
+  - hero-journey
+  - war
+  - nature
 title: A Tuhsuitioii Vith Tbi Jtnbohb Kumioh Ov
 ---
 
