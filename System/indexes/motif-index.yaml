@@ -1,13 +1,1105 @@
-# Sutrai — Motif Index
-
-# Master index of motifs extracted from stories in the archive.
-
-motifs: []
-
-# Example entry:
-# - id: the-flood-hero
-#   name: The Flood Hero
-#   description: A hero who survives a great flood, often with the help of a divine warning
-#   thompson_reference: A1010
-#   category: mythological
-#   cultural_distribution: [Mesopotamian, Hebrew, Greek, Hindu, Mesoamerican]
+motif_index:
+  god-of-something:
+    description: ''
+    stories:
+    - id: ia-aguidetomytholo00clargoog
+      title: aguidetomytholo00clargoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-agy7773.0001.001.umich.edu
+      title: agy7773.0001.001.umich.edu
+      tradition: Internet Archive (unmapped)
+    - id: ia-ancientirishepi00dunn
+      title: ancientirishepi00dunn
+      tradition: Celtic
+    - id: ia-ancientnahuatlpo00brinrich
+      title: ancientnahuatlpo00brinrich
+      tradition: Mesoamerican
+    - id: ia-ArmenianMythology
+      title: ArmenianMythology
+      tradition: Armenian / Georgian
+    - id: ia-b21356786
+      title: b21356786
+      tradition: Internet Archive (unmapped)
+    - id: ia-b24870730
+      title: b24870730
+      tradition: Internet Archive (unmapped)
+    - id: ia-bhagavadgt00besagoog
+      title: bhagavadgt00besagoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-bwb_W9-BHZ-377
+      title: bwb_W9-BHZ-377
+      tradition: Internet Archive (unmapped)
+    - id: ia-celticmythandleg00squiuoft
+      title: celticmythandleg00squiuoft
+      tradition: Celtic
+    - id: ia-chinesefairybook00wilh
+      title: chinesefairybook00wilh
+      tradition: Chinese expanded
+    - id: ia-chinooktext00boas
+      title: chinooktext00boas
+      tradition: Internet Archive (unmapped)
+    - id: ia-cu31924026971030
+      title: cu31924026971030
+      tradition: Internet Archive (unmapped)
+    - id: ia-cu31924028647513
+      title: cu31924028647513
+      tradition: Internet Archive (unmapped)
+    - id: ia-cu31924072525110
+      title: cu31924072525110
+      tradition: Internet Archive (unmapped)
+    - id: ia-CustomAndMyth
+      title: CustomAndMyth
+      tradition: Comparative mythology
+    - id: ia-dli.bengal.10689.15923
+      title: dli.bengal.10689.15923
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.csl.5754
+      title: dli.csl.5754
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.csl.6227
+      title: dli.csl.6227
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ernet.233350
+      title: dli.ernet.233350
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ministry.10650
+      title: dli.ministry.10650
+      tradition: Internet Archive (unmapped)
+    - id: ia-ewespeakingpeopl0000abel
+      title: ewespeakingpeopl0000abel
+      tradition: African
+    - id: ia-FoZf_the-song-celestial-bhagavad-gita-by-sir-edwin-arnold-jaico-publishing-house
+      title: FoZf_the-song-celestial-bhagavad-gita-by-sir-edwin-arnold-jaico-publishing-house
+      tradition: Internet Archive (unmapped)
+    - id: ia-godsandfighting01yeatgoog
+      title: godsandfighting01yeatgoog
+      tradition: Celtic
+    - id: ia-hawaiianfolktal00unkngoog
+      title: hawaiianfolktal00unkngoog
+      tradition: Polynesian / Oceanian
+    - id: ia-hymnsofsmaveda00grifiala
+      title: hymnsofsmaveda00grifiala
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.123051
+      title: in.ernet.dli.2015.123051
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.152304
+      title: in.ernet.dli.2015.152304
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.153242
+      title: in.ernet.dli.2015.153242
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.176257
+      title: in.ernet.dli.2015.176257
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.189082
+      title: in.ernet.dli.2015.189082
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.196045
+      title: in.ernet.dli.2015.196045
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.279469
+      title: in.ernet.dli.2015.279469
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.284070
+      title: in.ernet.dli.2015.284070
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.463317
+      title: in.ernet.dli.2015.463317
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.48856
+      title: in.ernet.dli.2015.48856
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.49040
+      title: in.ernet.dli.2015.49040
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.499399
+      title: in.ernet.dli.2015.499399
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.52959
+      title: in.ernet.dli.2015.52959
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.69589
+      title: in.ernet.dli.2015.69589
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.117478
+      title: india.history.resource.117478
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.78105
+      title: india.history.resource.78105
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85806
+      title: india.history.resource.85806
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85808
+      title: india.history.resource.85808
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85913
+      title: india.history.resource.85913
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.87271
+      title: india.history.resource.87271
+      tradition: Internet Archive (unmapped)
+    - id: ia-indianwhystories00lind
+      title: indianwhystories00lind
+      tradition: Native American
+    - id: ia-jainasutrasparti029233mbp
+      title: jainasutrasparti029233mbp
+      tradition: Jain
+    - id: ia-modernmythology00lang
+      title: modernmythology00lang
+      tradition: Internet Archive (unmapped)
+    - id: ia-morecelticfairyt00jaco_1
+      title: morecelticfairyt00jaco_1
+      tradition: Celtic
+    - id: ia-myth-ritual-religion
+      title: myth-ritual-religion
+      tradition: Internet Archive (unmapped)
+    - id: ia-mythologyofbriti00squiuoft
+      title: mythologyofbriti00squiuoft
+      tradition: Internet Archive (unmapped)
+    - id: ia-mythritualandre00langgoog
+      title: mythritualandre00langgoog
+      tradition: Comparative mythology
+    - id: ia-northern-mythology-vol-2-b-thorpe
+      title: northern-mythology-vol-2-b-thorpe
+      tradition: Norse / Germanic
+    - id: ia-paper-doi-10_1038_075248c0
+      title: paper-doi-10_1038_075248c0
+      tradition: Internet Archive (unmapped)
+    - id: ia-pawneemythology00dorsgoog
+      title: pawneemythology00dorsgoog
+      tradition: Native American
+    - id: ia-pli.kerala.rare.25896
+      title: pli.kerala.rare.25896
+      tradition: Internet Archive (unmapped)
+    - id: ia-relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      title: relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      tradition: Internet Archive (unmapped)
+    - id: ia-russianfolktale01ralsgoog
+      title: russianfolktale01ralsgoog
+      tradition: Slavic
+    - id: ia-sagalibrary05snoruoft
+      title: sagalibrary05snoruoft
+      tradition: Internet Archive (unmapped)
+    - id: ia-shadowings02heargoog
+      title: shadowings02heargoog
+      tradition: Japanese folklore
+    - id: ia-slavonicfairyta00naakgoog
+      title: slavonicfairyta00naakgoog
+      tradition: Slavic
+    - id: ia-tarjumanalashwaq00ibnaiala
+      title: tarjumanalashwaq00ibnaiala
+      tradition: Islamic / Sufi
+    - id: ia-TheMabinogionGuestNutt
+      title: TheMabinogionGuestNutt
+      tradition: Celtic
+    - id: ia-tsimshianmytholo00boas
+      title: tsimshianmytholo00boas
+      tradition: Native American
+    - id: ia-vedichymns0046unse
+      title: vedichymns0046unse
+      tradition: Internet Archive (unmapped)
+    - id: ia-vishupuraasyste00hallgoog
+      title: vishupuraasyste00hallgoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-wg910
+      title: wg910
+      tradition: Internet Archive (unmapped)
+    - id: ia-wg919
+      title: wg919
+      tradition: Internet Archive (unmapped)
+  god-of-folly:
+    description: ''
+    stories:
+    - id: ia-aguidetomytholo00clargoog
+      title: aguidetomytholo00clargoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-agy7773.0001.001.umich.edu
+      title: agy7773.0001.001.umich.edu
+      tradition: Internet Archive (unmapped)
+    - id: ia-ancientirishepi00dunn
+      title: ancientirishepi00dunn
+      tradition: Celtic
+    - id: ia-ArmenianMythology
+      title: ArmenianMythology
+      tradition: Armenian / Georgian
+    - id: ia-beginningshindu00lanmgoog
+      title: beginningshindu00lanmgoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-bwb_W9-BHZ-377
+      title: bwb_W9-BHZ-377
+      tradition: Internet Archive (unmapped)
+    - id: ia-chinesefairybook00wilh
+      title: chinesefairybook00wilh
+      tradition: Chinese expanded
+    - id: ia-cu31924026971030
+      title: cu31924026971030
+      tradition: Internet Archive (unmapped)
+    - id: ia-CustomAndMyth
+      title: CustomAndMyth
+      tradition: Comparative mythology
+    - id: ia-dli.csl.5754
+      title: dli.csl.5754
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ernet.233350
+      title: dli.ernet.233350
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ministry.10650
+      title: dli.ministry.10650
+      tradition: Internet Archive (unmapped)
+    - id: ia-elkornorkorant00rodwuoft
+      title: elkornorkorant00rodwuoft
+      tradition: Internet Archive (unmapped)
+    - id: ia-godsandfighting01yeatgoog
+      title: godsandfighting01yeatgoog
+      tradition: Celtic
+    - id: ia-hymnsofsmaveda00grifiala
+      title: hymnsofsmaveda00grifiala
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.123051
+      title: in.ernet.dli.2015.123051
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.152304
+      title: in.ernet.dli.2015.152304
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.153242
+      title: in.ernet.dli.2015.153242
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.176257
+      title: in.ernet.dli.2015.176257
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.189082
+      title: in.ernet.dli.2015.189082
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.196045
+      title: in.ernet.dli.2015.196045
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.279469
+      title: in.ernet.dli.2015.279469
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.284070
+      title: in.ernet.dli.2015.284070
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.463317
+      title: in.ernet.dli.2015.463317
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.49040
+      title: in.ernet.dli.2015.49040
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.499399
+      title: in.ernet.dli.2015.499399
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.69589
+      title: in.ernet.dli.2015.69589
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.78105
+      title: india.history.resource.78105
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85806
+      title: india.history.resource.85806
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85808
+      title: india.history.resource.85808
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85913
+      title: india.history.resource.85913
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.87271
+      title: india.history.resource.87271
+      tradition: Internet Archive (unmapped)
+    - id: ia-indianwhystories00lind
+      title: indianwhystories00lind
+      tradition: Native American
+    - id: ia-jainasutrasparti029233mbp
+      title: jainasutrasparti029233mbp
+      tradition: Jain
+    - id: ia-kathlamettexts00boasgoog
+      title: kathlamettexts00boasgoog
+      tradition: Native American
+    - id: ia-myth-ritual-religion
+      title: myth-ritual-religion
+      tradition: Internet Archive (unmapped)
+    - id: ia-pawneemythology00dorsgoog
+      title: pawneemythology00dorsgoog
+      tradition: Native American
+    - id: ia-pli.kerala.rare.25896
+      title: pli.kerala.rare.25896
+      tradition: Internet Archive (unmapped)
+    - id: ia-relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      title: relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      tradition: Internet Archive (unmapped)
+    - id: ia-sagalibrary05snoruoft
+      title: sagalibrary05snoruoft
+      tradition: Internet Archive (unmapped)
+    - id: ia-shadowings02heargoog
+      title: shadowings02heargoog
+      tradition: Japanese folklore
+    - id: ia-tarjumanalashwaq00ibnaiala
+      title: tarjumanalashwaq00ibnaiala
+      tradition: Islamic / Sufi
+    - id: ia-tsimshianmytholo00boas
+      title: tsimshianmytholo00boas
+      tradition: Native American
+    - id: ia-vedichymns0046unse
+      title: vedichymns0046unse
+      tradition: Internet Archive (unmapped)
+    - id: ia-vishupuraasyste00hallgoog
+      title: vishupuraasyste00hallgoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-westafricanfolkt00barkrich
+      title: westafricanfolkt00barkrich
+      tradition: African
+    - id: ia-wg910
+      title: wg910
+      tradition: Internet Archive (unmapped)
+  god-of-one:
+    description: ''
+    stories:
+    - id: ia-aguidetomytholo00clargoog
+      title: aguidetomytholo00clargoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-agy7773.0001.001.umich.edu
+      title: agy7773.0001.001.umich.edu
+      tradition: Internet Archive (unmapped)
+    - id: ia-ancientirishepi00dunn
+      title: ancientirishepi00dunn
+      tradition: Celtic
+    - id: ia-b21356786
+      title: b21356786
+      tradition: Internet Archive (unmapped)
+    - id: ia-cu31924072525110
+      title: cu31924072525110
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.bengal.10689.15923
+      title: dli.bengal.10689.15923
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.csl.5754
+      title: dli.csl.5754
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.csl.6227
+      title: dli.csl.6227
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ernet.233350
+      title: dli.ernet.233350
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ministry.10650
+      title: dli.ministry.10650
+      tradition: Internet Archive (unmapped)
+    - id: ia-FoZf_the-song-celestial-bhagavad-gita-by-sir-edwin-arnold-jaico-publishing-house
+      title: FoZf_the-song-celestial-bhagavad-gita-by-sir-edwin-arnold-jaico-publishing-house
+      tradition: Internet Archive (unmapped)
+    - id: ia-godsandfighting01yeatgoog
+      title: godsandfighting01yeatgoog
+      tradition: Celtic
+    - id: ia-hymnsofsmaveda00grifiala
+      title: hymnsofsmaveda00grifiala
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.123051
+      title: in.ernet.dli.2015.123051
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.152304
+      title: in.ernet.dli.2015.152304
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.153242
+      title: in.ernet.dli.2015.153242
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.189082
+      title: in.ernet.dli.2015.189082
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.196045
+      title: in.ernet.dli.2015.196045
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.279469
+      title: in.ernet.dli.2015.279469
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.284070
+      title: in.ernet.dli.2015.284070
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.463317
+      title: in.ernet.dli.2015.463317
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.48856
+      title: in.ernet.dli.2015.48856
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.49040
+      title: in.ernet.dli.2015.49040
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.499399
+      title: in.ernet.dli.2015.499399
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.78105
+      title: india.history.resource.78105
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85806
+      title: india.history.resource.85806
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85808
+      title: india.history.resource.85808
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85913
+      title: india.history.resource.85913
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.87271
+      title: india.history.resource.87271
+      tradition: Internet Archive (unmapped)
+    - id: ia-indianwhystories00lind
+      title: indianwhystories00lind
+      tradition: Native American
+    - id: ia-jainasutrasparti029233mbp
+      title: jainasutrasparti029233mbp
+      tradition: Jain
+    - id: ia-kathlamettexts00boasgoog
+      title: kathlamettexts00boasgoog
+      tradition: Native American
+    - id: ia-pawneemythology00dorsgoog
+      title: pawneemythology00dorsgoog
+      tradition: Native American
+    - id: ia-pli.kerala.rare.25896
+      title: pli.kerala.rare.25896
+      tradition: Internet Archive (unmapped)
+    - id: ia-relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      title: relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      tradition: Internet Archive (unmapped)
+    - id: ia-sagalibrary05snoruoft
+      title: sagalibrary05snoruoft
+      tradition: Internet Archive (unmapped)
+    - id: ia-tarjumanalashwaq00ibnaiala
+      title: tarjumanalashwaq00ibnaiala
+      tradition: Islamic / Sufi
+    - id: ia-vedichymns0046unse
+      title: vedichymns0046unse
+      tradition: Internet Archive (unmapped)
+    - id: ia-vishupuraasyste00hallgoog
+      title: vishupuraasyste00hallgoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-wg910
+      title: wg910
+      tradition: Internet Archive (unmapped)
+    - id: ia-wg919
+      title: wg919
+      tradition: Internet Archive (unmapped)
+  god-of-all:
+    description: ''
+    stories:
+    - id: ia-aguidetomytholo00clargoog
+      title: aguidetomytholo00clargoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-agy7773.0001.001.umich.edu
+      title: agy7773.0001.001.umich.edu
+      tradition: Internet Archive (unmapped)
+    - id: ia-ancientnahuatlpo00brinrich
+      title: ancientnahuatlpo00brinrich
+      tradition: Mesoamerican
+    - id: ia-dli.csl.6227
+      title: dli.csl.6227
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ernet.233350
+      title: dli.ernet.233350
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-hymnsofsmaveda00grifiala
+      title: hymnsofsmaveda00grifiala
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.123051
+      title: in.ernet.dli.2015.123051
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.152304
+      title: in.ernet.dli.2015.152304
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.153242
+      title: in.ernet.dli.2015.153242
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.189082
+      title: in.ernet.dli.2015.189082
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.196045
+      title: in.ernet.dli.2015.196045
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.279469
+      title: in.ernet.dli.2015.279469
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.49040
+      title: in.ernet.dli.2015.49040
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.499399
+      title: in.ernet.dli.2015.499399
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85913
+      title: india.history.resource.85913
+      tradition: Internet Archive (unmapped)
+    - id: ia-jainasutrasparti029233mbp
+      title: jainasutrasparti029233mbp
+      tradition: Jain
+    - id: ia-northern-mythology-vol-2-b-thorpe
+      title: northern-mythology-vol-2-b-thorpe
+      tradition: Norse / Germanic
+    - id: ia-relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      title: relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      tradition: Internet Archive (unmapped)
+    - id: ia-vedichymns0046unse
+      title: vedichymns0046unse
+      tradition: Internet Archive (unmapped)
+    - id: ia-vishupuraasyste00hallgoog
+      title: vishupuraasyste00hallgoog
+      tradition: Internet Archive (unmapped)
+  god-of-somebody:
+    description: ''
+    stories:
+    - id: ia-aguidetomytholo00clargoog
+      title: aguidetomytholo00clargoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-agy7773.0001.001.umich.edu
+      title: agy7773.0001.001.umich.edu
+      tradition: Internet Archive (unmapped)
+    - id: ia-celticmythandleg00squiuoft
+      title: celticmythandleg00squiuoft
+      tradition: Celtic
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.152304
+      title: in.ernet.dli.2015.152304
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.176257
+      title: in.ernet.dli.2015.176257
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.189082
+      title: in.ernet.dli.2015.189082
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.279469
+      title: in.ernet.dli.2015.279469
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.284070
+      title: in.ernet.dli.2015.284070
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.463317
+      title: in.ernet.dli.2015.463317
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.499399
+      title: in.ernet.dli.2015.499399
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.52959
+      title: in.ernet.dli.2015.52959
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.69589
+      title: in.ernet.dli.2015.69589
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.78105
+      title: india.history.resource.78105
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85806
+      title: india.history.resource.85806
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85808
+      title: india.history.resource.85808
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85913
+      title: india.history.resource.85913
+      tradition: Internet Archive (unmapped)
+    - id: ia-jainasutrasparti029233mbp
+      title: jainasutrasparti029233mbp
+      tradition: Jain
+    - id: ia-mythologyofbriti00squiuoft
+      title: mythologyofbriti00squiuoft
+      tradition: Internet Archive (unmapped)
+    - id: ia-relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      title: relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      tradition: Internet Archive (unmapped)
+    - id: ia-TheMabinogionGuestNutt
+      title: TheMabinogionGuestNutt
+      tradition: Celtic
+  god-of-creation:
+    description: ''
+    stories:
+    - id: ia-bhagavadgt00besagoog
+      title: bhagavadgt00besagoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-bwb_W9-BHZ-377
+      title: bwb_W9-BHZ-377
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-hymnsofsmaveda00grifiala
+      title: hymnsofsmaveda00grifiala
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.176257
+      title: in.ernet.dli.2015.176257
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.196045
+      title: in.ernet.dli.2015.196045
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.279469
+      title: in.ernet.dli.2015.279469
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.284070
+      title: in.ernet.dli.2015.284070
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.463317
+      title: in.ernet.dli.2015.463317
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.49040
+      title: in.ernet.dli.2015.49040
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.499399
+      title: in.ernet.dli.2015.499399
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85913
+      title: india.history.resource.85913
+      tradition: Internet Archive (unmapped)
+    - id: ia-jainasutrasparti029233mbp
+      title: jainasutrasparti029233mbp
+      tradition: Jain
+    - id: ia-pli.kerala.rare.25896
+      title: pli.kerala.rare.25896
+      tradition: Internet Archive (unmapped)
+    - id: ia-relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      title: relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      tradition: Internet Archive (unmapped)
+    - id: ia-vishupuraasyste00hallgoog
+      title: vishupuraasyste00hallgoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-wg910
+      title: wg910
+      tradition: Internet Archive (unmapped)
+  thunder-deity:
+    description: Thunder/storm deity
+    stories:
+    - id: ia-ArmenianMythology
+      title: ArmenianMythology
+      tradition: Armenian / Georgian
+    - id: ia-celticmythology00macbgoog
+      title: celticmythology00macbgoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-godsandfighting01yeatgoog
+      title: godsandfighting01yeatgoog
+      tradition: Celtic
+    - id: ia-in.ernet.dli.2015.152304
+      title: in.ernet.dli.2015.152304
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.153242
+      title: in.ernet.dli.2015.153242
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.196045
+      title: in.ernet.dli.2015.196045
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.499399
+      title: in.ernet.dli.2015.499399
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.69589
+      title: in.ernet.dli.2015.69589
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.78105
+      title: india.history.resource.78105
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85806
+      title: india.history.resource.85806
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85807
+      title: india.history.resource.85807
+      tradition: Internet Archive (unmapped)
+    - id: ia-modernmythology00lang
+      title: modernmythology00lang
+      tradition: Internet Archive (unmapped)
+    - id: ia-norsemythinengli00herf
+      title: norsemythinengli00herf
+      tradition: Internet Archive (unmapped)
+    - id: ia-wg910
+      title: wg910
+      tradition: Internet Archive (unmapped)
+    - id: ia-yorubaspeakingp01elligoog
+      title: yorubaspeakingp01elligoog
+      tradition: African
+  god-of-desert:
+    description: ''
+    stories:
+    - id: ia-bwb_W9-BHZ-377
+      title: bwb_W9-BHZ-377
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-elkornorkorant00rodwuoft
+      title: elkornorkorant00rodwuoft
+      tradition: Internet Archive (unmapped)
+    - id: ia-gri_33125011146541
+      title: gri_33125011146541
+      tradition: Internet Archive (unmapped)
+    - id: ia-hymnsofsmaveda00grifiala
+      title: hymnsofsmaveda00grifiala
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.123051
+      title: in.ernet.dli.2015.123051
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.189082
+      title: in.ernet.dli.2015.189082
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.196045
+      title: in.ernet.dli.2015.196045
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.279469
+      title: in.ernet.dli.2015.279469
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.284070
+      title: in.ernet.dli.2015.284070
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.49040
+      title: in.ernet.dli.2015.49040
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.69589
+      title: in.ernet.dli.2015.69589
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85913
+      title: india.history.resource.85913
+      tradition: Internet Archive (unmapped)
+    - id: ia-relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      title: relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      tradition: Internet Archive (unmapped)
+    - id: ia-tsimshianmytholo00boas
+      title: tsimshianmytholo00boas
+      tradition: Native American
+    - id: ia-vedichymns0046unse
+      title: vedichymns0046unse
+      tradition: Internet Archive (unmapped)
+  god-of-rain:
+    description: ''
+    stories:
+    - id: ia-aguidetomytholo00clargoog
+      title: aguidetomytholo00clargoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-hymnsofsmaveda00grifiala
+      title: hymnsofsmaveda00grifiala
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.196045
+      title: in.ernet.dli.2015.196045
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.284070
+      title: in.ernet.dli.2015.284070
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.463317
+      title: in.ernet.dli.2015.463317
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.49040
+      title: in.ernet.dli.2015.49040
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85913
+      title: india.history.resource.85913
+      tradition: Internet Archive (unmapped)
+    - id: ia-jainasutrasparti029233mbp
+      title: jainasutrasparti029233mbp
+      tradition: Jain
+    - id: ia-relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      title: relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      tradition: Internet Archive (unmapped)
+    - id: ia-vedichymns0046unse
+      title: vedichymns0046unse
+      tradition: Internet Archive (unmapped)
+    - id: ia-vishupuraasyste00hallgoog
+      title: vishupuraasyste00hallgoog
+      tradition: Internet Archive (unmapped)
+  fire-deity:
+    description: Fire deity
+    stories:
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-hymnsofsmaveda00grifiala
+      title: hymnsofsmaveda00grifiala
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.196045
+      title: in.ernet.dli.2015.196045
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.279469
+      title: in.ernet.dli.2015.279469
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.284070
+      title: in.ernet.dli.2015.284070
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85913
+      title: india.history.resource.85913
+      tradition: Internet Archive (unmapped)
+    - id: ia-pli.kerala.rare.25896
+      title: pli.kerala.rare.25896
+      tradition: Internet Archive (unmapped)
+    - id: ia-relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      title: relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      tradition: Internet Archive (unmapped)
+    - id: ia-satapatha-brahmana-part-i
+      title: satapatha-brahmana-part-i
+      tradition: Hindu / Vedic
+    - id: ia-vedichymns0046unse
+      title: vedichymns0046unse
+      tradition: Internet Archive (unmapped)
+  god-of-war:
+    description: God of war
+    stories:
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-hymnsofsmaveda00grifiala
+      title: hymnsofsmaveda00grifiala
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.123051
+      title: in.ernet.dli.2015.123051
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.152304
+      title: in.ernet.dli.2015.152304
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.49040
+      title: in.ernet.dli.2015.49040
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.78105
+      title: india.history.resource.78105
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85806
+      title: india.history.resource.85806
+      tradition: Internet Archive (unmapped)
+    - id: ia-relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      title: relig-ie-indo-font-hyms-of-the-atharva-veda-bloomfield-livro
+      tradition: Internet Archive (unmapped)
+  god-of-hate:
+    description: ''
+    stories:
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.279469
+      title: in.ernet.dli.2015.279469
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.78105
+      title: india.history.resource.78105
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85806
+      title: india.history.resource.85806
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85913
+      title: india.history.resource.85913
+      tradition: Internet Archive (unmapped)
+    - id: ia-myth-ritual-religion
+      title: myth-ritual-religion
+      tradition: Internet Archive (unmapped)
+    - id: ia-vedichymns0046unse
+      title: vedichymns0046unse
+      tradition: Internet Archive (unmapped)
+  god-of-preservation:
+    description: ''
+    stories:
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-hymnsofsmaveda00grifiala
+      title: hymnsofsmaveda00grifiala
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.176257
+      title: in.ernet.dli.2015.176257
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.196045
+      title: in.ernet.dli.2015.196045
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.279469
+      title: in.ernet.dli.2015.279469
+      tradition: Internet Archive (unmapped)
+    - id: ia-vishupuraasyste00hallgoog
+      title: vishupuraasyste00hallgoog
+      tradition: Internet Archive (unmapped)
+  sacred-object:
+    description: ''
+    stories:
+    - id: ia-celtictwilightme00yeat
+      title: celtictwilightme00yeat
+      tradition: Celtic
+    - id: ia-jstor-659885
+      title: jstor-659885
+      tradition: Internet Archive (unmapped)
+    - id: ia-sagakingolaftry00snorgoog
+      title: sagakingolaftry00snorgoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-yorubaspeakingp01elligoog
+      title: yorubaspeakingp01elligoog
+      tradition: African
+  god-of-transformation:
+    description: ''
+    stories:
+    - id: ia-dli.csl.5754
+      title: dli.csl.5754
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-hymnsofsmaveda00grifiala
+      title: hymnsofsmaveda00grifiala
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.176257
+      title: in.ernet.dli.2015.176257
+      tradition: Internet Archive (unmapped)
+  creator-god:
+    description: A supreme creator god
+    stories:
+    - id: ia-in.ernet.dli.2015.153242
+      title: in.ernet.dli.2015.153242
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.499399
+      title: in.ernet.dli.2015.499399
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85808
+      title: india.history.resource.85808
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85913
+      title: india.history.resource.85913
+      tradition: Internet Archive (unmapped)
+  sky-father:
+    description: Sky father deity
+    stories:
+    - id: ia-aguidetomytholo00clargoog
+      title: aguidetomytholo00clargoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-classicmytholog00wittgoog
+      title: classicmytholog00wittgoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-norsemythinengli00herf
+      title: norsemythinengli00herf
+      tradition: Internet Archive (unmapped)
+  god-of-love:
+    description: God of love
+    stories:
+    - id: ia-dli.csl.6227
+      title: dli.csl.6227
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.189082
+      title: in.ernet.dli.2015.189082
+      tradition: Internet Archive (unmapped)
+    - id: ia-in.ernet.dli.2015.499399
+      title: in.ernet.dli.2015.499399
+      tradition: Internet Archive (unmapped)
+  god-of-moon:
+    description: ''
+    stories:
+    - id: ia-aguidetomytholo00clargoog
+      title: aguidetomytholo00clargoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-bwb_W9-BHZ-377
+      title: bwb_W9-BHZ-377
+      tradition: Internet Archive (unmapped)
+  god-of-beauty:
+    description: ''
+    stories:
+    - id: ia-aguidetomytholo00clargoog
+      title: aguidetomytholo00clargoog
+      tradition: Internet Archive (unmapped)
+    - id: ia-dli.csl.6227
+      title: dli.csl.6227
+      tradition: Internet Archive (unmapped)
+  shape-shifting:
+    description: ''
+    stories:
+    - id: ia-cu31924023266335
+      title: cu31924023266335
+      tradition: Internet Archive (unmapped)
+    - id: ia-isbn_9781544831589
+      title: isbn_9781544831589
+      tradition: Internet Archive (unmapped)
+  god-of-night:
+    description: ''
+    stories:
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85806
+      title: india.history.resource.85806
+      tradition: Internet Archive (unmapped)
+  god-of-back:
+    description: ''
+    stories:
+    - id: ia-in.ernet.dli.2015.152304
+      title: in.ernet.dli.2015.152304
+      tradition: Internet Archive (unmapped)
+    - id: ia-india.history.resource.85806
+      title: india.history.resource.85806
+      tradition: Internet Archive (unmapped)
+  god-of-beginning:
+    description: ''
+    stories:
+    - id: ia-india.history.resource.85913
+      title: india.history.resource.85913
+      tradition: Internet Archive (unmapped)
+    - id: ia-tsimshianmytholo00boas
+      title: tsimshianmytholo00boas
+      tradition: Native American
+  goddess-of-harvest:
+    description: Goddess of harvest
+    stories:
+    - id: ia-aguidetomytholo00clargoog
+      title: aguidetomytholo00clargoog
+      tradition: Internet Archive (unmapped)
+  god-of-justice:
+    description: ''
+    stories:
+    - id: ia-chinooktext00boas
+      title: chinooktext00boas
+      tradition: Internet Archive (unmapped)
+  god-of-wisdom:
+    description: God of wisdom
+    stories:
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+  god-of-right:
+    description: ''
+    stories:
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+  god-of-knowledge:
+    description: ''
+    stories:
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+  god-of-ignorance:
+    description: ''
+    stories:
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+  god-of-fate:
+    description: ''
+    stories:
+    - id: ia-dli.ernet.236708
+      title: dli.ernet.236708
+      tradition: Internet Archive (unmapped)
+  knowledge-god:
+    description: Knowledge god
+    stories:
+    - id: ia-ftsz_dravya-sangraha-by-nemichandra-siddhantideva-sanskrit-gujarati-jainism-phil
+      title: ftsz_dravya-sangraha-by-nemichandra-siddhantideva-sanskrit-gujarati-jainism-phil
+      tradition: Jain
+  god-of-fire:
+    description: ''
+    stories:
+    - id: ia-in.ernet.dli.2015.279469
+      title: in.ernet.dli.2015.279469
+      tradition: Internet Archive (unmapped)
+  sun-deity:
+    description: Deity of the sun
+    stories:
+    - id: ia-myths-myth-makers
+      title: myths-myth-makers
+      tradition: Internet Archive (unmapped)
