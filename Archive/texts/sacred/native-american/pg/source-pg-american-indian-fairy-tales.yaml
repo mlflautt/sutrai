@@ -1,0 +1,22 @@
+id: pg-american-indian-fairy-tales
+title: American Indian Fairy Tales
+category: folklore
+tradition: Native American
+original_language: English
+author: W. T. Larned
+date_composed: '1905'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/45279
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/native-american/pg/american-indian-fairy-tales.txt
+quality_rating: high
+notes: |
+  A collection of Native American fairy tales retold by W. T. Larned,
+  with illustrations by Frederick Richardson. Based on Schoolcraft
+  and other early sources. Includes trickster tales, origin stories,
+  and traditional narratives from various tribes.
+word_count: 18000

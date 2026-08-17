@@ -1,0 +1,24 @@
+id: dao-de-jing-chinese
+title: 道德經 (Dao De Jing) — Chinese Original
+category: sacred
+tradition: Daoism
+original_language: Classical Chinese
+author: Laozi (老子)
+date_composed: 'c. 6th-4th century BCE'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/7337
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/daoism/dao-de-jing-chinese.txt
+word_count: 5000
+extracted_story_count: 0
+extracted_stories: []
+quality_rating: high
+notes: |
+  The original Chinese text of the Dao De Jing (道德經), attributed to Laozi.
+  This is the foundational text of Daoism, consisting of 81 short chapters.
+  The text is in Classical Chinese and is approximately 5,000 characters.
+  From Project Gutenberg (eBook #7337). This is the complete text in Chinese.

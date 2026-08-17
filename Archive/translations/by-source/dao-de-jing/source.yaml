@@ -1,0 +1,24 @@
+id: dao-de-jing-legge
+title: The Tao Teh King (Dao De Jing) — James Legge Translation
+category: sacred
+tradition: Daoism
+original_language: Classical Chinese (translated to English)
+author: Laozi (老子)
+translator: James Legge
+date_composed: 'c. 6th-4th century BCE'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/216
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/translations/by-source/dao-de-jing/dao-de-jing-legge.txt
+word_count: 12000
+extracted_story_count: 0
+extracted_stories: []
+quality_rating: high
+notes: |
+  James Legge's classic English translation of the Dao De Jing, originally published in 1891.
+  Legge was one of the first Western scholars to translate Chinese philosophical texts.
+  This version is in the public domain. From Project Gutenberg (eBook #216).

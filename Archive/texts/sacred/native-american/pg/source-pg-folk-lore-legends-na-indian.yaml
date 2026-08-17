@@ -1,0 +1,21 @@
+id: pg-folk-lore-legends-na-indian
+title: Folk-Lore and Legends — North American Indian
+category: folklore
+tradition: Native American
+original_language: English
+author: Various (Anonymous)
+date_composed: '1891'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/22072
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/native-american/pg/folk-lore-legends-na-indian.txt
+quality_rating: high
+notes: |
+  A collection of Native American folklore tales from the late 19th century.
+  Part of the "Folk-Lore and Legends" series published by W.W. Gibbings.
+  Contains stories from various tribes across North America.
+word_count: 45000

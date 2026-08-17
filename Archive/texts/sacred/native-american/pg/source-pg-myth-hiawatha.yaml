@@ -1,0 +1,22 @@
+id: pg-myth-hiawatha
+title: The Myth of Hiawatha, and Other Oral Legends
+category: mythology
+tradition: Native American
+original_language: English
+author: Various (compiled by Schoolcraft)
+date_composed: '1856'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/21620
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/native-american/pg/myth-hiawatha.txt
+quality_rating: high
+notes: |
+  A collection of Native American myths and legends compiled from the
+  famous Schoolcraft collections. Includes the Hiawatha myth and other
+  oral legends from various tribes. One of the earliest comprehensive
+  collections of Native American oral literature.
+word_count: 60000

@@ -1,0 +1,21 @@
+id: pg-myths-na-indians-spence
+title: The Myths of the North American Indians
+category: mythology
+tradition: Native American
+original_language: English
+author: Lewis Spence
+date_composed: '1914'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/42390
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/native-american/pg/myths-na-indians-spence.txt
+quality_rating: high
+notes: |
+  A scholarly account of Native American mythology and cultural traditions
+  by Lewis Spence, the renowned folklorist and mythologist. Covers tribes
+  across North America with comparative analysis.
+word_count: 80000

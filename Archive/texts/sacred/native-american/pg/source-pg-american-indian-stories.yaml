@@ -1,0 +1,22 @@
+id: pg-american-indian-stories
+title: American Indian Stories
+category: folklore
+tradition: Native American
+original_language: English
+author: Zitkala-Sa (Gertrude Simmons Bonnin)
+date_composed: '1921'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/10376
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/native-american/pg/american-indian-stories.txt
+quality_rating: high
+notes: |
+  A powerful autobiographical collection by Zitkala-Sa (Yankton Dakota Sioux),
+  combining personal narratives with traditional stories. One of the earliest
+  Native American women authors to publish in English. Includes the famous
+  "Impressions of an Indian Childhood" and "The Legends of America".
+word_count: 22000

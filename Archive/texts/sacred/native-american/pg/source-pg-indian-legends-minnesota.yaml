@@ -1,0 +1,22 @@
+id: pg-indian-legends-minnesota
+title: Indian Legends of Minnesota
+category: folklore
+tradition: Native American
+original_language: English
+author: Mrs. Cordenio A. Severance
+date_composed: '1894'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/25794
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/native-american/pg/indian-legends-minnesota.txt
+quality_rating: medium
+notes: |
+  A collection of Native American legends focusing on tales from the
+  Minnesota region. Compiled by Mrs. Cordenio A. Severance from oral
+  traditions and early ethnographic sources. Includes stories of the
+  Dakota and Ojibwe peoples.
+word_count: 23000

@@ -1,0 +1,24 @@
+id: bulfinch-mythology
+title: Bulfinch's Mythology (The Age of Fable)
+category: mythology
+tradition: Greek / Roman
+original_language: English (original work)
+author: Thomas Bulfinch
+date_composed: '1855'
+date_acquired: '2026-08-16'
+source_url: https://www.gutenberg.org/ebooks/4928
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/translations/by-source/bulfinch-age-of-fable/bulfinch-mythology.txt
+word_count: 332816
+extracted_story_count: 0
+extracted_stories: []
+quality_rating: high
+notes: |
+  Thomas Bulfinch's classic retelling of Greek, Roman, and other mythological
+  stories. First published in 1855, this work made classical mythology accessible
+  to general readers. Contains stories of gods, heroes, and legendary figures
+  from Greek and Roman tradition. Public domain. From Project Gutenberg (eBook #4928).

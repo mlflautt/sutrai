@@ -1,0 +1,22 @@
+id: pg-american-hero-myths
+title: American Hero-Myths — A Study in the Native Religions of the Western Continent
+category: mythology
+tradition: Native American
+original_language: English
+author: Daniel G. Brinton
+date_composed: '1882'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/11029
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/native-american/pg/american-hero-myths.txt
+quality_rating: high
+notes: |
+  A pioneering scholarly study of Native American hero myths by Daniel G.
+  Brinton, one of the first American ethnologists. Covers the western
+  continent including North and South America. Analyzes the recurring
+  patterns in indigenous mythologies.
+word_count: 45000

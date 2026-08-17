@@ -1,0 +1,22 @@
+id: pg-unwritten-literature-hopi
+title: The Unwritten Literature of the Hopi
+category: sacred
+tradition: Native American
+original_language: English
+author: H. R. Voth
+date_composed: '1905'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/15888
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/native-american/pg/unwritten-literature-hopi.txt
+quality_rating: high
+notes: |
+  A detailed study of Hopi oral literature by H. R. Voth, an early
+  ethnographer who lived among the Hopi. Includes creation stories,
+  clan histories, and ceremonial narratives. One of the most important
+  early sources for Hopi mythology and religious practices.
+word_count: 22000

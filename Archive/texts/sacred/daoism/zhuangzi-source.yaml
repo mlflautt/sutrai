@@ -1,0 +1,26 @@
+id: zhuangzi-chinese
+title: 莊子 (Zhuangzi) — Chinese Original
+category: sacred
+tradition: Daoism
+original_language: Classical Chinese
+author: Zhuangzi (莊子)
+date_composed: 'c. 369-286 BCE'
+date_acquired: '2026-08-17'
+source_url: https://ctext.org/zhuangzi
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/daoism/zhuangzi-chinese.txt
+word_count: 60000
+extracted_story_count: 0
+extracted_stories: []
+quality_rating: high
+notes: |
+  The original Chinese text of the Zhuangzi (莊子), attributed to Zhuangzi.
+  This is the foundational text of Daoism alongside the Dao De Jing,
+  consisting of 33 chapters in the standard Guo Xiang edition.
+  Famous for its parables, stories, and philosophical anecdotes.
+  The Inner Chapters (1-7) are generally considered the core text.
+  From the Chinese Text Project (ctext.org).

@@ -1,0 +1,27 @@
+id: jataka-tales
+title: Jataka Tales (Ellen C. Babbitt)
+category: folklore
+tradition: Buddhist / Indian
+original_language: Pali (originals), English (this translation)
+author: Ellen C. Babbitt (translator)
+date_composed: '1200 BCE - 400 CE (originals), 1912 (this translation)'
+date_acquired: '2026-08-16'
+source_url: https://www.gutenberg.org/ebooks/62514
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt:
+    - Archive/translations/by-source/jataka-tales/jataka-tales.txt
+    - Archive/translations/by-source/jataka-tales/more-jataka-tales.txt
+word_count: 30379
+extracted_story_count: 0
+extracted_stories: []
+quality_rating: high
+notes: |
+  The Jataka Tales are ancient Indian stories about the previous births of the Buddha,
+  told as moral fables and parables. This collection, translated by Ellen C. Babbitt,
+  includes 30+ individual tales. These stories have parallels in many cultures and
+  include animal fables, moral lessons, and wisdom tales. Public domain.
+  From Project Gutenberg (eBook #62514 and #7518).

@@ -1,0 +1,22 @@
+id: pg-punishment-stingy
+title: The Punishment of the Stingy, and Other Indian Stories
+category: folklore
+tradition: Native American
+original_language: English
+author: George Bird Grinnell
+date_composed: '1901'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/66596
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/native-american/pg/punishment-stingy.txt
+quality_rating: high
+notes: |
+  A collection of traditional Native American tales by George Bird Grinnell,
+  the famous naturalist and ethnologist. Grinnell lived among the Pawnee
+  and Blackfoot tribes and was known for his respectful and accurate
+  portrayals of Native American life and stories.
+word_count: 27000

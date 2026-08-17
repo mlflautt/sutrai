@@ -1,0 +1,24 @@
+id: prose-edda
+title: The Younger Edda (Prose Edda)
+category: mythology
+tradition: Norse
+original_language: Old Norse
+author: Snorri Sturluson
+date_composed: 'c. 1220'
+date_acquired: '2026-08-16'
+source_url: https://www.gutenberg.org/ebooks/18947
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/translations/by-source/prose-edda/prose-edda.txt
+word_count: 70128
+extracted_story_count: 0
+extracted_stories: []
+quality_rating: high
+notes: |
+  The Prose Edda by Snorri Sturluson, written around 1220. This is the primary
+  source for Norse mythology, containing stories of the Norse gods (Odin, Thor,
+  Loki, etc.), the creation of the world, and Ragnarok. Also known as the
+  Younger Edda or Snorre's Edda. Public domain. From Project Gutenberg (eBook #18947).

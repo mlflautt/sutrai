@@ -1,0 +1,26 @@
+id: bible-kjv
+title: The King James Bible
+category: sacred
+tradition: Christianity
+original_language: Hebrew (Old Testament), Greek (New Testament)
+translator: King James Version translation committee
+date_composed: '1611'
+date_acquired: '2026-08-16'
+source_url: https://www.gutenberg.org/ebooks/10
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/translations/by-source/bible-kjv/kjv-bible.txt
+word_count: 824543
+extracted_story_count: 0
+extracted_stories: []
+quality_rating: high
+notes: |
+  The King James Version of the Bible, published in 1611. This is the complete
+  Bible including Old Testament, New Testament, and Apocrypha. Public domain
+  in the United States. This version from Project Gutenberg (eBook #10).
+  The Bible is the foundational text of Christianity and contains hundreds
+  of individual stories, parables, teachings, and prophecies that are
+  candidates for adaptation.
