@@ -1,0 +1,34 @@
+---
+id: tsimshianmytholo00boas_244_61-the-deluge-p-346
+source: tsimshianmytholo00boas
+title: 61.  The  Deluge  (p.  346)
+source_lines: 51872-51895
+length: 1491
+culture: Tsimshian
+story_type: legend
+status: promoted
+---
+
+61. The Deluge (p. 346) 
+
+Some hunters go to a lake. The waters of the lake rise and overflow into Skeena 
+River. A whale appears and goes down again. The following year two brothers try 
+to get supernatural power at this lake. The elder one steps into the water and sinks 
+to the bottom. The lake rises again, and the whale emerges. The younger brother 
+remains on shore. The man who has gone into the lake is taken into a house. Light- 
+ning and a grizzly bear appear, and he is given various supernatural gifts- — a thunder- 
+bird, a grizzly-bear box, living eyes (the hail), a monster called Mouth At Each End, 
+a codfish. He comes ashore with these gifts and finds his brother starved to death. 
+Martens have eaten his body. He restores him to life, and the younger brother also 
+becomes a shaman. The martens that have eaten him are in his body, and a vessel 
+of blood is his supernatural power. On account of the great power of the elder brother, 
+the supernatiu'al beings try to kill him. Finally two hermaphrodites ^overcome him. 
+
+■ Identical with Ts 5.290. -Probably homosexuals are meant. 
+
+BOAS] COMPARATIVE STUDY OF TSIMSHIAN MYTHOLOGY 863 
+
+The younger brother remains alive and overcomes his enemies. One ivinter there is 
+a famine, and the people apply to the younger brother for help. He takes them down 
+the river and instructs them in the use of sea fish, and shows them how to make halibut 
+hooks. At that time the people of Skeena RiAer reach the sea for the first time

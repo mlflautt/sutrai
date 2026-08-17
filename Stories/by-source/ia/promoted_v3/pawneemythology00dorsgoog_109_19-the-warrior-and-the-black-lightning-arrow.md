@@ -1,0 +1,32 @@
+---
+id: pawneemythology00dorsgoog_109_19-the-warrior-and-the-black-lightning-arrow
+source: pawneemythology00dorsgoog
+title: 19. THE  WARRIOR  AND THE BLACK  LIGHTNING ARROW.
+source_lines: 22998-23019
+length: 1611
+culture: Unknown
+story_type: hero_tale
+status: promoted
+---
+
+19. THE WARRIOR AND THE BLACK LIGHTNING ARROW. 
+
+Voting man on war- path travels west to motintainous cotintry and suffers hunger. 
+Leader, being blamed for their misf orttme, ascends hill to pray. While he is absent 
+warriors are successful. On fourth night, man praying, facing west, is enveloped in 
+storm, accompanied by Ughtning and thunder, during which he falls into trance. 
+On awakening in morning he finds on his breast small black arrow with flint point 
+and stone shaft. He rejoins other warriors, explains his experience, offers smoke to 
+gods and to his arrow, promising that if he neglects arrow it may return, and he fastens 
+arrow on necklace over his breast. They resume their journey, and next night leader 
+in vision is visited by protector of warriors, who tells him where they may find 
+enemy's camp. They advance, capture ponies, and escape; leader returning home 
+offers on way horse hair to his protector. Again they set out on war-path. Encoun- 
+tering buffalo, he starts to kill one, but leaves his wonderful arrow and friends 
+behind. As he aims at buffalo dark cloud comes. He runs back, obtains his arrow, 
+and his friends attempt to help him retain it. It thunders and lightens, and blows 
+like flapping of wings. Nevertheless, arrow makes its escape, and returns to cloudSt 
+and becomes part of lightning. The disconsolate warrior mourns; is visited by 
+same mysterious being, who reminds him of condition under which arrow was given. 
+He tells him he will be great warrior, but never chief. Hereafter he only goes on 
+war party when success has been predicted for him in vision.
