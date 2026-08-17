@@ -1,0 +1,22 @@
+id: pg-shanhaijing-chinese
+title: 山海經 (Shan Hai Jing) — Classic of Mountains and Seas
+category: mythology
+tradition: Chinese
+original_language: Classical Chinese
+author: Anonymous (attributed to various)
+date_composed: 'c. 4th century BCE - 1st century CE'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/25288
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/chinese/shanhaijing-chinese.txt
+quality_rating: high
+notes: |
+  Ancient Chinese geography and mythology text describing mythical creatures,
+  lands, and peoples. One of the most important sources for Chinese mythology,
+  containing accounts of fantastic beings, distant lands, and supernatural
+  phenomena. Essential text for understanding Chinese mythological geography.
+word_count: 16000

@@ -1,0 +1,22 @@
+id: pg-huainanzi-chinese
+title: 淮南子 (Huainanzi)
+category: philosophical
+tradition: Chinese
+original_language: Classical Chinese
+author: Liu An (劉安)
+date_composed: 'c. 139 BCE'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/24059
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/chinese/huainanzi-chinese.txt
+quality_rating: high
+notes: |
+  Chinese philosophical text by Liu An, king of Huainan. Blends Daoist,
+  Confucian, and Legalist thought. Contains creation myths, cosmology,
+  and the famous story of the ten suns. One of the most important
+  pre-Han philosophical texts in Chinese literature.
+word_count: 72000

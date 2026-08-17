@@ -64,22 +64,132 @@ sources:
     file_formats: [txt]
     extracted_story_count: 0
 
-  - id: zhuangzi-chinese
-    title: 莊子 (Zhuangzi) — Chinese Original
-    category: sacred
-    tradition: Daoism
-    original_language: Classical Chinese
-    word_count: 60000
-    license: Public Domain
-    file_formats: [txt]
-    extracted_story_count: 0
-
   - id: zhuangzi-giles
     title: Chuang Tzu (Herbert Giles Translation)
     category: sacred
     tradition: Daoism
     original_language: Classical Chinese (translated to English)
     word_count: 116070
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: shanhaijing-chinese
+    title: 山海經 (Shan Hai Jing) — Classic of Mountains and Seas
+    category: mythology
+    tradition: Chinese
+    original_language: Classical Chinese
+    word_count: 16000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: huainanzi-chinese
+    title: 淮南子 (Huainanzi)
+    category: philosophical
+    tradition: Chinese
+    original_language: Classical Chinese
+    word_count: 72000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: myths-legends-china
+    title: Myths and Legends of China
+    category: mythology
+    tradition: Chinese
+    original_language: English
+    word_count: 78000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: pg-folk-lore-legends-na-indian
+    title: Folk-Lore and Legends — North American Indian
+    category: folklore
+    tradition: Native American
+    original_language: English
+    word_count: 45000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: pg-myths-na-indians-spence
+    title: The Myths of the North American Indians
+    category: mythology
+    tradition: Native American
+    original_language: English
+    word_count: 80000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: pg-american-indian-stories
+    title: American Indian Stories
+    category: folklore
+    tradition: Native American
+    original_language: English
+    word_count: 22000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: pg-myth-hiawatha
+    title: The Myth of Hiawatha
+    category: mythology
+    tradition: Native American
+    original_language: English
+    word_count: 60000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: pg-american-hero-myths
+    title: American Hero-Myths
+    category: mythology
+    tradition: Native American
+    original_language: English
+    word_count: 45000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: pg-american-indian-fairy-tales
+    title: American Indian Fairy Tales
+    category: folklore
+    tradition: Native American
+    original_language: English
+    word_count: 18000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: pg-punishment-stingy
+    title: The Punishment of the Stingy
+    category: folklore
+    tradition: Native American
+    original_language: English
+    word_count: 27000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: pg-indian-legends-minnesota
+    title: Indian Legends of Minnesota
+    category: folklore
+    tradition: Native American
+    original_language: English
+    word_count: 23000
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: pg-unwritten-literature-hopi
+    title: The Unwritten Literature of the Hopi
+    category: sacred
+    tradition: Native American
+    original_language: English
+    word_count: 22000
     license: Public Domain
     file_formats: [txt]
     extracted_story_count: 0

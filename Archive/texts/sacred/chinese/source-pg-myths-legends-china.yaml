@@ -1,0 +1,22 @@
+id: pg-myths-legends-china
+title: Myths and Legends of China
+category: mythology
+tradition: Chinese
+original_language: English
+author: E. T. C. Werner
+date_composed: '1922'
+date_acquired: '2026-08-17'
+source_url: https://www.gutenberg.org/ebooks/15250
+license: Public Domain
+copyright_status: public_domain
+file_formats:
+  - txt
+file_paths:
+  txt: Archive/texts/sacred/chinese/myths-legends-china.txt
+quality_rating: high
+notes: |
+  A comprehensive collection of Chinese myths and legends by E. T. C. Werner.
+  Covers creation myths, dragon lore, tales of the immortals, and traditional
+  Chinese folklore. One of the most accessible early English-language sources
+  on Chinese mythology for Western readers.
+word_count: 78000
