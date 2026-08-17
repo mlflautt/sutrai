@@ -1,0 +1,48 @@
+---
+id: tsimshianmytholo00boas_274_6-children-originate-from-root-sap-swallowed-by-th
+source: tsimshianmytholo00boas
+title: 6.  Children  originate  from  root-sap  swallowed  by  the  suniving  girl  Tl,  M.
+source_lines: 56606-56643
+length: 1098
+culture: Unknown
+story_type: legend
+status: promoted
+---
+
+6. Children originate from root-sap swallowed by the suniving girl Tl, M. 
+
+(c) The children obtain possession of the plume (p. 735). 
+
+The children bom by magical means cut off the plume as it reappears Ts, 
+N, M, Sk, Tl. 
+
+(rf) Further adventures (p. 736). 
+
+I. A bUnd cannibal catches people in a bag net Ts. 
+
+II. They kill Raccoon's grandchild, are threatened with death )iy heat in 
+
+Raccoon's house, and re\-ive the child Ts, Sk. 
+
+III. A witch tries to kill them by catching their breath. They exchange it 
+
+for hers, and she kills herself Ts, N, Sk. 
+.4s incident: Tl, Sk 258. 
+
+IV. They pass a cave that opens and closes (p. 737) Ts, Sk. 
+V. The children marry the Winds Ts. 
+
+VI. One of the children becomes a mountain N. 
+
+VII. An obstructing mountain is melted down by the plume (p. 738) N. 
+VIII. Children are killed by the fall of a large object Sk. 
+IX. Children are killed by jumping over a dog Sk. 
+X. Local snowfall. 
+
+Independent story No. 38 (see p. 829). 
+XI. They meet the spirit of sleep N. 
+Independent story (see p. 871). 
+
+BOAS] APPENDIX II SUMMARY OF COMPARISONS 947 
+
+*

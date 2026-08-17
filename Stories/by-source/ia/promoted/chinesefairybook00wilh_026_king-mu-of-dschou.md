@@ -1,0 +1,173 @@
+---
+id: chinesefairybook00wilh_026_king-mu-of-dschou
+source: chinesefairybook00wilh
+title: KING  MU  OF  DSCHOU
+source_lines: 3966-4128
+length: 7267
+culture: Chinese
+story_type: divine_myth
+status: promoted
+---
+
+KING MU OF DSCHOU 
+
+IN the days of Kiug Mu of Dschou a magician came 
+out of the uttermost West, who could walk 
+through water and fire, and pass through metal and 
+stone. He could make mountains and rivers change 
+place, shift about cities and castles, rise into emptiness 
+without falling, strike against solid matter Avithout 
+finding it an obstruction ; and he knew a thousand trans- 
+formations in all their inexhaustible variety. And he 
+could not only change the shape of things but he could 
+change men's thoughts. The King honored him like a 
+god, and served him as he would a master. He resigned 
+his own apartments that the magician might be lodged 
+in them, had beasts of sacrifice brought to offer him, 
+and selected sweet singers to give him pleasure. But 
+the rooms in the King^s palace were too humble — the 
+magician could not dwell in them; and the King's sing- 
+ers were not musical enough to be allowed to be near 
+him. So King Mu had a new palace built for him. 
+The work of bricklayers and carpenters, of painters 
+and stainers left nothing to be desired with regard to 
+skill. The King's treasury was empty when the tower 
+had reached its full height. It was a thousand fathoms 
+high, and rose above the top of the mountain before the 
+capital. The King selected maidens, the loveliest and 
+most dainty, gave them fragrant essences, had their 
+eyebrows curved in lines of beauty, and adorned their 
+hair and ears with jewels. He garbed them in fine 
+cloth, and with white silks fluttering about them, and 
+had their faces painted white and their eyebrows 
+stained black. He had them put on armlets of precious 
+
+96 THE CHINESE FAIRY BOOK 
+
+stones and mix sweet-smelling herbs. They filled the 
+palace and sang the songs of the ancient kings in order 
+to please the magician. Every month the most costly 
+garments were brought him, and every morning the 
+most delicate food. The magician allowed them to do 
+so, and since he had no choice, made the best of it. 
+
+Not long afterward the magician invited the King to 
+go traveling with him. The King gi'asped the magi- 
+cian ^s sleeve, and thus they flew up through the air to 
+the middle of the skies. When they stopped they found 
+they had reached the palace of the magician. It was 
+built of gold and silver, and adorned with pearls and 
+precious stones. It towered high over the clouds and 
+rain ; and none could say whereon it rested. To the eye 
+it had the appearance of heaped-up clouds. All that it 
+offered the senses was different from the things of the 
+world of men. It seemed to the King as though he were 
+bodily present in the midst of the purple depths of the 
+city of the air, of the divine harmony of the spheres, 
+where the Great God dwells. The King looked down, 
+and his castles and pleasure-houses appeared to him 
+like hills of earth and heaps of straw. And there the 
+King remained for some decades and thought no more 
+of his kingdom. 
+
+Then the magician again invited the King to go trav- 
+eling with him once more. And in the place to which 
+they came there was to be seen neither sun nor moon 
+above, nor rivers or sea below. The King's dazzled 
+eyes could not see the radiant shapes which showed 
+themselves; the King's dulled ears could not hear the 
+sounds which played about them. It seemed as though 
+his body were dissolving in confusion; his thoughts 
+began to stray, and consciousness threatened to leave 
+him. So he begged the magician to return. The magi- 
+
+SAINTS AND MAGICIANS 97 
+
+cian put his spell upon him, and it seemed to the King 
+as though he were falling into empty space. 
+
+When he regained consciousness, he was sitting at the 
+same place where he had been sitting when the magi- 
+cian had asked him to travel with him for the first 
+time. The servants waiting on him were the same, 
+and when he looked down, his goblet was not yet 
+empty, and his food had not yet grown cold. 
+
+The King asked what had happened. And the ser- 
+vants answered, ''The King sat for a space in silence.'* 
+Whereupon the King was quite bereft of reason, 
+and it was three months before he regained his right 
+mind. Then he questioned the magician. The ma- 
+gician said: "I was traveling with you in the spirit, O 
+King ! What need was there for the body to go along! 
+And the place in which we stayed at that time was 
+no less real than your own castle and your own 
+gardens. But you are used only to permanent con- 
+ditions, therefore visions which dissolve so suddenly 
+appear strange to you." 
+
+The King was content with the explanation. He 
+gave no further thought to the business of government 
+and took no more interest in his servants, but resolved 
+to travel afar. So he had the eight famous steeds 
+harnessed, and accompanied by a few faithful re- 
+tainers, drove a thousand miles away. Ther,e he came 
+to the countrj^ of the great hunters. The great hunters 
+brought the King the blood of the white brant to drink, 
+and washed his feet in the milk of mares and cows. 
+When the King and his followers had quenched their 
+thirst, they drove on and camped for the night on the 
+slope of the Kunlun Mountain, south of the Red River. 
+The next day they climbed to the peak of Kunlun Moun- 
+tain and gazed at the castle of the Lord of the Yellow 
+
+98 THE CHINESE FAIRY BOOK 
+
+Earth. Then they traveled on to tlie Queen-Mother 
+of the West. Before they got there they had to pass 
+the Weak River. This is a river whose waters will 
+bear neither floats nor ships. All that attempts to 
+float over it sinks into its depths. When the King 
+reached the shore, fish and turtles, crabs and sal- 
+amanders came swimming up and formed a bridge, 
+so that he could drive across with the wagon. 
+
+It is said of the Queen-Mother of the West that she 
+goes about with hair unkempt, with a bird's beak and 
+tiger's teeth, and that she is skilled in playing the flute. 
+Yet this is not her true figure, but that of a spirit who 
+serves her, and rules over the Western sky. The 
+Queen-Mother entertained King Mu in her castle by 
+the Springs of Jade. And she gave him rock-marrow 
+to drink and fed him with the fruit of the jade-trees. 
+Then she sang him a song and taught him a magic 
+formula by means of which one could obtain long life. 
+The Queen-Mother of the West gathers the immortals 
+around her, and gives them to eat of the poaches of 
+long life ; and then they come to her with wagons with 
+purple canopies, drawn by flying dragons. Ordinary 
+mortals sink in the Weak River when they try to cross. 
+But she was kindly disposed to King Wu. 
+
+When he took leave of her, he also went on to the 
+spot where the sun turns in after running three thou- 
+sand miles a day. Then he returned again to his 
+kingdom. 
+
+When King Wu was a hundred years old, the Queen- 
+Mother of the West drew near his palace and led him 
+away with her into the clouds. 
+
+And from that day on he was seen no more. 
+
+Note : Kinj; Mu of Dsehou veigrned from 1001 to 946 B. c. 
+With his name are assi)ciated the stories of the marvelous travels 
+into the land of the far West, and especially to the Queen-Mother 
+
+SAINTS AND MAGICIANS 99 
+
+(who is identified by some with Juno). The peaches of immortality 
+suggest the apples of the Hesperides, (Comp. with the story of 
+"The Ape Sun Wu Kung".) 
+
+XXXVI
