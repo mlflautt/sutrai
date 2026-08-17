@@ -1,0 +1,92 @@
+---
+adaptation_status: unprocessed
+id: promoted-11-may-the-radiant-sara-swati-come-to-the-sacrific-1342
+motifs:
+- god-of-rain
+- god-of-wisdom
+- god-of-folly
+- god-of-something
+- fire-deity
+- god-of-right
+- god-of-knowledge
+- thunder-deity
+- god-of-all
+- god-of-hate
+- god-of-ignorance
+- god-of-transformation
+- god-of-war
+- god-of-desert
+- god-of-creation
+- god-of-somebody
+- god-of-fate
+- god-of-night
+- god-of-preservation
+- god-of-one
+source:
+  name: Htst Airp Swirtc
+  reference: lines 10358-10373
+  source_text: Archive/texts/sacred/mythology-arc/dli.ernet.236708.txt
+  tradition: Internet Archive (unmapped)
+themes:
+- love-romantic
+- marriage
+- forest
+- sun
+- joy
+- fire
+- prayer
+- war
+- sacrifice
+- creation
+- omen
+- wind
+- fear
+- heaven
+- forgiveness
+- family
+- earth
+- chinese-mythology
+- godhood
+- sin
+- wisdom
+- storm
+- water
+- rain
+- origin-of-death
+- fertility
+- lawgiving
+- first-humans
+- etiological-myth
+- moon
+- courage
+- mountain
+- wonder
+- divine-reward
+- hero-journey
+- blessing
+- kingship
+- ritual
+title: 11 May The Radiant Sara Swati Come To The Sacrific 1342
+---
+
+# 11 May The Radiant Sara Swati Come To The Sacrific 1342
+
+**Source:** Htst Airp Swirtc (Internet Archive (unmapped))
+**Lines:** 10358-10373
+
+11. May the radiant Sara»swati come to the sacrifice 
+from the heavens or the spacious firmament: may the 
+goddess, the showerer of water, propitiated by our invo¬ 
+cation, and desirous of our gratifying praises, hear. 
+
+Rig-veda Translation 
+
+[V. 3. 11 
+
+928 
+
+12. (Priests) place the mighty Brihaspati, the creator, 
+whose back is dark blue, in the chamber (of sacrifice): let 
+us worship him who is seated in the interior of the mansion, 
+everywhere shning, golden-hued, resplendent.
+

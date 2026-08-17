@@ -1,0 +1,49 @@
+---
+adaptation_status: unprocessed
+id: promoted-4-the-spirit-of-wisdom-answered-5-thus-that-185
+motifs:
+- god-of-all
+- god-of-one
+- god-of-folly
+- creator-god
+- god-of-something
+- thunder-deity
+source:
+  name: The Text Is Fly
+  reference: lines 6663-6667
+  source_text: Archive/texts/sacred/mythology-arc/in.ernet.dli.2015.153242.txt
+  tradition: Internet Archive (unmapped)
+themes:
+- love-romantic
+- sun
+- fire
+- prayer
+- war
+- creation
+- heaven
+- earth
+- curse
+- godhood
+- sin
+- wisdom
+- water
+- origin-of-death
+- stars
+- etiological-myth
+- first-humans
+- moon
+- kingship
+title: 4 The Spirit Of Wisdom Answered 5 Thus That 185
+---
+
+# 4 The Spirit Of Wisdom Answered 5 Thus That 185
+
+**Source:** The Text Is Fly (Internet Archive (unmapped))
+**Lines:** 6663-6667
+
+4. The spirit of wisdom answered (5) thus ; ‘ That 
+ceremonial of the sacred beings is good which they 
+perform in this pure, good religion of the M.d.zdz.- 
+worshippers. 6. Its origin, also, is goodness and 
+truth, and freedom from doubt in the sacred beings.
+
