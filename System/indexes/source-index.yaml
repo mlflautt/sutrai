@@ -3,14 +3,43 @@
 # Master index of all source texts in the archive.
 # Each entry references files in Archive/texts/ or Archive/translations/.
 
-sources: []
+sources:
+  - id: bible-kjv
+    title: The King James Bible
+    category: sacred
+    tradition: Christianity
+    original_language: Hebrew (OT), Greek (NT)
+    word_count: 824543
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
 
-# Example entry:
-# - id: bible-kjv
-#   title: King James Bible
-#   category: sacred
-#   tradition: Christian
-#   original_language: Hebrew/Greek
-#   license: Public Domain
-#   file_formats: [pdf, txt, epub]
-#   extracted_story_count: 0
+  - id: bulfinch-mythology
+    title: Bulfinch's Mythology (The Age of Fable)
+    category: mythology
+    tradition: Greek / Roman
+    original_language: English
+    word_count: 332816
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: prose-edda
+    title: The Younger Edda (Prose Edda)
+    category: mythology
+    tradition: Norse
+    original_language: Old Norse
+    word_count: 70128
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
+
+  - id: jataka-tales
+    title: Jataka Tales (Ellen C. Babbitt)
+    category: folklore
+    tradition: Buddhist / Indian
+    original_language: Pali (originals), English (this translation)
+    word_count: 30379
+    license: Public Domain
+    file_formats: [txt]
+    extracted_story_count: 0
