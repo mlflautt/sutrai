@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 55.  Gre.\t  Shaman  (p.  331)
 source_lines: 51700-51735
 length: 2291
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (4)  Falling  Tree
 source_lines: 47633-47835
 length: 12288
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 110.  THE WOMAN  WHO  IS BEWITCHED  BY  A  FOX.
 source_lines: 25783-25799
 length: 943
-culture: Pawnee
+culture: Native American
 story_type: legend
 status: promoted
 ---

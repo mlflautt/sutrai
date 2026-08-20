@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 37.  The  blind  Git-q!a'°da — Continued.
 source_lines: 57123-57151
 length: 1057
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

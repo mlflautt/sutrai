@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 18.  IQATSE'LXAQ lA'KXANAM.
 source_lines: 24189-24801
 length: 16159
-culture: Unknown
+culture: Chinook
 story_type: fairy_tale
 status: promoted
 ---

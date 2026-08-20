@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 13.  The  Giant  Devilfish'
 source_lines: 6760-6953
 length: 10029
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

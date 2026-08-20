@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  G'i-lax-ts!a'ks,  ou  the  north  side  of  the  river.
 source_lines: 25451-25470
 length: 975
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

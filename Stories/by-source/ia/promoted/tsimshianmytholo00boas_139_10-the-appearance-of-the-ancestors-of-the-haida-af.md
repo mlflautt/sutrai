@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (8) ORIGIN OF FIRE (p.  63)
 source_lines: 37411-37616
 length: 11969
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

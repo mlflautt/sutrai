@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 141.  COYOTE  AND  TW  ROSEBUDS.'
 source_lines: 22086-22175
 length: 2826
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 83.  THE  ORIOIN  OP  THE  OEESE  MEDICINE.'
 source_lines: 14430-14636
 length: 12501
-culture: Pawnee
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

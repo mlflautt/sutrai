@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 106.  THE  DOG  MEDICINE.
 source_lines: 25719-25737
 length: 1112
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 147. Ppyche is received among
 source_lines: 12111-12166
 length: 1332
-culture: Unknown
+culture: Greek
 story_type: divine_myth
 status: promoted
 ---

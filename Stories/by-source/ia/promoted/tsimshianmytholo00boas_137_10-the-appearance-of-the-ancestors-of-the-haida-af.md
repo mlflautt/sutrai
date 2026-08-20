@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (6) The  Siiuws  of  the  Tomtit  (p.  63)
 source_lines: 37065-37140
 length: 3998
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

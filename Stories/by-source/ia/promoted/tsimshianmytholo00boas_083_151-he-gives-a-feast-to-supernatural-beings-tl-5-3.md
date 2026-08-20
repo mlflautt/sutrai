@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 151.  He  gives  a  feast  to  supernatural  beings  Tl  5.317  (see  also  p.  581,
 source_lines: 31936-31950
 length: 527
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

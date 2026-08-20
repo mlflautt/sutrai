@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 4.  Then  the  shining  garment  appeared,  alas!
 source_lines: 13810-13991
 length: 9602
-culture: Tsimshian
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

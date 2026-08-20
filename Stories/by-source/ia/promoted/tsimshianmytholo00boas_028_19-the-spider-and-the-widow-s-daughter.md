@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 19.  The  Spider  and  the  Widow's  Daughter'
 source_lines: 8002-8161
 length: 8253
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

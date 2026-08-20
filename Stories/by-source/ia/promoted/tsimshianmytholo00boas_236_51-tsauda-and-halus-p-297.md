@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 51.  Tsauda  and  Halus  (p.  297)
 source_lines: 51438-51540
 length: 6770
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

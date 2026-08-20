@@ -5,7 +5,7 @@ title: 910.  Qla'neqMak"  carves  dolphins  out  of  rotten  wood.  They  jump  
   | (20)  Climbino-Match
 source_lines: 48438-48449
 length: 630
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

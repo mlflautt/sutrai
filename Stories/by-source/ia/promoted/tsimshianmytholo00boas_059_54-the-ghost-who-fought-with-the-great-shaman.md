@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 54.  The  Ghost  Who  Fought  with  the  Great  Shaman'
 source_lines: 16873-17337
 length: 24251
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

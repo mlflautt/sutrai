@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: THE TREASURES OF BRITAIN
 source_lines: 12984-13622
 length: 27740
-culture: Welsh
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

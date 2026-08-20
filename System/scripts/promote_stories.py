@@ -9,8 +9,9 @@ import yaml
 from pathlib import Path
 
 EXTRACTED_PATH = Path(r"G:\My Drive\AI\Sutrai\Archive\texts\sacred\narrative_stories_v3.yaml")
-OUTPUT_DIR = Path(r"G:\My Drive\AI\Sutrai\Stories\by-source\ia\promoted_v3")
+OUTPUT_DIR = Path(r"G:\My Drive\AI\Sutrai\Stories\by-source\ia\promoted")
 SOURCE_DIR = Path(r"G:\My Drive\AI\Sutrai\Archive\texts\sacred\mythology-arc")
+SOURCE_INDEX_PATH = Path(r"G:\My Drive\AI\Sutrai\System\indexes\source-index.yaml")
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -36,6 +37,54 @@ NOISE_PATTERNS = [
     r'^[IVX]+\.\s*$',  # Just roman numerals
     r'^\d+\.\s*$',  # Just numbers
 ]
+
+# Culture mapping from source-index traditions
+TRADITION_TO_CULTURE = {
+    'Celtic': 'Celtic',
+    'Native American': 'Native American',
+    'Chinese': 'Chinese',
+    'Chinese expanded': 'Chinese',
+    'Greek / Roman': 'Greek',
+    'Norse': 'Norse',
+    'Norse/Icelandic': 'Norse/Icelandic',
+    'Norse / Germanic': 'Norse',
+    'Buddhist / Indian': 'Indian',
+    'Daoism': 'Chinese',
+    'Mesoamerican': 'Mesoamerican',
+    'Persian': 'Persian',
+    'Bon (Pre-Buddhist Tibetan)': 'Tibetan',
+    'Christianity': 'Biblical',
+    'African': 'African',
+    'Polynesian / Oceanian': 'Polynesian',
+    'Armenian / Georgian': 'Armenian',
+    'Slavic': 'Slavic',
+    'Japanese folklore': 'Japanese',
+    'Jain': 'Jain',
+    'Islamic / Sufi': 'Islamic',
+    'Hindu / Vedic': 'Hindu',
+    'Comparative mythology': 'Comparative',
+    'Internet Archive (unmapped)': None,
+}
+
+
+def load_source_cultures():
+    """Load culture mapping from source-index.yaml."""
+    cultures = {}
+    with open(SOURCE_INDEX_PATH, 'r', encoding='utf-8') as f:
+        text = f.read()
+    blocks = re.findall(r'- id: (ia-[^\n]+)\n((?:  [^\n]+\n)*)', text)
+    for sid, body in blocks:
+        stem = sid.replace('ia-', '', 1)
+        trad_m = re.search(r'tradition: (.+)$', body, re.M)
+        if trad_m:
+            tradition = trad_m.group(1).strip()
+            culture = TRADITION_TO_CULTURE.get(tradition)
+            if culture:
+                cultures[stem] = culture
+    return cultures
+
+
+SOURCE_CULTURES = load_source_cultures()
 
 
 def is_noise(title, text):
@@ -80,50 +129,116 @@ def generate_story_id(source_stem, narrative_idx, title):
     return f"{source_stem}_{narrative_idx:03d}_{title_clean}"
 
 
-def extract_metadata_from_text(text):
+def extract_metadata_from_text(text, source_stem):
     """Extract potential metadata from story text."""
     meta = {}
     
-    # Look for cultural markers
-    cultures = {
-        'tsimshian': 'Tsimshian',
-        'chinook': 'Chinook',
-        'pawnee': 'Pawnee',
-        'chinese': 'Chinese',
-        'celtic': 'Celtic',
-        'norse': 'Norse',
-        'greek': 'Greek',
-        'egyptian': 'Egyptian',
-        'japanese': 'Japanese',
-        'indian': 'Indian',
-        'african': 'African',
-        'west african': 'West African',
-        'yoruba': 'Yoruba',
-        'arabian': 'Arabian',
-        'persian': 'Persian',
-        'hindu': 'Hindu',
-        'armenian': 'Armenian',
-        'nahuatl': 'Nahuatl',
-        'aztec': 'Aztec',
-        'mabinogion': 'Welsh',
-        'kalevala': 'Finnish',
-        'saga': 'Norse/Icelandic',
-        'edda': 'Norse',
-        'vedic': 'Vedic',
-        'purana': 'Hindu',
-        'mahabharata': 'Hindu',
-        'ramayana': 'Hindu',
-        'bible': 'Biblical',
-        'quran': 'Islamic',
-    }
+    # Primary: use source-index culture
+    if source_stem in SOURCE_CULTURES:
+        meta['culture'] = SOURCE_CULTURES[source_stem]
+    else:
+        # Fallback: text-based detection
+        cultures = {
+            'tsimshian': 'Tsimshian',
+            'chinook': 'Chinook',
+            'pawnee': 'Pawnee',
+            'chinese': 'Chinese',
+            'celtic': 'Celtic',
+            'norse': 'Norse',
+            'greek': 'Greek',
+            'egyptian': 'Egyptian',
+            'japanese': 'Japanese',
+            'indian': 'Indian',
+            'african': 'African',
+            'west african': 'West African',
+            'yoruba': 'Yoruba',
+            'arabian': 'Arabian',
+            'persian': 'Persian',
+            'hindu': 'Hindu',
+            'armenian': 'Armenian',
+            'nahuatl': 'Nahuatl',
+            'aztec': 'Aztec',
+            'mabinogion': 'Welsh',
+            'kalevala': 'Finnish',
+            'saga': 'Norse/Icelandic',
+            'edda': 'Norse',
+            'vedic': 'Vedic',
+            'purana': 'Hindu',
+            'mahabharata': 'Hindu',
+            'ramayana': 'Hindu',
+            'bible': 'Biblical',
+            'quran': 'Islamic',
+        }
+        
+        text_lower = text.lower()
+        for kw, culture in cultures.items():
+            if kw in text_lower[:5000]:
+                meta['culture'] = culture
+                break
     
-    text_lower = text.lower()
-    for kw, culture in cultures.items():
-        if kw in text_lower[:5000]:
-            meta['culture'] = culture
-            break
+    # Default
+    if 'culture' not in meta:
+        # Try fallback detection based on source stem
+        stem_lower = source_stem.lower()
+        fallback_cultures = {
+            'tsimshian': 'Tsimshian',
+            'chinook': 'Chinook',
+            'pawnee': 'Pawnee',
+            'chinese': 'Chinese',
+            'celtic': 'Celtic',
+            'norse': 'Norse',
+            'greek': 'Greek',
+            'egyptian': 'Egyptian',
+            'japanese': 'Japanese',
+            'indian': 'Indian',
+            'african': 'African',
+            'westafrican': 'West African',
+            'yoruba': 'Yoruba',
+            'arabian': 'Arabian',
+            'persian': 'Persian',
+            'hindu': 'Hindu',
+            'armenian': 'Armenian',
+            'nahuatl': 'Nahuatl',
+            'aztec': 'Aztec',
+            'mabinogion': 'Welsh',
+            'kalevala': 'Finnish',
+            'saga': 'Norse/Icelandic',
+            'edda': 'Norse',
+            'vedic': 'Vedic',
+            'purana': 'Hindu',
+            'mahabharata': 'Hindu',
+            'ramayana': 'Hindu',
+            'bible': 'Biblical',
+            'quran': 'Islamic',
+            'russianfolktale': 'Slavic',
+            'slavonic': 'Slavic',
+            'hawaiian': 'Polynesian',
+            'goldenbough': 'Comparative',
+            'mythologyofbriti': 'Celtic',
+            'modernmythology': 'Comparative',
+            'shadowings': 'Japanese',
+            'satapatha': 'Hindu',
+            'rigveda': 'Hindu',
+            'brahmana': 'Hindu',
+            'bhagavadgt': 'Hindu',
+            'hymnsofsamaveda': 'Vedic',
+            'customandmyth': 'Comparative',
+            'mythritual': 'Comparative',
+            '1913goldenboughs': 'Comparative',
+            'classicmytholog': 'Greek',
+            'classical': 'Greek',
+        }
+        
+        for kw, culture in fallback_cultures.items():
+            if kw in stem_lower:
+                meta['culture'] = culture
+                break
+    
+    if 'culture' not in meta:
+        meta['culture'] = 'Unknown'
     
     # Detect story type
+    text_lower = text.lower()
     if any(kw in text_lower[:2000] for kw in ['once upon', 'there was', 'there lived', 'long ago']):
         meta['story_type'] = 'fairy_tale'
     elif any(kw in text_lower[:2000] for kw in ['trickster', 'coyote', 'raven', 'anansi', 'spider']):
@@ -210,7 +325,7 @@ def main():
             story_id = generate_story_id(source_stem, story_idx, n['title'])
             
             # Build frontmatter
-            meta = extract_metadata_from_text(full_story_text)
+            meta = extract_metadata_from_text(full_story_text, source_stem)
             
             frontmatter = {
                 'id': story_id,

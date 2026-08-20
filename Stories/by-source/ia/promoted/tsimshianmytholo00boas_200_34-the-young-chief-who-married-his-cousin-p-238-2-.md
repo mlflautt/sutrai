@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (2)  The  Sxappixg  Door
 source_lines: 47476-47565
 length: 4724
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

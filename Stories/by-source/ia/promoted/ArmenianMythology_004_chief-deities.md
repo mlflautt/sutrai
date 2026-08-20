@@ -4,7 +4,7 @@ source: ArmenianMythology
 title: CHIEF DEITIES
 source_lines: 796-931
 length: 4844
-culture: Greek
+culture: Armenian
 story_type: fairy_tale
 status: promoted
 ---

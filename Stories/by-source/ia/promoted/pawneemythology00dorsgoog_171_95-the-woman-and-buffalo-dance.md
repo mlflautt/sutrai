@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 95.  THE  WOMAN  AND  BUFFALO  DANCE.
 source_lines: 25448-25466
 length: 1264
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

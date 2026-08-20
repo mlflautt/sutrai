@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 9. ORIGIN  OP  THE  BASKET  DICE  GAME.
 source_lines: 22750-22763
 length: 858
-culture: Unknown
+culture: Native American
 story_type: divine_myth
 status: promoted
 ---

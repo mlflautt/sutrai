@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 60. Grieves for his children
 source_lines: 10341-10372
 length: 662
-culture: Unknown
+culture: Greek
 story_type: legend
 status: promoted
 ---

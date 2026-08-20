@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 41.  Explanation  of  the  Beaver  Hat  (p.  270)
 source_lines: 50121-50134
 length: 763
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

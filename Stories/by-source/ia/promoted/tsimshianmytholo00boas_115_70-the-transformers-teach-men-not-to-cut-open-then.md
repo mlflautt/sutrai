@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 70.  The  Transformers  teach  men  not  to  cut  open  then-  \\-ives  Ntla
 source_lines: 34243-34263
 length: 1253
-culture: Indian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

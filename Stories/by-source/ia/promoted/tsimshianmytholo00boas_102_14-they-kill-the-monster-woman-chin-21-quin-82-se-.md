@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 14.  They  kill  the  monster  woman  Chin  21;  Quin  82;  Se  49;  U  252;
 source_lines: 33505-33562
 length: 3334
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

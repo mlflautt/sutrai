@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (39) RAVEN KILLS THE SEALS
 source_lines: 41221-41236
 length: 812
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

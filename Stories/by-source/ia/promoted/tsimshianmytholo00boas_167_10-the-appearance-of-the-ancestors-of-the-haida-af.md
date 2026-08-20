@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (48) RAVEX IS SET ADRIFT
 source_lines: 42095-42110
 length: 763
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

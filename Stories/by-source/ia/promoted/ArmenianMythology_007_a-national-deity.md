@@ -4,7 +4,7 @@ source: ArmenianMythology
 title: A NATIONAL DEITY
 source_lines: 1817-2008
 length: 9270
-culture: Greek
+culture: Armenian
 story_type: fairy_tale
 status: promoted
 ---

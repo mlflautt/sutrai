@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 9.  How  Raven  Committed  Rape  on  the  Octopus  Woman
 source_lines: 55537-55565
 length: 1475
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

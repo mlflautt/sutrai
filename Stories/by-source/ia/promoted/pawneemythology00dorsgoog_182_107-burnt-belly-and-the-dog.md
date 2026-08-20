@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 107. BURNT  BELLY  AND  THE DOG.
 source_lines: 25738-25759
 length: 1522
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

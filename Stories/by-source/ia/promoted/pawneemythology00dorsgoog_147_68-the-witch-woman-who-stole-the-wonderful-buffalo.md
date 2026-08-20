@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 68. THE  WITCH-WOMAN  WHO  STOLE  THE  WONDERFUL  BUFFALO
 source_lines: 24195-24212
 length: 1112
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 77. Pelo^ wins, and marries
 source_lines: 11535-11609
 length: 1629
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

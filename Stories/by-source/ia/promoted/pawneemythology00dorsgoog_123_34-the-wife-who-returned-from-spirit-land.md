@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 34.  THE  WIFE  WHO  RETURNED  FROM  SPIRIT  LAND.
 source_lines: 23403-23453
 length: 3788
-culture: Pawnee
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

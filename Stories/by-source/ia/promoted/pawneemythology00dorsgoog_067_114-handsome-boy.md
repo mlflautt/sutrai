@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 114.  HANDSOME-BOY.'
 source_lines: 19719-20272
 length: 34190
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

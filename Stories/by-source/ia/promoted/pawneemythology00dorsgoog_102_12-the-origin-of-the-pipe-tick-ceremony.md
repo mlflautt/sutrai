@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 12.  THE ORIGIN OF  THE PIPE^TICK CEREMONY.
 source_lines: 22799-22824
 length: 1882
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

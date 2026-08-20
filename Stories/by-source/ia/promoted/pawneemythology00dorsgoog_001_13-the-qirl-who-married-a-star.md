@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 13.  THE  QIRL  WHO  MARRIED  A  STAR.'
 source_lines: 2740-2838
 length: 5809
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

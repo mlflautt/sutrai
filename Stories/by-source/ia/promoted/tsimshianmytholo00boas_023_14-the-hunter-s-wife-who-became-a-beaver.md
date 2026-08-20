@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 14.  The  Hunter's  Wife  Who  Became  a  Beaver  ^
 source_lines: 6954-7118
 length: 9037
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

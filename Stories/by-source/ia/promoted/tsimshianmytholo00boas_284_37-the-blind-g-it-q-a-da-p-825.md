@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 37.  The  blind  G-it-q!a'°da  (p.  825).
 source_lines: 57108-57122
 length: 560
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

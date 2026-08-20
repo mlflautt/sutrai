@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 48.  The  Four  Chiefs  and  Chief  Grizzly  Bear  (p.  292)
 source_lines: 50932-50948
 length: 937
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

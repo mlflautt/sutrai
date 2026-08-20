@@ -4,7 +4,7 @@ source: ancientirishepi00dunn
 title: THE  PROPOSALS
 source_lines: 5628-7054
 length: 56946
-culture: Unknown
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

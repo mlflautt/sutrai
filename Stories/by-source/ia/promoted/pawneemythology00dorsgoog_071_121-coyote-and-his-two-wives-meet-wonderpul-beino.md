@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 121.  COYOTE  AND  HIS  TWO  WIVES  MEET  WONDERPUL-BEINO.^
 source_lines: 20576-20662
 length: 3956
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

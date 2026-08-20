@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 27.  THE  BOY  WHO  CALLED  THE  BUFFALO  AND  WENT  TO  NOBTH-WIND.'
 source_lines: 5053-5843
 length: 48156
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 17.  The  Hunter  and  his  Wooden  Wife  *
 source_lines: 7688-7808
 length: 6313
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

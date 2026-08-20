@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (11)  The  Murderous  Woman  (Vagina  Dentata)
 source_lines: 48265-48289
 length: 1219
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

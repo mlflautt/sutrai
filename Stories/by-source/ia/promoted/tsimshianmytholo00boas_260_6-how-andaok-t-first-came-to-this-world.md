@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 6.  How  Andaok^t  First  Came  to  This  World
 source_lines: 54054-54554
 length: 29752
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

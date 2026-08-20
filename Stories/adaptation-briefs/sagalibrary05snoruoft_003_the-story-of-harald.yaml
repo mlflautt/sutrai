@@ -1,0 +1,59 @@
+story_id: sagalibrary05snoruoft_003_the-story-of-harald
+title: THE STORY OF HARALD
+source: sagalibrary05snoruoft
+culture: Greek
+story_type: trickster_tale
+narrative_arc:
+  beginning: 'THE STORY OF HARALD THE HARD-REDY. CHAPTER I. THE UPHEAVING OF KING
+    HARALD THE HARD-REDY. HARALD, the son of Sigurd Sow, and brother to King Olaf
+    the Holy by the same mother, was at Sticklestead in the battle whenas the holy
+    King Olaf fell. There Harald was wounded and got away with the other fleeing men.
+    So saith Thiodolf : Heard I that the keen shield-storm On the king anigh Howe
+    drifted, The burner of the Bulgars, There well availed his brother. He, prince
+    but of twelve winters And three ther...'
+  middle: 'rode amongst certain wildwoods, Harald sang this : Now I but little honoured
+    From wood to wood go creeping, And yet who wotteth, soothly, But at last I wax
+    wide-famed. He fared east over lamtland and Helsingland, and so to Sweden, and
+    there happened on Rognvald, son of Brusi, and on a great many others of those
+    men of King Olaf as had gotten them from Sticklestead out of the battle. CHAPTER
+    II. HARALD CAME INTO GARTHREALM. THE next spring they got them ships and went
+    in the summer east into Gart...'
+  end: 'as Eilif, son of Earl Rognvald. As Thiodolf says : Ill TheStory of Harald
+    the Hard-redy. 59 Of one thing busied Were captains twain, Whereas sat Eilif :
+    The wedge-host ranked they. Thrust were the East Wends Into the strait crook.
+    Nought light unto Lesjars Was the law of the host-men. Harald tarried certain
+    winters in Garthrealm and fared wide about the East-ways. Then he arrayed him
+    to fare out into Greenland, and had mickle company of men ; and thence he went
+    to Micklegarth. So saith Bolverk :...'
+key_characters:
+- Skald
+- Ships
+- King
+- Eilif
+- See
+key_scenes:
+- "HARALD, the son of Sigurd Sow, and \nbrother to King Olaf the Holy by the \nsame\
+  \ mother, was at Sticklestead in the \nbattle whenas the holy King Olaf fell"
+- "So saith Thiodolf : \n\nHeard I that the keen shield-storm \nOn the king anigh\
+  \ Howe drifted, \nThe burner of the Bulgars, \nThere well availed his brother"
+- "He, prince but of twelve winters \nAnd three thereto then aged, \nFrom Olaf dead\
+  \ unwilling \nSundered, and hid the helm-seat"
+- "So saith Bolverk : \n\nThe sword's mouth, king, thou stroked'st \nWhen thou leftest\
+  \ battle ; mad'st thou \nOf raw flesh full the raven"
+- The wolf howled in the mountain
+visual_style: Classical red-figure/black-figure vase painting, marble sculpture, architectural
+  orders
+suggested_medium: animation_series
+estimated_duration_seconds: 229
+color_palette:
+- '#e8c58d'
+- '#1a1a1a'
+- '#c0392b'
+- '#ffffff'
+- '#4a4a4a'
+cultural_notes: Olympian pantheon, heroic myth cycles, fate (moira), hubris/nemesis
+production_status: brief_generated
+tags:
+- greek
+- trickster_tale
+- animation_series

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 13.  The  Giant  Devilflsh  (p.  135)
 source_lines: 43296-43308
 length: 862
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

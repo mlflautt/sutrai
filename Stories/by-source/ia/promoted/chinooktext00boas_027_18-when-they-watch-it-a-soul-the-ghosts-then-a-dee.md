@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 18. When  they  watch  it  a  soul  the  ghosts.  then  a  deer
 source_lines: 25213-25234
 length: 577
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

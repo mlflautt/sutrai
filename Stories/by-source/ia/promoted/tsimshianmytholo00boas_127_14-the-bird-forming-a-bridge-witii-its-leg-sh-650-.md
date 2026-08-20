@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 14.  The  bird  forming  a  bridge  witii  its  leg  Sh  650;  Chil  11.
 source_lines: 34600-34613
 length: 809
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

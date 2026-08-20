@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (13)  The  Flood
 source_lines: 48325-48338
 length: 590
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

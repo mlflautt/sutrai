@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 2. THE FOUR  GODS IN THE WEST.
 source_lines: 22542-22553
 length: 732
-culture: Unknown
+culture: Native American
 story_type: divine_myth
 status: promoted
 ---

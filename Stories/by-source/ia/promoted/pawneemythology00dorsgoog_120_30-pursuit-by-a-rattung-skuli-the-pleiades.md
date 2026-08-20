@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 30.  PURSUIT  BY  A  RATTUNG  SKULI^— THE  PLEIADES.
 source_lines: 23337-23367
 length: 2087
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

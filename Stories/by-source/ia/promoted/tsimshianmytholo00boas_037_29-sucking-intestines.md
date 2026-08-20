@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 29.  Sucking  Intestines'
 source_lines: 11031-11146
 length: 6012
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

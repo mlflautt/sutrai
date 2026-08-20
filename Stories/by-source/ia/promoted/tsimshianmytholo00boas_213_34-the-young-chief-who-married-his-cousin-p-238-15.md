@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (15)  Fish  Kill  Him
 source_lines: 48358-48371
 length: 876
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

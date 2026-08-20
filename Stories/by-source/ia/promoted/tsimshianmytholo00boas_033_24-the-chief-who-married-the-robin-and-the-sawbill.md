@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 24.  The  Chief  who  Married  the  Robin  and  the  Sawbill  Duck  '
 source_lines: 9135-9825
 length: 37520
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

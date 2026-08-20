@@ -1,0 +1,56 @@
+story_id: celticmythandleg00squiuoft_027_sir-galahad
+title: SIR GALAHAD
+source: celticmythandleg00squiuoft
+culture: Celtic
+story_type: hero_tale
+narrative_arc:
+  beginning: SIR GALAHAD From the Picture by G. F. Watts, R.A. The Gods as King Arthur
+    s Knights 369 or Pwyll, the keeper of it, could have had no reason for such exertions.
+    At the second we may look doubtfully; for Sir Bors is no other than Emrys, or
+    Myrddin,1 and, casting back to the earlier British mythology, we do not find the
+    sky -god personally active in securing boons by force or craft from the underworld.
+    The other two have better claims — Sir Percivale and Sir Galahad. " Sir Percivale"
+    is the Norman...
+  middle: and of chivalry. Pere dur, or Sir Percivale, therefore, is the oldest, most
+    primitive, of Grail seekers. On the other hand, Sir Galahad is the latest and
+    youngest. But there is reason to believe that Galahad, in Welsh " Gwal- chaved",
+    the " Falcon of Summer", is the same solar hero as Gawain, in Welsh " Gwalchmei
+    ", the ' * Falcon of May".4 Both are made, in the story of "Kulhwch and Olwen",
+    sons of the same mother, Gwyar. Sir Gawain himself is, in one Arthurian romance,
+    the achiever of the Grai...
+  end: 'Legend, p. 162. *Ibid.t p. 133. 3 Translated by Lady Guest in her Mabinogion,
+    under the title of Peredttr, the Son of Evrawc. 4 Rhys: Arthurian Legend, p. 169.
+    But see whole of chap. VIII — "Galahad and Gwalchaved". 6 The German romance Diu
+    fCr$ne, by Heinrich von dem Turlin. (B219) 2 A 370 Mythology of the British Islands
+    Shaft",1 may be allowed to claim equal honours. What is important is that the
+    quest of the Grail, once the chief treasure of Hades, is still accom plished by
+    one who takes in ...'
+key_characters:
+- King
+- Gwal
+- Darkness
+- Lugh
+- Bors
+key_scenes:
+- "The Gods as King Arthur s Knights 369 \n\nor Pwyll, the keeper of it, could have\
+  \ had no \nreason for such exertions"
+- "4 Both are made, in the story \nof \"Kulhwch and Olwen\", sons of the same mother,\
+  \ \nGwyar"
+- "Both \nhave the attributes of sun-gods"
+visual_style: Insular illumination (Book of Kells), knotwork borders, zoomorphic interlace,
+  vellum texture
+suggested_medium: animation_1min
+estimated_duration_seconds: 30
+color_palette:
+- '#1a1a2e'
+- '#0f3460'
+- '#e94560'
+- '#f0d653'
+- '#a8c8d0'
+cultural_notes: Otherworld (Tir na Nog), geasa, shapeshifting, heroic cycles (Ulster,
+  Fenian)
+production_status: brief_generated
+tags:
+- celtic
+- hero_tale
+- animation_1min

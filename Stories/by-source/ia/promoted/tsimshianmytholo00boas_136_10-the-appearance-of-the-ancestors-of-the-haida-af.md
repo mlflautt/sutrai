@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (5) GIANT OBTAINS THE OLACHEN  ^
 source_lines: 36949-37064
 length: 6360
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

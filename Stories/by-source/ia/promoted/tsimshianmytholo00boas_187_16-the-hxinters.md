@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 16.  The  Hxinters
 source_lines: 43414-43620
 length: 12479
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

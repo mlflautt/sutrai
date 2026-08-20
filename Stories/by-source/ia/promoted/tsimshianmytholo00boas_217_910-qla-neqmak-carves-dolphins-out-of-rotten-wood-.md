@@ -5,7 +5,7 @@ title: 910.  Qla'neqMak"  carves  dolphins  out  of  rotten  wood.  They  jump  
   | (21)  Shooting-Match
 source_lines: 48450-48464
 length: 851
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 27.  At  Klwa'^ne^  (Cape  Scott)  he  kills  four  whales,  using  the  ser-
 source_lines: 33245-33263
 length: 793
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

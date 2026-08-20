@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 63.  The  Transformers  and  Mink  meet  a  dangerous  woman  (LExyiles,
 source_lines: 33945-33961
 length: 762
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

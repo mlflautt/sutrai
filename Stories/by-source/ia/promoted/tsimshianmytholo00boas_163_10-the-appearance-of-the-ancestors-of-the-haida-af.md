@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (44) TXa'mSEM and CHIEF GROUSE  (p.  94)
 source_lines: 41858-41947
 length: 5613
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

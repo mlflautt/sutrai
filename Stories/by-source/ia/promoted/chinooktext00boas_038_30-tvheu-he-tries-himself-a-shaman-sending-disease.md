@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 30.  TVheu  he  tries  himself  a  shaman,  sending  disease he  does  it
 source_lines: 26165-26192
 length: 659
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

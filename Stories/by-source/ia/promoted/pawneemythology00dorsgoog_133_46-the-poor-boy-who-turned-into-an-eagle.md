@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 46.  THE  POOR  BOY  WHO  TURNED  INTO  AN  EAGLE.
 source_lines: 23821-23846
 length: 1684
-culture: Pawnee
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

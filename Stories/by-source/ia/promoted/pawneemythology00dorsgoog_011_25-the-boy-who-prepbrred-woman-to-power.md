@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 25.  THE  BOY  WHO  PREPBRRED  WOMAN  TO  POWER.'
 source_lines: 4879-5052
 length: 10589
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

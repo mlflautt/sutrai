@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 72.  The  Transformers  and  the  Sahnon  Women.
 source_lines: 34276-34286
 length: 603
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

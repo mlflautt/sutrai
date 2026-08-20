@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: ER C IASMODOV I N IA
 source_lines: 2438-2628
 length: 7659
-culture: Norse
+culture: Celtic
 story_type: origin_myth
 status: promoted
 ---

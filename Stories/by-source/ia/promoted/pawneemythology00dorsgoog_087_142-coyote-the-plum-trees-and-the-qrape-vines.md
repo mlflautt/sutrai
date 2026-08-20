@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 142.  COYOTE,  THE  PLUM  TREES,  AND  THE  QRAPE  VINES.'
 source_lines: 22192-22231
 length: 2281
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

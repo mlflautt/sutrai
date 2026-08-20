@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 103. THE COYOTE  AND WOLF  MEDICINE.
 source_lines: 25622-25635
 length: 759
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

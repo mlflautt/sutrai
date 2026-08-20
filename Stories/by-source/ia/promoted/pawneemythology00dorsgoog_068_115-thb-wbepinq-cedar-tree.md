@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 115.  THB  WBEPINQ  CEDAR  TREE.^
 source_lines: 20273-20386
 length: 6530
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

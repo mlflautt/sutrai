@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 15. Stops the fight about to
 source_lines: 12899-12938
 length: 974
-culture: Unknown
+culture: Greek
 story_type: divine_myth
 status: promoted
 ---

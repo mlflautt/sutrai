@@ -4,7 +4,7 @@ source: slavonicfairyta00naakgoog
 title: THE MAIDEN WHO WAS WISER THAN
 source_lines: 7607-13996
 length: 164613
-culture: Unknown
+culture: Slavic
 story_type: divine_myth
 status: promoted
 ---

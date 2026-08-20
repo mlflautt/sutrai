@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 2.  Ca'wa.
 source_lines: 34744-34761
 length: 869
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

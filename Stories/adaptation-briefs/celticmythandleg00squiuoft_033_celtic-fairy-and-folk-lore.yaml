@@ -1,0 +1,48 @@
+story_id: celticmythandleg00squiuoft_033_celtic-fairy-and-folk-lore
+title: CELTIC FAIRY AND FOLK LORE
+source: celticmythandleg00squiuoft
+culture: Celtic
+story_type: hero_tale
+narrative_arc:
+  beginning: CELTIC FAIRY AND FOLK LORE GAELIC T. Crofton Croker. — FAIRY LEGENDS
+    AND TRADITIONS OF THE SOUTH OF IRELAND. This book is one of the earliest, and,
+    if not the most scientific, perhaps the most attractive of the many collections
+    of Irish fairy-lore. Later compilations are Mr. William LarminiJs 424 Mythology
+    of the British Islands " West Irish Folktales and Romance
+  middle: s ", and Mr. Jeremiah Curtiris "Hero Tales of Ireland", "Myths and Folklore
+    of Ireland", and " Tales of the Fairies, collected in South Mun- ster ". On the
+    Scotch side, notice should be particularly taken of Campbell's "Popular Tales
+    of the West Highlands" and the volumes entitled " Waifs and Strays of Celtic Tradition
+    ". All these books are either recent or rece
+  end: 'ntly republished, and are merely selected out of a large list of ivorks, valuable
+    and other wise, upon this lighter side of Celtic mythology. BRITISH John Rhys.
+    — CELTIC FOLKLORE, WELSH AND MANX. 2 vols Oxford, 1901. Wirt Sikes. — BRITISH
+    GOBLINS: Welsh Folklore, Fairy Mytho logy, Legends, and Traditions. By Wirt Sikes,
+    United States Consul for Wales. London, 1880.'
+key_characters:
+- Mun
+- Later
+- Folklore
+- West
+- John
+key_scenes:
+- "All these books are either recent or recently republished, and are \nmerely selected\
+  \ out of a large list of ivorks, valuable and other \nwise, upon this lighter side\
+  \ of Celtic mythol"
+visual_style: Insular illumination (Book of Kells), knotwork borders, zoomorphic interlace,
+  vellum texture
+suggested_medium: short_animation_30s
+estimated_duration_seconds: 30
+color_palette:
+- '#1a1a2e'
+- '#0f3460'
+- '#e94560'
+- '#f0d653'
+- '#a8c8d0'
+cultural_notes: Otherworld (Tir na Nog), geasa, shapeshifting, heroic cycles (Ulster,
+  Fenian)
+production_status: brief_generated
+tags:
+- celtic
+- hero_tale
+- short_animation_30s

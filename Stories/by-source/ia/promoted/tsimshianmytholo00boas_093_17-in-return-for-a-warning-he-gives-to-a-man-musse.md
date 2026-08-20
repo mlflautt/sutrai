@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 17.  In  return  for  a  warning  he  gives  to  a  man  mussels  or  fish  K
 source_lines: 33089-33099
 length: 570
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 10.  The  Four  Great  Chiefs  of  the  Winds
 source_lines: 42856-42946
 length: 5441
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

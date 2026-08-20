@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: '3.  Names  belongmg  to  Ganha''da:'
 source_lines: 27272-27301
 length: 677
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

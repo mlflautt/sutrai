@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 217.  Raven  (Great  Inventor)  suspects  that  his  wife,  SawbUl  Duck,  is
 source_lines: 32238-32252
 length: 643
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

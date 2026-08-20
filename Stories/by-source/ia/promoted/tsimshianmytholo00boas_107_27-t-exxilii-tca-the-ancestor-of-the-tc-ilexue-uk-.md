@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 27.  T'exxilii'tca,  the  ancestor  of  the  Tc'ilexue'uk,  is  first  transformed
 source_lines: 33788-33803
 length: 651
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

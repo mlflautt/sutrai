@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 50.  THE  BOY  WHO  TURNED  INTO  A  PRAIRIE  DOG.'
 source_lines: 8745-8862
 length: 5954
-culture: Pawnee
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

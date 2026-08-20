@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 12.  Set  adrift
 source_lines: 48543-48584
 length: 617
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

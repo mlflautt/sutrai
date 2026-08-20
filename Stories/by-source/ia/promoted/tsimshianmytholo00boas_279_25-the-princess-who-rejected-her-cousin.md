@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 25.  The  princess  who  rejected  her  cousin.
 source_lines: 56830-56862
 length: 1194
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 6.  Raven  in  the  bottom  of  the  sea  (ga'gEm  tslEm-a'ks).
 source_lines: 27141-27229
 length: 4183
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

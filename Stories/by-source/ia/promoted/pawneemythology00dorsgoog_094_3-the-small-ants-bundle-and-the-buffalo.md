@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 3. THE SMALL- ANTS' BUNDLE AND THE BUFFALO.
 source_lines: 22554-22587
 length: 2200
-culture: Pawnee
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

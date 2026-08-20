@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 11.  HOW  THE  PEOPLE  GOT  THE  CROW  LANCE.
 source_lines: 22777-22798
 length: 1274
-culture: Pawnee
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 72.  THE  WITCH-WOMAN  WHO  WISHED  TO  BE  MARRIED.
 source_lines: 24290-24300
 length: 509
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

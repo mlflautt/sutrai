@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 4.  G'ispawadwE'da.
 source_lines: 25577-26699
 length: 33026
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

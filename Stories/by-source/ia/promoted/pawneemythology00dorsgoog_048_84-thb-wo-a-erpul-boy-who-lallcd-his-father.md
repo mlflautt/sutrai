@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 84.  THB  WO^a)ERPUL  BOY  WHO  laLLCD  HIS  FATHER.'
 source_lines: 14637-14803
 length: 10062
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

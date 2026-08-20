@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 57.  The  Man  Who  Bound  Up  His  Wrinkles  (p.  339)
 source_lines: 51748-51838
 length: 5224
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

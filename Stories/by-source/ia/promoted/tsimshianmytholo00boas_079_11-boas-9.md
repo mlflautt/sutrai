@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 11.  Boas  9
 source_lines: 31164-31176
 length: 523
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

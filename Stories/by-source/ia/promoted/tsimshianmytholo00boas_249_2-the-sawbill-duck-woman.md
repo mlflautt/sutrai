@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 2.  The  Sawbill-Duck  Woman
 source_lines: 52974-53009
 length: 1566
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

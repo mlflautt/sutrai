@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 3. The Fight for the Golden Flee^ce
 source_lines: 7201-7406
 length: 9840
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

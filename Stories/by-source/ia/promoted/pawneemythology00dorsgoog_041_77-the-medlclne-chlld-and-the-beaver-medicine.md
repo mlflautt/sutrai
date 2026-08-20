@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 77.  THE  MEDlClNE-CHlLD  AND  THE  BEAVER  MEDICINE.'
 source_lines: 11701-12290
 length: 36565
-culture: Pawnee
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

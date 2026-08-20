@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 44.  THE  SHOOTING  OP  THE  SQUIRREL'S  NOSE.
 source_lines: 23762-23792
 length: 2076
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

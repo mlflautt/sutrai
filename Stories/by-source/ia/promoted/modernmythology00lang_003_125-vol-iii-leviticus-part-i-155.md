@@ -4,7 +4,7 @@ source: modernmythology00lang
 title: 125.  Vol.  III.  Leviticus,  Part  I.  155.
 source_lines: 15787-15889
 length: 2144
-culture: Unknown
+culture: Comparative
 story_type: legend
 status: promoted
 ---

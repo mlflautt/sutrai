@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 60. HOW  THE  CANNIBAL  WITCH-WOMAN  WAS  OVERCOME.
 source_lines: 24213-24232
 length: 1364
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

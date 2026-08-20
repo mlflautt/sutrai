@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  Txa'msem  (The  Raven  Legend)* | (38) THE FURTHER HISTORY OF TXA'mSEM  "
 source_lines: 4865-5128
 length: 15388
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

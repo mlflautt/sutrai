@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 7.  The  Deluge  (p.  113)
 source_lines: 42516-42528
 length: 658
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

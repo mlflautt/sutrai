@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1888. Cited  Ne  Dawson,
 source_lines: 61430-64162
 length: 77082
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 108. Finds Heracles attacked
 source_lines: 10286-10327
 length: 909
-culture: Unknown
+culture: Greek
 story_type: legend
 status: promoted
 ---

@@ -1,0 +1,54 @@
+story_id: celtictwilightme00yeat_003_concerning-the-nearness
+title: CONCERNING THE NEARNESS
+source: celtictwilightme00yeat
+culture: Celtic
+story_type: divine_myth
+narrative_arc:
+  beginning: CONCERNING THE NEARNESS TOGETHER OF HEAVEN, EARTH, AND PURGATORY. In
+    Ireland this world and the other are not widely sundered ; sometimes, indeed,
+    it seems almost as if our earthly chattels were no more than the shadows of things
+    beyond. A lady I knew once saw a village child running about with a long trailing
+    petticoat upon her, and asked the creature why she did
+  middle: not have it cut short. ' It was my grandmother's,' said the child ; ' would
+    you have her going about yonder with her petticoat up to her knees, and she dead
+    but four days ? ' I 1 66 The Celtic Twilight. have read a story of a woman whose
+    ghost haunted her people because they had made her grave-clothes so short that
+    the fires of purgatory burned her knees. The pea
+  end: santry expect to have beyond the grave houses much like their earthly homes,
+    only there the thatch will never grow leaky, nor the white walls lose their lustre,
+    nor shall the dairy be at any time empty of good milk and butter. But now and
+    then a landlord or an agent or a gauger will go by begging his bread, to show
+    how God divides the righteous from the unrighteous.
+key_characters:
+- Twilight
+- Ireland
+- Celtic
+- God
+key_scenes:
+- "In Ireland this world and the other are \nnot widely sundered ; sometimes, indeed,\
+  \ \nit seems almost as if our earthly chattels \nwere no more than the shadows of\
+  \ things \nbeyond"
+- "A lady I knew once saw a \nvillage child running about with a long \ntrailing petticoat\
+  \ upon her, and asked the \ncreature why she did not have it cut \nshort"
+- "' I \n\n1 66 The Celtic Twilight"
+- "have read a story of a woman whose \nghost haunted her people because they \nhad\
+  \ made her grave-clothes so short that \nthe fires of purgatory burned her knees"
+- "But now \nand then a landlord or an agent or a \ngauger will go by begging his\
+  \ bread, to \nshow how God divides the righteous from \nthe unrighteous"
+visual_style: Insular illumination (Book of Kells), knotwork borders, zoomorphic interlace,
+  vellum texture
+suggested_medium: short_animation_30s
+estimated_duration_seconds: 30
+color_palette:
+- '#1a1a2e'
+- '#0f3460'
+- '#e94560'
+- '#f0d653'
+- '#a8c8d0'
+cultural_notes: Otherworld (Tir na Nog), geasa, shapeshifting, heroic cycles (Ulster,
+  Fenian)
+production_status: brief_generated
+tags:
+- celtic
+- divine_myth
+- short_animation_30s

@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: THE CAULDRON OF INSPIRATION
 source_lines: 14178-14264
 length: 3509
-culture: Unknown
+culture: Celtic
 story_type: fairy_tale
 status: promoted
 ---

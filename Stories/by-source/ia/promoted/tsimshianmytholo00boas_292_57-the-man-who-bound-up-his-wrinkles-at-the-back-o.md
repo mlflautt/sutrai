@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 57.  The  Man  Who  Bound  Up  His  Wrinkles  At  The  Back  Of  His  Head  (p.  860).
 source_lines: 57425-57437
 length: 568
-culture: Indian
+culture: Native American
 story_type: legend
 status: promoted
 ---

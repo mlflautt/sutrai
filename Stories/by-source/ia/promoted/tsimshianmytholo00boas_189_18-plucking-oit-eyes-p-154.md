@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 18.  Plucking  Oit  Eyes  (p.  154)
 source_lines: 43731-44425
 length: 39753
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

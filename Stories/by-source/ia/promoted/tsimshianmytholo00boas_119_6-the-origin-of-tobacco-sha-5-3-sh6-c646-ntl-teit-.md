@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 6.  The  origin  of  tobacco  Sha  5.3;  Sh6,c646;  Ntl  Teit  3.304;  Chill2.
 source_lines: 34437-34453
 length: 860
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

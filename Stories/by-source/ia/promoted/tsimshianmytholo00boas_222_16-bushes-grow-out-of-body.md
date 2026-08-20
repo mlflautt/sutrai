@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 16.  Bushes  grow  out  of  body..
 source_lines: 48599-48883
 length: 1481
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

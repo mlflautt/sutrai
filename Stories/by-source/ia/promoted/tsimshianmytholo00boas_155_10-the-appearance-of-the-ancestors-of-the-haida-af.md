@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (6)  He  Pushes  Deer  over  a  Precipice
 source_lines: 41052-41123
 length: 4183
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

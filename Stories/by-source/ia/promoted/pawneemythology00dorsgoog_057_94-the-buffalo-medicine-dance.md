@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 94.  THE  BUFFALO  MEDICINE  DANCE.'
 source_lines: 17662-17707
 length: 2712
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

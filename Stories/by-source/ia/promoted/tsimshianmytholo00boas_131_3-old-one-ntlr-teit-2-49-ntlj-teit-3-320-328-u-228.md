@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: '3.  Old  One  Ntlr;  Teit 2.49:  NtlJ Teit  3.320-328;  U  228;  Sh«.  642;'
 source_lines: 34762-34798
 length: 1911
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

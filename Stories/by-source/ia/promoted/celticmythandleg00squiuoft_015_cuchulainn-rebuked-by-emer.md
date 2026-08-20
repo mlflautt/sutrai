@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: CUCHULAINN REBUKED BY EMER
 source_lines: 7353-8283
 length: 37423
-culture: Unknown
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

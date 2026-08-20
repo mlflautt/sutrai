@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 101. THE DEER DANCE.
 source_lines: 25571-25593
 length: 1409
-culture: Pawnee
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

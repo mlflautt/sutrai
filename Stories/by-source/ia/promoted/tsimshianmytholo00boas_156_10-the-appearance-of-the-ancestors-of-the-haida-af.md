@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (36) RAVEN STEALS SALMON EGGS
 source_lines: 41124-41144
 length: 1118
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

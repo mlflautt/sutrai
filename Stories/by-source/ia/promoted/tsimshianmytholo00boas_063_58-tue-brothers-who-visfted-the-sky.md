@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 58.  TuE  Brothers  Who  Visfted  the  Sky'
 source_lines: 18049-18073
 length: 1300
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

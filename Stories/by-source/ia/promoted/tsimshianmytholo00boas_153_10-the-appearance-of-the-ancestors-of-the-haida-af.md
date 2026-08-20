@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (8)  Diving  for  fish.
 source_lines: 40051-40932
 length: 2835
-culture: Tsimshian
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

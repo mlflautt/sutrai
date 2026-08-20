@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 51.  THE  QAMBLER  AND  THE  OAMINQ  STICKS.'
 source_lines: 8863-9148
 length: 16151
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

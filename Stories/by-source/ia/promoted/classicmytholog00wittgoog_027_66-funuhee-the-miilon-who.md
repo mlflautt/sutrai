@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 66. Funuhee the Miilon who
 source_lines: 10965-11099
 length: 3101
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

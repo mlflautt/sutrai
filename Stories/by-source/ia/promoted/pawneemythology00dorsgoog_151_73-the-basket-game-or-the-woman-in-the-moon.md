@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 73. THE  BASKET  GAME,  OR  THE  WOMAN  IN  THE  MOON.
 source_lines: 24301-24322
 length: 1548
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

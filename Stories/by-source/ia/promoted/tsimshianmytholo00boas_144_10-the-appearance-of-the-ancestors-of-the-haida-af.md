@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (18) RAVEN IS MADE VORACIOUS
 source_lines: 38314-38386
 length: 3395
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

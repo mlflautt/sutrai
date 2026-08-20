@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 21.  THE  BOY  WHO  WAS  QIVBN  POWER  TO  CAU  THE  BUFFALO.
 source_lines: 4306-4321
 length: 884
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

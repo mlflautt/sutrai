@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 16.  BUFFALO  WIFE  AND  CORN  WIFE.
 source_lines: 22869-22912
 length: 3141
-culture: Pawnee
+culture: Native American
 story_type: legend
 status: promoted
 ---

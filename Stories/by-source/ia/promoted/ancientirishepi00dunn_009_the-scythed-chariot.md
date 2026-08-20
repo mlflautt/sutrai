@@ -4,7 +4,7 @@ source: ancientirishepi00dunn
 title: THE  SCYTHED  CHARIOT
 source_lines: 9011-9629
 length: 25953
-culture: Unknown
+culture: Celtic
 story_type: trickster_tale
 status: promoted
 ---

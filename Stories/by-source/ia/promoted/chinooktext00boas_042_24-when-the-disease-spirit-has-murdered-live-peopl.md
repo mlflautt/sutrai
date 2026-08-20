@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 24.  When  the  disease-spirit  has  murdered  live  people,  it  has  three
 source_lines: 26534-26558
 length: 1617
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

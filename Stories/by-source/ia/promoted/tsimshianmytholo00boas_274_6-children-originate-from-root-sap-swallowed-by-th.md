@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 6.  Children  originate  from  root-sap  swallowed  by  the  suniving  girl  Tl,  M.
 source_lines: 56606-56643
 length: 1098
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

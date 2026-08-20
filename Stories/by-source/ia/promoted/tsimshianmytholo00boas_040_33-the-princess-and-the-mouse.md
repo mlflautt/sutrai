@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 33.  The  Princess  and  the  Mouse*
 source_lines: 11988-12278
 length: 15883
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 53.  The  Prince  and  Prince  Wolf  (p.  317)
 source_lines: 51636-51672
 length: 2288
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

@@ -1,0 +1,65 @@
+story_id: celticmythandleg00squiuoft_003_celtic-mythology
+title: CELTIC MYTHOLOGY
+source: celticmythandleg00squiuoft
+culture: Celtic
+story_type: hero_tale
+narrative_arc:
+  beginning: CELTIC MYTHOLOGY We may begin by asserting with confidence that Mr. Elton
+    has touched upon a part only of the material on which we may draw, to reconstruct
+    the ancient British mythology. Luckily, we are not wholly dependent upon the difficult
+    tasks of resolving the fabled deeds of apocryphal Irish and British kings who
+    reigned earlier than St. Patrick or before Julius Caesar into their original form
+    of Celtic myths, of sifting the attributes and miracles of doubtfully historical
+    saints, or of se...
+  middle: ies in Ireland, Scotland, and Wales, and only during the last cen tury brought
+    to light, copied, and translated by the patient labours of scholars who have grappled
+    with Sources of our Knowledge 9 the long-obsolete dialects in which they were
+    trans- scribed. Many of these volumes are curious miscellanies. Usually the one
+    book of a great house or monastic community, everything was copied into it that
+    the scholar of the family or brotherhood thought to be best worth preserving.
+    Hence they contain ...
+  end: rtant chiefs. The majority of these documents were put together during a period
+    which, roughly speaking, lasted from the beginning of the twelfth century to the
+    end of the sixteenth. In Ireland, in Wales, and, appa rently, also in Scotland,
+    it was a time of literary revival after the turmoils of the previous epoch. In
+    Ireland, the Norsemen, after long ravaging, had settled peacefully down, while
+    in Wales, the Nor man Conquest had rendered the country for the first time comparatively
+    quiet. The s...
+key_characters:
+- King
+- Gauls
+- Slavic
+- Sometimes
+- Berber
+key_scenes:
+- "Usually the one book of a great house or monastic \ncommunity, everything was copied\
+  \ into it that the \nscholar of the family or brotherhood thought to be \nbest worth\
+  \ preserving"
+- "Un \nluckily, it is reduced to a fragment of one hundred \nand thirty-eight pages,\
+  \ but this remnant preserves a \nlarge number of romances relating to the old gods\
+  \ \nand heroes of Irel"
+- "An entry upon one \nof its pages reveals the name of its scribe, one Mael- \nmuiri,\
+  \ whom we know to have been killed by robbers \nin the church of Clonmacnois in\
+  \ the year 1106"
+- "They also contain stories of other characters, who, \nmore ancient than either\
+  \ Finn or Cuchulainn, are \nthe Tuatha De Danann, the god-tribe of the ancient \n\
+  Gaels"
+- "But even the commencement of this era \nwill no doubt seem far too late a day to\
+  \ allow \nauthenticity to matter which ought to have vastly \npreceded it"
+visual_style: Insular illumination (Book of Kells), knotwork borders, zoomorphic interlace,
+  vellum texture
+suggested_medium: animation_series
+estimated_duration_seconds: 250
+color_palette:
+- '#1a1a2e'
+- '#0f3460'
+- '#e94560'
+- '#f0d653'
+- '#a8c8d0'
+cultural_notes: Otherworld (Tir na Nog), geasa, shapeshifting, heroic cycles (Ulster,
+  Fenian)
+production_status: brief_generated
+tags:
+- celtic
+- hero_tale
+- animation_series

@@ -5,7 +5,7 @@ title: 6.  He  steals  food  in  the  house  of  Salmon  Spear,  who  fights  wi
   | (6)  He  pushes  Deer  over  a  precipice  (p.  704).
 source_lines: 56234-56283
 length: 1627
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

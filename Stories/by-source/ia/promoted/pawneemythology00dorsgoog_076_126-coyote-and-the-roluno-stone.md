@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 126.  COYOTE  AND  THE  ROLUNO  STONE'
 source_lines: 21250-21313
 length: 3955
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

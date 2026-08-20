@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: THE GAELIC ARGONAUTS
 source_lines: 3548-4710
 length: 44785
-culture: Unknown
+culture: Celtic
 story_type: fairy_tale
 status: promoted
 ---

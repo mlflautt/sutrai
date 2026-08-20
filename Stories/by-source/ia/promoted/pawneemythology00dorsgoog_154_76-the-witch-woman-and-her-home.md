@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 76.  THE  WITCH-WOMAN  AND  HER  HOME.
 source_lines: 24364-24372
 length: 520
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

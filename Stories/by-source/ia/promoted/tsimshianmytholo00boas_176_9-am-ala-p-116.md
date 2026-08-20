@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 9. Am'ala'  (p.  116)
 source_lines: 42672-42855
 length: 11498
-culture: Tsimshian
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

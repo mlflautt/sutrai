@@ -5,7 +5,7 @@ title: 1.  Txa'msem  (The  Raven  Legend)* | (15) TXa'MSEM FRIGHTENS AWAY  THE O
   OF A WHALE  ^
 source_lines: 3372-3523
 length: 8731
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

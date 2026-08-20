@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 43.  The  Story  of  Part-Summer  (p.  278)
 source_lines: 50153-50187
 length: 2319
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

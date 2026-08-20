@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 143. Accidentally kills his
 source_lines: 11461-11534
 length: 1862
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

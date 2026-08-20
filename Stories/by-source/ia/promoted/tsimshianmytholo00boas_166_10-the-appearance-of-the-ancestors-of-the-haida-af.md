@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (47) RAVEN PXILLS OFF THE ARM OF A CHIEF
 source_lines: 42052-42094
 length: 2565
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

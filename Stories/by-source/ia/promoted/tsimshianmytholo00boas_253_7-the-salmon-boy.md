@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 7.  The  Salmon  Boy
 source_lines: 53111-53229
 length: 6381
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 5.  The  Boy  who  Fed  the  Eagle
 source_lines: 53068-53096
 length: 1439
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

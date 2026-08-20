@@ -5,7 +5,7 @@ title: 910.  Qla'neqMak"  carves  dolphins  out  of  rotten  wood.  They  jump  
   | (16)  Berries  Grow  Out  of  the  Father-ix-T-aw's  Body
 source_lines: 48383-48401
 length: 1095
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

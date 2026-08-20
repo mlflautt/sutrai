@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 63.  THE  UNFAITHFUL  BUNDLE-KEEPER.
 source_lines: 24135-24151
 length: 917
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

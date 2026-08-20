@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  Txa'msem  (The  Raven  Legend)* | (22) TXa'mSEM and THE SALMON WOMAN*
 source_lines: 3621-3890
 length: 15978
-culture: Tsimshian
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

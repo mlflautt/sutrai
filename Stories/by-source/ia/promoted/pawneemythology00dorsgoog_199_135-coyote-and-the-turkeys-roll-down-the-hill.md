@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 135. COYOTE  AND  THE  TURKEYS  ROLL  DOWN  THE  HILL.
 source_lines: 26214-26223
 length: 599
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

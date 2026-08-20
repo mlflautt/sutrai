@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 10.  Qla'neqrlak"  meets  NomasE'nxelis  5.196;  9.207;  11.195;  11.221.
 source_lines: 33021-33061
 length: 2222
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 4.  The  Stoky  of  (ikizzly  Beak  axd  Beaver'
 source_lines: 5403-5491
 length: 4876
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

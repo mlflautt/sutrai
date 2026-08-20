@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 18.  The  brother  of  a  shaman  on  Harrison  Lake  is  transformed  into
 source_lines: 33743-33755
 length: 602
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

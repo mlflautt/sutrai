@@ -4,7 +4,7 @@ source: ancientirishepi00dunn
 title: THE  MARCH  OF  THE  HOST
 source_lines: 2131-3272
 length: 45961
-culture: Unknown
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

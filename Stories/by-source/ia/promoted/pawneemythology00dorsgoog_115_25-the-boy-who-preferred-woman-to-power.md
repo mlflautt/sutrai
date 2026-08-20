@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 25.  THE  BOY  WHO  PREFERRED  WOMAN  TO  POWER.
 source_lines: 23198-23222
 length: 1580
-culture: Pawnee
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

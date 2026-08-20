@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 14.  THE  GRAIN4DF-C0RN  BUNDLE.
 source_lines: 22842-22856
 length: 912
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: indianwhystories00lind
 title: INDIAN  WHY  STORIES
 source_lines: 3903-3936
 length: 1029
-culture: Indian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

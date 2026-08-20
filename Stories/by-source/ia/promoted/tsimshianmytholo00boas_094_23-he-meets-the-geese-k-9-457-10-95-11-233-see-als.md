@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 23.  He  meets  the  Geese  K  9.457;  10.95;  11.233. See  also  H  ap  883.
 source_lines: 33128-33139
 length: 680
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

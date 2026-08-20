@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (45) RAVEN INVITES TUE MONSTERS (p.  lOO)
 source_lines: 41948-41989
 length: 2553
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

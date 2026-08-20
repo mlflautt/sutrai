@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 147. Protects the Aigonsots
 source_lines: 11316-11460
 length: 2855
-culture: Unknown
+culture: Greek
 story_type: divine_myth
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 64.  The  Transformers  visit  Sx'ai  in  Sk"tsas  Stsa  5.21; Sts6  Hill-
 source_lines: 33962-34008
 length: 3007
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

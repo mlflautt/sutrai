@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 7.  He  kills  the  big-horn  sheep  Sha  5.3;  Sh6  647;  Kutenai  101.-
 source_lines: 34454-34465
 length: 709
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

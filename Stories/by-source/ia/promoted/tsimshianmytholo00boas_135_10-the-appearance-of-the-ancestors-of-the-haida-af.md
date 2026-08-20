@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (4) RAVEN OBTAINS FRESH AVATER
 source_lines: 36824-36948
 length: 7067
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

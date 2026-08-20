@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 16.  IQE'SQES  KjA  101  ICTA'KXANAM.
 source_lines: 22289-23405
 length: 38043
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

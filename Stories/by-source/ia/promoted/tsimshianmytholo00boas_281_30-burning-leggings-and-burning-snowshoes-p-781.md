@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 30.  Burning  Leggings  and  Burning  Snowshoes  (p.  781).
 source_lines: 56893-56907
 length: 603
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

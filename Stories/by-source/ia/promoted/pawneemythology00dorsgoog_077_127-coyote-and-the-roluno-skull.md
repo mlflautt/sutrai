@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 127.  COYOTE  AND  THE  ROLUNO  SKULL'
 source_lines: 21314-21525
 length: 11726
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

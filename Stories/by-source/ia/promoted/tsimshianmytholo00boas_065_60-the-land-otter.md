@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 60.  The  Land  Otter  ^
 source_lines: 18107-18367
 length: 14123
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

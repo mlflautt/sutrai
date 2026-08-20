@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 5.  Marriage  with  the  Winds.
 source_lines: 43171-43183
 length: 736
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (7)  The  Devilfish
 source_lines: 47938-48061
 length: 6399
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

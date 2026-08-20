@@ -4,7 +4,7 @@ source: ArmenianMythology
 title: NIAN MYTHOLOGY IN THE ENCYCLOPEDIA OF
 source_lines: 5889-5975
 length: 2030
-culture: Persian
+culture: Armenian
 story_type: hero_tale
 status: promoted
 ---

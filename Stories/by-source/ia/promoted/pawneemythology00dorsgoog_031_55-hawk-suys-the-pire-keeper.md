@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 55.  HAWK  SUYS  THE  PIRE-KEEPER.'
 source_lines: 9390-9554
 length: 9118
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

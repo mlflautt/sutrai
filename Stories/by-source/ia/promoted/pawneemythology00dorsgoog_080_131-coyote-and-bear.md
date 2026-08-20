@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 131.  COYOTE  AND  BEAR.'
 source_lines: 21657-21725
 length: 2666
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

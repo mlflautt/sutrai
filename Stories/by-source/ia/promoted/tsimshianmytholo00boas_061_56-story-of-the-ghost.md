@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 56.  Story  of  the  Ghost'
 source_lines: 17628-17800
 length: 9582
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

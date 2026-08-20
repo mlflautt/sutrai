@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 128. COYOTE  TURNS  INTO  A  BUFFALO.
 source_lines: 26137-26154
 length: 1239
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

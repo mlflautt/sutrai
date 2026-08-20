@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (10)  Poisonous  Food
 source_lines: 48247-48264
 length: 902
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

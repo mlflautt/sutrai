@@ -1,0 +1,61 @@
+story_id: ArmenianMythology_002_the-political-background
+title: THE POLITICAL BACKGROUND
+source: ArmenianMythology
+culture: Armenian
+story_type: hero_tale
+narrative_arc:
+  beginning: THE POLITICAL BACKGROUND ONG before the Armenians came to occupy the
+    lofty pla- teau, south of the Caucasus, now known by their name, it had been the
+    home of peoples about whom we possess only scanty information. It matters little
+    for our present purpose, whether the older inhabitants consisted of different
+    ethnic types, having many national names and languages, or whether they were a
+    homogeneous race, speaking dialects of the same mother tongue and having some
+    common name. For the sake of conve...
+  middle: peninsula long before Indo-European tribes such as Phrygians, Mysians, Lydians,
+    and Bithynians came from Thrace, and Scythians and Cimmerians from the north of
+    the Black Sea to claim the pen- insula as their future home. The Urartians were
+    quite warlike and bravely held their own against the Assyrian ambitions until
+    the seventh century B.C., When their country, weakened and disorganized through
+    continual strife, fell an easy prey to the Armenian conquerors (640-600). 8 INTRODUCTION
+    The coming of...
+  end: ', roughly speaking, lies southeast of Pontus and just north- east of Cappadocia.
+    Thence they must have once more set out to conquer the promised land, the land
+    of the Urartians, where they established themselves as a military aristocracy
+    in the mountain fastnesses and the fortified cities, driving most of the older
+    inhabitants northward, reducing the remainder to serfdom, taxing them heavily,
+    employing them in their in- ternal and external wars, and gradually but quite
+    effectively imposing upon ...'
+key_characters:
+- Under
+- Christianity
+- Araxes
+- Thrace
+- Hannibal
+key_scenes:
+- "The Urartians formed a group of civilized states \nmostly centreing around the\
+  \ present city of Van"
+- ", When their country, weakened and disorganized through \ncontinual strife, fell\
+  \ an easy prey to the Armenian conquerors \n\n(640-600)"
+- "This is what took place, but the slow process be- \ncame complete only in the middle\
+  \ ages when the Turkish \n(Seljuk) conquest of the country created a terrible chaos\
+  \ in the \nsocial "
+- "After the \nmeteoric sweep of Alexander the Great through the eastern \nsky, it\
+  \ passed into Macedonian hands"
+- "The first king of this house was Tiridates I, \nformerly the head of the Magi of\
+  \ his country, who may have \ndone much in Armenia for the establishment of Zoroastrianism"
+visual_style: Armenian manuscript illumination, khachkar cross-stones, birds/angels,
+  floral marginalia
+suggested_medium: animation_1min
+estimated_duration_seconds: 30
+color_palette:
+- '#1a1a2e'
+- '#c0392b'
+- '#f39c12'
+- '#27ae60'
+- '#8e44ad'
+cultural_notes: Pre-Christian pagan roots, Christian synthesis, Mount Ararat, Vahagn/Astghik
+production_status: brief_generated
+tags:
+- armenian
+- hero_tale
+- animation_1min

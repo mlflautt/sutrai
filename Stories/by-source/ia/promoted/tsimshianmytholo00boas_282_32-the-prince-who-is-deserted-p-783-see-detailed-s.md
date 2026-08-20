@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 32.  The  prince  who  is  deserted  (p.  783). (See  detailed  statement  on  p.  784).
 source_lines: 56916-56939
 length: 870
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

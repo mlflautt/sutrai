@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 51. TSAUDA AND HaLUS  ^
 source_lines: 15530-16020
 length: 26864
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

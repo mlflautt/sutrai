@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 6.  Beavek  and  Porcupine — Continued.
 source_lines: 56424-56513
 length: 837
-culture: Indian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 17.  THE POOR  BOY  WHO MARRIED THE CHIEFS  DAUGHTER.
 source_lines: 22913-22932
 length: 1444
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

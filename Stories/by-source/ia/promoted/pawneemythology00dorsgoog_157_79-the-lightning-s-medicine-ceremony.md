@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 79. THE  LIGHTNING'S  MEDICINE  CEREMONY.
 source_lines: 24504-24625
 length: 9349
-culture: Unknown
+culture: Native American
 story_type: divine_myth
 status: promoted
 ---

@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (32)  TXa'mSEM imitates CHIEF SEAL (BUNGLING HOST,'  ]>.  90)
 source_lines: 39604-40035
 length: 25690
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

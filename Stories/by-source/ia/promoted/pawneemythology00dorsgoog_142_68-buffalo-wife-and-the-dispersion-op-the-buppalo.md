@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 68. BUFFALO  WIFE  AND  THE  DISPERSION  OP  THE  BUPPALO.
 source_lines: 24066-24082
 length: 1205
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

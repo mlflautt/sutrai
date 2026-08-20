@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  Names  belonging  to  Eagle  group— Continued.
 source_lines: 27246-27265
 length: 515
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

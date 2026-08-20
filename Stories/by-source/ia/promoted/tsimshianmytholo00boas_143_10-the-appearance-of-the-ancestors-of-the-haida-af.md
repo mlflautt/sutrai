@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (15) RAVEN ABDUCTS THE DAUGHTER OF THE SALMON  CHIEF
 source_lines: 38141-38299
 length: 10612
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

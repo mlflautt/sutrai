@@ -4,7 +4,7 @@ source: ancientirishepi00dunn
 title: THE  DEATH  OF  FORGEMEN
 source_lines: 7055-8770
 length: 66801
-culture: Unknown
+culture: Celtic
 story_type: fairy_tale
 status: promoted
 ---

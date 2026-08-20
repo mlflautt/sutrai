@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 8.  ENTS;X lA'KXANAM.
 source_lines: 15265-16603
 length: 31521
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

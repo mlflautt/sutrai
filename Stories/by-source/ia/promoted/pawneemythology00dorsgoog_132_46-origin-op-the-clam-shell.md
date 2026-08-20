@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 46.  ORIGIN  OP  THE  CLAM  SHELL.
 source_lines: 23793-23820
 length: 2089
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

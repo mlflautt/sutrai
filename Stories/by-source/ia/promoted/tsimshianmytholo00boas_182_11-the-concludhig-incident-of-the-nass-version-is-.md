@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 11.  The  concludhig  incident  of  the  Nass  version  is  the  encounter
 source_lines: 43210-43232
 length: 1060
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 56.  THE  SINQINQ  HAWK.'
 source_lines: 9555-9703
 length: 4797
-culture: Pawnee
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

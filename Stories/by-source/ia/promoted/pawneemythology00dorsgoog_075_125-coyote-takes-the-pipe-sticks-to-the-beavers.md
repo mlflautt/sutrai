@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 125.  COYOTE  TAKES  THE  PIPE-STICKS  TO  THE  BEAVERS.*
 source_lines: 21204-21249
 length: 2425
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

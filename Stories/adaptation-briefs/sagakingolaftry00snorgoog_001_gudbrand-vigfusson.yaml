@@ -1,0 +1,60 @@
+story_id: sagakingolaftry00snorgoog_001_gudbrand-vigfusson
+title: GUDBRAND VIGFUSSON
+source: sagakingolaftry00snorgoog
+culture: Norse/Icelandic
+story_type: hero_tale
+narrative_arc:
+  beginning: GUDBRAND VIGFUSSON PREFACE Ths tianslation of the Saga of King Olaf Tryggwaaon
+    has been made from the text of the Fomman^a Sogar, printed at Copenhagen, in 1825.
+    Occadonallj a reading has been tcJcen from the Flateyjarbok, printed at Christiania,
+    in I860. The text of the many verses of the poets, introduced in order to furnish
+    contemporary evidence for the facts related in the Saga, is very variable. Messrs.
+    Yigfusson and Powell, in their invaluable edition of the Northern Poetry, the
+    " Corpus P...
+  middle: aga, to distinguish it from the Heimskringla life of the King. It is to
+    a large extent a compilation of other Sagas. King Olaf, the Apostle of Christianity
+    to Iceland, held an important place in the Icelandic literature of the first part
+    of the thirteenth century, and one of his admirers thought it desirable to collect
+    into one complete story, and weld together, the notices respect- ing him. First
+    and foremost of the author's sources is the Heimskringla life, by Snorri, which
+    gives what may be c...
+  end: hetland, the Faroes, and Greenland. What- ever matter the author of tlie present
+    Saga found in Icelandic literature which bore upon the latter work, he has used
+    and incorporated ; and in particular has embodied a full account of the discovery
+    of Iceland, and notices of those of the early settlers who were favourable to
+    Christianity. Thus he has inserted several extracts from the Landnamabok, and
+    has largely expanded those parts of Kristni Saga which precede, and those which
+    describe the establis...
+key_characters:
+- King
+- Thoi
+- Beini
+- Brother
+- Let
+key_scenes:
+- "GUDBRAND VIGFUSSON \n\nPREFACE \n\nThs tianslation of the Saga of King Olaf Tryggwaaon\
+  \ has been made \nfrom the text of the Fomman^a Sogar, printed at Copenhagen, in\
+  \ 1825"
+- "The figure of the King under the varied light of the sources of the \nGreat 0"
+- "The legendary Olaf of Odd Monk's life is the \nsubject of miracle as well, and\
+  \ is gifted with a supernatural, spiritual \ninsight"
+- "Three times in the life of Hall- \nfred, at critical moments, he appears to him\
+  \ in dreams, and guides him \nto a right course of action (chs"
+- "In a dream he encourages \nSt Olaf, when an exile in Garda, to attempt the recovery\
+  \ of his kingdom \n(ch"
+visual_style: Viking Age art styles (Borre, Jelling, Mammen, Ringerike, Urnes), runic
+  inscription
+suggested_medium: animation_series
+estimated_duration_seconds: 300
+color_palette:
+- '#1a1a1a'
+- '#8b0000'
+- '#daa520'
+- '#4a4a4a'
+- '#f5f5dc'
+cultural_notes: Yggdrasil, Ragnarok, nine worlds, runic magic, skaldic poetry
+production_status: brief_generated
+tags:
+- norse/icelandic
+- hero_tale
+- animation_series

@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 4. The Journey Home.
 source_lines: 7407-7624
 length: 10335
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

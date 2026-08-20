@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: '31.  He  kills  the  water  monster  5.196; 9.201: 11.217;  Dawson  20;'
 source_lines: 33278-33320
 length: 2468
-culture: Tsimshian
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

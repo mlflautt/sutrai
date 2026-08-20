@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 3.  The  Origin  of  Fire
 source_lines: 53563-53724
 length: 8925
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

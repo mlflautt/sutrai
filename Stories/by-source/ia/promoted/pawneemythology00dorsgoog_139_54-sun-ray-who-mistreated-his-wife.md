@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 54. SUN-RAY  WHO  MISTREATED  HIS  WIFE.
 source_lines: 23986-24005
 length: 1408
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

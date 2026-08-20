@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (12)  The  Youth  Is  Set  Adrift
 source_lines: 48290-48324
 length: 1992
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

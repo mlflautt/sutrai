@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 79.  THE  LIQHTNINQ'S  MEDICINE  CEREMONY.'
 source_lines: 12617-13448
 length: 51427
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

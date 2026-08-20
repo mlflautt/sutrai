@@ -4,7 +4,7 @@ source: slavonicfairyta00naakgoog
 title: THE MAIDEN WHO WAS SWIFTEK
 source_lines: 6715-7606
 length: 32696
-culture: Unknown
+culture: Slavic
 story_type: fairy_tale
 status: promoted
 ---

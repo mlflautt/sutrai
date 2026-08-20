@@ -5,7 +5,7 @@ title: 1.  Salmon,  olachen,  sea  food,  etc.,  exist  in  a  house  far  out  
   It  is  pulled
 source_lines: 55799-55878
 length: 2909
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

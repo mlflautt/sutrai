@@ -4,7 +4,7 @@ source: ArmenianMythology
 title: IRANIAN DEITIES
 source_lines: 932-1599
 length: 31666
-culture: Greek
+culture: Armenian
 story_type: divine_myth
 status: promoted
 ---

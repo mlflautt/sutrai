@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 2.  The  Raccoon.
 source_lines: 43104-43120
 length: 1032
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

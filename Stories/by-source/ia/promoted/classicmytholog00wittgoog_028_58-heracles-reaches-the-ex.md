@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 58. Heracles reaches the ex-
 source_lines: 11100-11196
 length: 2547
-culture: Unknown
+culture: Greek
 story_type: divine_myth
 status: promoted
 ---

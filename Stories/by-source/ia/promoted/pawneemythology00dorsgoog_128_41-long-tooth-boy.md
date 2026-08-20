@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 41.  LONG-TOOTH-BOY.
 source_lines: 23636-23702
 length: 4716
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

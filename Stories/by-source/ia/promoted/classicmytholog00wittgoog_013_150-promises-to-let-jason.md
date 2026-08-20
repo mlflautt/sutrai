@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 150. Promises to let Jason
 source_lines: 10202-10225
 length: 653
-culture: Unknown
+culture: Greek
 story_type: legend
 status: promoted
 ---

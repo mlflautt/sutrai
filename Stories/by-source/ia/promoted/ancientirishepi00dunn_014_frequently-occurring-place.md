@@ -4,7 +4,7 @@ source: ancientirishepi00dunn
 title: FREQUENTLY OCCURRING PLACE
 source_lines: 17180-18730
 length: 28819
-culture: Unknown
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

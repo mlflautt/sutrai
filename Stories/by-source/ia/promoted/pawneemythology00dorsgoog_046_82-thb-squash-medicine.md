@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 82.  THB  SQUASH  MEDICINE/
 source_lines: 14243-14429
 length: 11707
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

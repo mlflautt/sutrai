@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 112.  THE  MAN  WHO  WENT  TO  SPIRIT-LAND.'
 source_lines: 19592-19711
 length: 7328
-culture: Pawnee
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

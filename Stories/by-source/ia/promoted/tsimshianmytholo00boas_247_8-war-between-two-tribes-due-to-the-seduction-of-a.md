@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 8.  War  between  two  tribes,  due  to  the  seduction  of  a  woman  and
 source_lines: 52616-52953
 length: 19167
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

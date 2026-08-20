@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 25.  He  reaches  a  blind  woman  who  is  maldng  a  canoe  K  9.458;  K
 source_lines: 33225-33236
 length: 533
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

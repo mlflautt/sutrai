@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 200. Grants the wish of Pol-
 source_lines: 12945-12995
 length: 948
-culture: Unknown
+culture: Greek
 story_type: legend
 status: promoted
 ---

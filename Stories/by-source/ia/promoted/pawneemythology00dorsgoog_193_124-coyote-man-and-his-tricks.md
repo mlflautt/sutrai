@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 124. COYOTE-MAN AND HIS  TRICKS.
 source_lines: 26059-26108
 length: 3464
-culture: Pawnee
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

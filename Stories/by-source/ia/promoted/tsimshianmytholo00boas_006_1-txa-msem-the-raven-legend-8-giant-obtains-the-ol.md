@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  Txa'msem  (The  Raven  Legend)* | (8) GIANT OBTAINS THE OLACHEN  ^
 source_lines: 3063-3104
 length: 2206
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

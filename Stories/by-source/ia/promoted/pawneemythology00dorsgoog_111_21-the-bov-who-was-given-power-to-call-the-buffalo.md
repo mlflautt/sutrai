@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 21.  THE  BOV  WHO  WAS  GIVEN  POWER  TO  CALL  THE  BUFFALO.
 source_lines: 23037-23053
 length: 947
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

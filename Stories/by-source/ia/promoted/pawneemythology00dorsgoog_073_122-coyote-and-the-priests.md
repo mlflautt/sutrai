@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 122.  COYOTE  AND  THE  PRIESTS.'
 source_lines: 20685-20938
 length: 12784
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

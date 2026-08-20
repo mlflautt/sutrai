@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 242. Zeus gifts Psyche with
 source_lines: 12465-12496
 length: 797
-culture: Unknown
+culture: Greek
 story_type: divine_myth
 status: promoted
 ---

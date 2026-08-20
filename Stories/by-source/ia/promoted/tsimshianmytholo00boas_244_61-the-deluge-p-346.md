@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 61.  The  Deluge  (p.  346)
 source_lines: 51872-51895
 length: 1491
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

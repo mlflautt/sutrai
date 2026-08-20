@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 50. THE POOR BOY  WHO WANTED  TO BE  MARRIED.
 source_lines: 24083-24105
 length: 1430
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

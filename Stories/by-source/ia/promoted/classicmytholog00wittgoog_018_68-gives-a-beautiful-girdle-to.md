@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 68. Gives a beautiful girdle to
 source_lines: 10436-10484
 length: 1180
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

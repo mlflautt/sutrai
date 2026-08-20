@@ -5,7 +5,7 @@ title: 26.  Stealing  of  seal  from  children, who  jilay  ball  with  it | (6)
   (including  Nos.  33
 source_lines: 32461-32535
 length: 515
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

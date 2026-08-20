@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: '4.  Names  belonging  to  G''ispawadwE''da: | (6)  Father  belonging  to  Eagle  group.'
 source_lines: 27309-28001
 length: 32401
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

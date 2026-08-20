@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  Txa'msem  (The  Raven  Legend)* | (27) TXa'MSEM kills LITTLE PITCH'
 source_lines: 4133-4838
 length: 38174
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -1,0 +1,61 @@
+story_id: sagalibrary05snoruoft_009_the-story-of-sigurd-the
+title: THE  STORY  OF  SIGURD  THE
+source: sagalibrary05snoruoft
+culture: Norse/Icelandic
+story_type: hero_tale
+narrative_arc:
+  beginning: THE STORY OF SIGURD THE JERUSALEM-FARER, EYSTEIN, AND OLAF. CHAPTER I.
+    THE BEGINNINGS OF THE SONS OF MAGNUS. AFTER the fall of King Magnus Barefoot,
+    his sons, Eystein, Sigurd, and Olaf, took up kingdom in Norway ; Eystein had the
+    northern deal of the land, and Sigurd the southern. King Olaf was then four or
+    five winters old, but that third part of the land which was his share they both
+    had ward over. Sigurd was taken to king when he was thirteen or fourteen winters
+    old, but Eystein was a year ol...
+  middle: m withal, they who would go into war- wage. They bade the kings that one
+    of them or the other, either Eystein or Sigurd, should fare and be captain of
+    that folk which should betake itself to the journey. And the kings said yea thereto,
+    and arrayed the journey at both their costs. To this journey betook themselves
+    many mighty men, both landed-men and mighty bonders. And when the faring was boun,
+    it was settled that Sigurd should fare, but Eystein should rule over the land
+    on behalf of both. CHAPT...
+  end: 'ships. So says Thorarin Curtfell : So came together Mickle host, eager IV
+    Story of Sigurd Jerusalem-farer. 249 Of the folk-king much wise Well willed to
+    the bounteous, That sixty board-fair Ships hence glided O''er waves at the willing
+    Of God the all-pure. King Sigurd sailed in the autumn to England ; there then
+    was king Henry, son of William the Bastard ; and King Sigurd was there the winter
+    through. So says Einar Skulison : Toil-mighty leader ruled Westward the most of
+    war-hosts ; Sea''s mare sp...'
+key_characters:
+- King
+- Eilif
+- Brother
+- Let
+- Jutland
+key_scenes:
+- "AFTER the fall of King Magnus Barefoot, \nhis sons, Eystein, Sigurd, and Olaf,\
+  \ took \nup kingdom in Norway ; Eystein had the \nnorthern deal of the land, and\
+  \ Sigurd the southern"
+- "To this journey betook themselves \nmany mighty men, both landed-men and mighty\
+  \ \nbonders"
+- "So \nsays Thorarin Curtfell : \n\nSo came together \nMickle host, eager \n\nIV\
+  \ Story of Sigurd Jerusalem-farer"
+- "249 \n\nOf the folk-king much wise \nWell willed to the bounteous, \nThat sixty\
+  \ board-fair \nShips hence glided \nO'er waves at the willing \nOf God the all-pure"
+- "King Sigurd sailed in the autumn to England ; \nthere then was king Henry, son\
+  \ of William the \nBastard ; and King Sigurd was there the winter \nthrough"
+visual_style: Viking Age art styles (Borre, Jelling, Mammen, Ringerike, Urnes), runic
+  inscription
+suggested_medium: animation_series
+estimated_duration_seconds: 300
+color_palette:
+- '#1a1a1a'
+- '#8b0000'
+- '#daa520'
+- '#4a4a4a'
+- '#f5f5dc'
+cultural_notes: Yggdrasil, Ragnarok, nine worlds, runic magic, skaldic poetry
+production_status: brief_generated
+tags:
+- norse/icelandic
+- hero_tale
+- animation_series

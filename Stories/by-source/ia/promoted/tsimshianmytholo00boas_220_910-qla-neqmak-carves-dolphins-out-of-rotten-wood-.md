@@ -5,7 +5,7 @@ title: 910.  Qla'neqMak"  carves  dolphins  out  of  rotten  wood.  They  jump  
   | (25)  Wrestling  in  the  Air
 source_lines: 48513-48529
 length: 562
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

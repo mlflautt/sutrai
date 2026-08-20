@@ -1,0 +1,60 @@
+story_id: chinooktext00boas_008_8-ents-x-la-kxanam
+title: 8.  ENTS;X lA'KXANAM.
+source: chinooktext00boas
+culture: Chinook
+story_type: legend
+narrative_arc:
+  beginning: 8. ENTS;X lA'KXANAM. Ents;x his Myth. EiitsjX oytVkjike Upe'qciuc. A'lta
+    agio'kXul imo'lak tcikElo^ya. EntsjX his grandmother tTpe'qciuc. Now she always
+    said elk he shall go and 1 to him take it. Wax qe'xtce ayo^yix; a'lnka 6'tsikin
+    atca^wo^ox; ia'mka ikj'a'otEii 2 Every intending he went; only chipmunks he killed
+    them ; only squirrels morning atcia'wo^ox; ana^-y- dko'lXul atca'wo^ox. Tca'xe
+    Lx a/yo. 3 he killed them ; sometimes mice ho killed them. Several times maybe
+    he went. E^xauvvite a^yo k...
+  middle: 'k. XigE''tsax. WiXt na-ixE''lqamx: g the rabbit, then it went into It cried.
+    Again he shouted : the woods, " Ok; uitkapa''2-y- imola''2k. AtxElka''yd walalE''muX,
+    atxEliiwe/yo 9 "Come down to the prairie, elk. We will fight, we will dance !
+    " walalE^muX ! " TakE wiXt Ljaq, Ljiiq, L;aq, Laxa ne^xax ema''cEii. ^0 Then again
+    out, out, out, out it became a deer. "la''xka aniqElxe''moLx, cia''xost qe''ta
+    tE''ptd-ix''e." TakE nigE''tsax "Him I called him, his eyes the same huckleberries.''
+    Then it cried H as ema''oED...'
+  end: 'AtxElka/yd walalEma^mm. AtxEluwe^yd ^/> "Come down to the prairie, elk. We
+    will fight. We will walalEma''mm!" TakE wiXt Ljiiq, Ljiiq, Ljaq iie^xau; Laxa
+    ne^xax -.^ dance!" Then again out, out, out it became; out became imd''lak; i''k*ala
+    imd''lak. A''lta ayiVowitck EntSjX: -.0 an elk; a male elk. Now he danced EntsjX:
+    "Qa''xpa ya''2mEllk; ''apka'' ? Lo''oas go-y- e''micqL ya''milkj ''apka'' ! "Where
+    shall I go into you? Perhaps in your mouth I will go into you ! 19 x,x,x, mxa/xoie;
+    ta^mka tEmXte''nuimiixa''xoie...'
+key_characters:
+- La'la
+- Ka'uauwe
+- Ksta
+- Lethxology
+- I'erhaps
+key_scenes:
+- "Wax qe'xtce ayo^yix; a'lnka 6'tsikin atca^wo^ox; ia'mka ikj'a'otEii 2 \n\nEvery\
+  \ intending he went; only chipmunks he killed them ; only squirrels \n\nmorning\
+  \ \n\natcia'wo^ox; ana^-y- dko"
+- "3 \n\nhe killed them ; sometimes mice ho killed them"
+- "\" L;aq, Ljaq, L;aq, La'xa ne^xax iske'epXoa; ''la'xka g \n\nOut, out, out, out\
+  \ it became a rabbit; \"Him \n\naniqElxe'moLx, tia'utcakc t'a'qe LkalkE'mstk"
+- "^0 \n\nThen again out, out, out, out it became a deer"
+- "'^ TakE wiXt Ljiiq, L;aq, Ljaq ne'xau, Laxa De'xax -ia \n\nThen again out, out,\
+  \ out it became, out it became \n\ne^DEmckc imd'lak"
+visual_style: Pacific Northwest Coast formline, cedar plank house interior, trade
+  jargon cultural context
+suggested_medium: animation_series
+estimated_duration_seconds: 210
+color_palette:
+- '#1a1a1a'
+- '#c41e3a'
+- '#004b87'
+- '#d4a574'
+- '#8b7355'
+cultural_notes: Chinook Jargon trade language, Columbia River cultures, transformer
+  myths
+production_status: brief_generated
+tags:
+- chinook
+- legend
+- animation_series

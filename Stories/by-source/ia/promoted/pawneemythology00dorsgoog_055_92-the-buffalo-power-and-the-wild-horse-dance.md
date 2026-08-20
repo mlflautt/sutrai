@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 92.  THE  BUFFALO  POWER  AND  THE  WILD  HORSE  DANCE.'
 source_lines: 17008-17332
 length: 19909
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

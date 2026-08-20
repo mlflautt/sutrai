@@ -1,0 +1,44 @@
+story_id: westafricanfolkt00barkrich_001_printed-at
+title: PRINTED  AT
+source: westafricanfolkt00barkrich
+culture: African
+story_type: trickster_tale
+narrative_arc:
+  beginning: PRINTED AT THR COMPIvETE PRESS, WEST NORWOOD LONDON, ENGI^AND CONTENTS
+    PAGE INTRODUCTION ii I. ANANSI, OR SPIDER, TALES I. HOW WE GOT THE NAME ' SPIDER
+    TALES ' 29 II. HOW WISDOM BECAME THE PROPERTY OF THE HUMAN RACE 33 in. ANANSI
+    AND NOTHING 35 IV. THUNDER AND ANANSI 39 V. WHY THE LIZARD CONTINUALLY MOVES HIS
+    HEAD UP AND DOWN
+  middle: 45 VI. TIT FOR TAT 51 VII. WHY WHITE ANTS ALWAYS HARM MAN'S PROPERTY 55
+    VIII. THE SQUIRREL AND THE SPIDER 59 IX. WHY WE SEE ANTS CARRYING BUNDLES AS BIG
+    AS THEMSELVES 63 X. WHY SPIDERS ARE ALWAYS FOUND IN THE CORNERS OF CEILINGS 69
+    XI. ANANSI THE BLIND FISHERM.\N 73 XII. ADZANUMEE AND HER MOTHER 77 5 317)j\y
+    I. WEST AFRICAN FO
+  end: LK-TALES PAGE XIII. THE GRINDING - STONE THAT GROUND FLOUR BY ITSELF 8i XIV.
+    " MORNING SUNRISE " 85 XV. WHY THE SEA -TURTLE WHEN CAUGHT BEATS ITS BREAST WITH
+    ITS FORE- LEGS 87 XVI. HOW BEASTS AND SERPENTS FIRST CAME INTO THE WORLD 89 XVII.
+    HONOURABLE MINU 95 XVIII. WHY THE MOON AND THE STARS RECEIVE THEIR LIGHT FROM
+    THE SUN 97
+key_characters: []
+key_scenes:
+- "HOW WE GOT THE NAME ' SPIDER TALES ' 29 \n\nII"
+- "HOW WISDOM BECAME THE PROPERTY OF \n\nTHE HUMAN RACE 33 \n\nin"
+- "THE SQUIRREL AND THE SPIDER 59 \n\nIX"
+- "WHY SPIDERS ARE ALWAYS FOUND IN THE \n\nCORNERS OF CEILINGS 69 \n\nXI"
+- "HOW BEASTS AND SERPENTS FIRST CAME \n\nINTO THE WORLD 89 \n\nXVII"
+visual_style: West African textile patterns (adinkra, bogolan), wood sculpture aesthetic,
+  vibrant contrasts
+suggested_medium: short_animation_30s
+estimated_duration_seconds: 30
+color_palette:
+- '#1a1a1a'
+- '#ff6b00'
+- '#ffd700'
+- '#004d00'
+- '#8b0000'
+cultural_notes: Anansi trickster cycles, sky god Nyame, communal oral tradition, proverbs
+production_status: brief_generated
+tags:
+- african
+- trickster_tale
+- short_animation_30s

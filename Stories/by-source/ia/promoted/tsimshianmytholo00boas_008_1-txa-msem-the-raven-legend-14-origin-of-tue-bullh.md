@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  Txa'msem  (The  Raven  Legend)* | (14) ORIGIN OF TUE BULLHEAD^
 source_lines: 3352-3371
 length: 1064
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

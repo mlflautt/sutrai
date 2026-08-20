@@ -4,7 +4,7 @@ source: chinesefairybook00wilh
 title: THE MAGIC  CASK
 source_lines: 732-773
 length: 1648
-culture: Unknown
+culture: Chinese
 story_type: fairy_tale
 status: promoted
 ---

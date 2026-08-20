@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 13.  SKA'SA-IT  ICTA'KXANAM  K;A IQE'SQES.
 source_lines: 20017-20393
 length: 12726
-culture: Unknown
+culture: Chinook
 story_type: fairy_tale
 status: promoted
 ---

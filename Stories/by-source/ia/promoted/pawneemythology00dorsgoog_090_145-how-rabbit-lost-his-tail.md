@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 145.  HOW  RABBIT  LOST  HIS  TAIL'
 source_lines: 22367-22451
 length: 3253
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

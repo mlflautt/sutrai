@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 151. Jason sets ont from lolcus
 source_lines: 11643-11714
 length: 1650
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

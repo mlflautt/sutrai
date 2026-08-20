@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 38.  Local  Winter  in  Git-q!.v'°da  (p.  246)
 source_lines: 49852-49925
 length: 4324
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

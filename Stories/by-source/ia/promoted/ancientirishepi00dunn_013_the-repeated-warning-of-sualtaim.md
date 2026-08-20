@@ -4,7 +4,7 @@ source: ancientirishepi00dunn
 title: THE  REPEATED  WARNING  OF  SUALTAIM
 source_lines: 13849-17179
 length: 135846
-culture: Unknown
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

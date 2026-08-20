@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  Txa'msem  (The  Raven  Legend)* | (7) GIANT GAMBLES WITH GUI>L^
 source_lines: 3052-3062
 length: 547
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

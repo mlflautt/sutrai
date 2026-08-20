@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 60.  THE BUFFALO  AND  RED-SPIDER-WOMAN'S DAUGHTER.
 source_lines: 24106-24121
 length: 1103
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

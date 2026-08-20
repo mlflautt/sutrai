@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 1.  The  seers  g.o  thus  [toj  the  ghosts.  Wheu  three.
 source_lines: 24804-24871
 length: 1805
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

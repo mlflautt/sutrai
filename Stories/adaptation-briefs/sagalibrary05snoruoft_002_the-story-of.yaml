@@ -1,0 +1,60 @@
+story_id: sagalibrary05snoruoft_002_the-story-of
+title: THE STORY OF
+source: sagalibrary05snoruoft
+culture: Norse/Icelandic
+story_type: hero_tale
+narrative_arc:
+  beginning: 'THE STORY OF I MAGNUS THE GOOD. CHAPTER I. THE BEGINNINGS OF KING MAGNUS
+    THE GOOD. MAGNUS, the son of Olaf, set on foot his journey after Yule from the
+    east from Holmgarth down to Aldeigia-burg ; and they fell to arraying their ships
+    as soon as the ice broke up in the spring. Thereof Arnor the earls'' skald maketh
+    mention in Magnus-drapa : Now know I that the reddener Of the edge of fight-keen
+    Hneitir Ruled men ; although wealth-breakers Tell nought, full well I wot it,
+    Bold worm-seat''s hater was...'
+  middle: 'd from the east from Garthrealm, sailed first to Sweden and then up to
+    Sigtun. Then was king in Sweden Emund, son of Olaf ; there too was Queen Astrid,
+    whom the holy King Olaf had had to wife ; she gave right good welcome to Magnus
+    her stepson, and let straightway summon a thronged Thing at the place called Hangrar.
+    But at that Thing Astrid spake and said : " Here is now come among us the son
+    of the holy King Olaf, who is hight Magnus. He is minded for faring to Nor- way
+    to seek his heritage. Mi...'
+  end: 'est to all that I spare nowise other things for his helping, of such as I
+    may give him." Sithence she spoke long and deftly ; but when she made an end,
+    then answered a many, and said thus : that the Swedes had fared a faring of but
+    little fame to Norway, when they followed his father Olaf, " nor is there aught
+    better to look for I The Story of Magnus the Good. 5 whereas this king is," said
+    they; "and for that reason men are uneager for this faring." Astrid answers :
+    " All those men who are some-...'
+key_characters:
+- King
+- Let
+- Jutland
+- Elsewhere
+- Silence
+key_scenes:
+- "MAGNUS, the son of Olaf, set on foot his \njourney after Yule from the east from\
+  \ \nHolmgarth down to Aldeigia-burg ; and \nthey fell to arraying their ships as\
+  \ soon as the ice \nbroke "
+- "King Magnus made for Sweden from the east \nin the spring"
+- "So sayeth Arnor : \n\nBade now the young edge-reddener \nThe folk unto the war-thing\
+  \ : \nO eagles' feeder, aboard bore \nTheir war-gear nimble courtmen"
+- "\" And so Astrid brought \nit about by her words and helpfulness, that much \n\
+  folk betook them with Astrid to following him to \nNorway"
+- "The bounteous Magnus certes \nMust guerdon Astrid's kindness, \nWhich made mens'\
+  \ friend wide-landed, \nAnd we thereof full fain are"
+visual_style: Viking Age art styles (Borre, Jelling, Mammen, Ringerike, Urnes), runic
+  inscription
+suggested_medium: animation_series
+estimated_duration_seconds: 300
+color_palette:
+- '#1a1a1a'
+- '#8b0000'
+- '#daa520'
+- '#4a4a4a'
+- '#f5f5dc'
+cultural_notes: Yggdrasil, Ragnarok, nine worlds, runic magic, skaldic poetry
+production_status: brief_generated
+tags:
+- norse/icelandic
+- hero_tale
+- animation_series

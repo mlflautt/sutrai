@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 43.  The  Story  of  Part  Summer'
 source_lines: 14496-14833
 length: 17812
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

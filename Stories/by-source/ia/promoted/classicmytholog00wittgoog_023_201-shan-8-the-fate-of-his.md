@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 201. Shan 8 the fate of his
 source_lines: 10716-10760
 length: 1028
-culture: Unknown
+culture: Greek
 story_type: origin_myth
 status: promoted
 ---

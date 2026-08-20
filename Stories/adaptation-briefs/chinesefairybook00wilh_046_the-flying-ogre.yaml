@@ -1,0 +1,59 @@
+story_id: chinesefairybook00wilh_046_the-flying-ogre
+title: THE FLYING OGRE
+source: chinesefairybook00wilh
+culture: Chinese
+story_type: legend
+narrative_arc:
+  beginning: THE FLYING OGRE THERE once hved in Sianfu an old Buddhist monk, who loved
+    to wander in lonely places. In the course of his wanderings he once came to the
+    Kuku- Nor, and there he saw a tree which w^as a thousand feet high and many cords
+    in breadth. It was hollow inside and one could see the sky shining down into it
+    from above. When he had gone on a few miles, he saw in the dis- tance a girl in
+    a red coat, barefoot, and with unbound hair, who was running as fast as the wind.
+    In a moment she stood ...
+  middle: 'His horse ran with the speed of lightning, and covered a couple of miles
+    with every step. "Whether it ran in the air or on the ground, its speed was the
+    same. "Have you seen the girl in the red coat?" asked the stranger. And when the
+    monk replied that he had seen nothing, the other continued: "Bonze, you should
+    not lie ! This girl is not a human being, but a flying ogre. Of flying ogres there
+    are thousands of varieties, who bring ruin to people everywhere. I have already
+    slain a countless number...'
+  end: 'o the tree and looked about him. Then he once more mounted his horse, which
+    carried him up the hollow trunk and out at the end of the tree. The monk looked
+    up and could see a small, red flame come out of the tree-top. It was followed
+    by the messenger of the skies. Both rose up to the clouds and disappeared. After
+    a time there fell a rain of blood. The ogre had probably been hit by an arrow
+    or captured. Afterward the monk told the tale to the scholar who wrote it down.
+    Note: This flying ogre is a...'
+key_characters:
+- Note
+- West
+- Buddhist
+- Avhen
+- Have
+key_scenes:
+- "In the \ncourse of his wanderings he once came to the Kuku- \nNor, and there he\
+  \ saw a tree which w^as a thousand \nfeet high and many cords in breadth"
+- "When he had gone on a few miles, he saw in the dis- \ntance a girl in a red coat,\
+  \ barefoot, and with unbound \nhair, who was running as fast as the wind"
+- "^' \n\nWith that she ran up to the hollow tree and crawled \ninto it"
+- "When the monk had gone a little further, he met one \nwho rode an armored steed"
+- "His horse ran with the speed of \nlightning, and covered a couple of miles with\
+  \ every \nstep"
+visual_style: Classical Chinese ink wash (shui-mo), gongbi detail, silk scroll format,
+  seal script calligraphy
+suggested_medium: animation_3min
+estimated_duration_seconds: 96
+color_palette:
+- '#0d0d0d'
+- '#c8a951'
+- '#8b0000'
+- '#006400'
+- '#f5f5dc'
+cultural_notes: Daoist/Buddhist/Confucian layers; Eight Immortals, Dragon Kings, Jade
+  Emperor
+production_status: brief_generated
+tags:
+- chinese
+- legend
+- animation_3min

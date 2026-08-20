@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 31.  When  its  badness comes  to  be  on  it the  sky,  now  he  is  asked
 source_lines: 26195-26218
 length: 696
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

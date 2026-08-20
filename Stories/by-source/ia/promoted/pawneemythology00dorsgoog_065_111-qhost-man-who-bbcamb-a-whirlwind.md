@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 111.  QHOST-MAN  WHO  BBCAMB  A  WHIRLWIND.'
 source_lines: 19559-19591
 length: 1649
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

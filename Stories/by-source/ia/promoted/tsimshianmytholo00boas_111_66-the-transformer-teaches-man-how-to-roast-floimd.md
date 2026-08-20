@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 66.  The  Transformer  teaches  man  how  to  roast  floimdcrs  Cow  .5.47;
 source_lines: 34051-34069
 length: 1170
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

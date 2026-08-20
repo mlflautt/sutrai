@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 6. HOW EVENING-STAR'S DAUGHTER WAS OVERCOME.
 source_lines: 22654-22702
 length: 3572
-culture: Pawnee
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

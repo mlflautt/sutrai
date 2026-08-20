@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 3.  ANEKTCXO'LEMIX  ITCA'KXANAM.
 source_lines: 4137-7873
 length: 79258
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

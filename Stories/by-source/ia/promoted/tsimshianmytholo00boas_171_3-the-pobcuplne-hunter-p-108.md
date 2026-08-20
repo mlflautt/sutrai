@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 3.  The  Pobcuplne-Hunter  (p.  108)
 source_lines: 42292-42304
 length: 736
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

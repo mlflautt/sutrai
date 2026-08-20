@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 2.  OKULA'M  ITCA  KXANAM.
 source_lines: 1858-4136
 length: 50814
-culture: Unknown
+culture: Chinook
 story_type: fairy_tale
 status: promoted
 ---

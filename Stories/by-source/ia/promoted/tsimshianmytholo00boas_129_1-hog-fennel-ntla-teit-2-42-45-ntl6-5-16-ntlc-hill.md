@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: '1.  Hog  Fennel  Ntla  Teit  2.42,  45;  Ntl6  5.16;  Ntlc  Hill-Tout  2.564:'
 source_lines: 34649-34743
 length: 5571
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

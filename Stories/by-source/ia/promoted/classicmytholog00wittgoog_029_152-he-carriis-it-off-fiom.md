@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 152. He carriis it off fiom
 source_lines: 11198-11300
 length: 2487
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

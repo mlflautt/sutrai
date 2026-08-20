@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 26. THE BUFFALO GAMING-STICKS.
 source_lines: 23223-23238
 length: 1088
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

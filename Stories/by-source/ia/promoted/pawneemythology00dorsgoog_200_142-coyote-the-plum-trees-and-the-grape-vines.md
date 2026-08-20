@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 142. COYOTE. THE PLUM TREES. AND THE GRAPE  VINES.
 source_lines: 26269-26280
 length: 733
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

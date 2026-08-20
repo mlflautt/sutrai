@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 104. THE SCALPED-MAN MEDICINE.
 source_lines: 25636-25665
 length: 2161
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

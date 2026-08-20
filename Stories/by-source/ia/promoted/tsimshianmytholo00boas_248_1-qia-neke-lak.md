@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  QIa'neke'lak"
 source_lines: 52954-52973
 length: 846
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (1)  The  Jealous  Uncle
 source_lines: 47418-47475
 length: 3547
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

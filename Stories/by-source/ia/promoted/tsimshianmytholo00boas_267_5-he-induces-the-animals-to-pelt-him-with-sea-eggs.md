@@ -5,7 +5,7 @@ title: 5.  He  induces  the  animals  to  pelt  him  with  sea  eggs,  which  he
   | (6) The  slave  eats  food  offered  to  Raven  (p.  690)  Ts,  N,  Tl,  M.
 source_lines: 56116-56154
 length: 1306
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

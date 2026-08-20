@@ -5,7 +5,7 @@ title: 34.  The  young  chief  who  married  his  cousin  (p.  792). The  chief'
   | (25)  Wrestling  in  the  air  (p.  813)  Wish.
 source_lines: 57070-57107
 length: 1256
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

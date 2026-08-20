@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 100.  THE  MAN  WHO  MARRIED  A  DEER*'
 source_lines: 18146-18797
 length: 38902
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

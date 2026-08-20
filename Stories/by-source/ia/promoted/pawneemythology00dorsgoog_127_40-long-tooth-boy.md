@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 40. LONG-TOOTH-BOY.
 source_lines: 23584-23635
 length: 3771
-culture: Pawnee
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 144.  HOW  WILD-CAT  iaiXED  THE  BEAR.'
 source_lines: 22337-22366
 length: 1734
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

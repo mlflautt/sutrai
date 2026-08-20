@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (6) The  Stump  Eats  the  Salmon
 source_lines: 38387-38712
 length: 18367
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

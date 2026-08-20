@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  Who  Married  his  Cousin'
 source_lines: 12279-12577
 length: 16416
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

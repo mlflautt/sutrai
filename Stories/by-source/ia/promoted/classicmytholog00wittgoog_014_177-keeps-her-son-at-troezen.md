@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 177. Keeps her son at Troezen
 source_lines: 10226-10253
 length: 627
-culture: Unknown
+culture: Greek
 story_type: legend
 status: promoted
 ---

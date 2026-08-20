@@ -5,7 +5,7 @@ title: 27.  The  Pkince  ■who  "\Ta.s  Takex  Aavay  by  the  Sprixg  S^vlmon 
   and  is  tested  hj  his
 source_lines: 45303-46072
 length: 29875
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

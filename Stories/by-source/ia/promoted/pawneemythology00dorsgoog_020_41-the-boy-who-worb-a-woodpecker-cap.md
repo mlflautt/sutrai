@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 41.  THE  BOY  WHO  WORB  A  WOODPECKER  CAP.'
 source_lines: 7529-7774
 length: 14540
-culture: Pawnee
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 326.  THE  ORIGIN  OP  MBDICINB  CBRSMONIBS  OR  POWBR.
 source_lines: 15642-15860
 length: 13642
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

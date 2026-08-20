@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 24. When  five  murderer  that supernatu- then three  cut
 source_lines: 25636-25817
 length: 3822
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

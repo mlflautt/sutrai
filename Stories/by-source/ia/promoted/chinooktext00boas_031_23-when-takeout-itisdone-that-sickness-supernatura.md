@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 23.  When takeout itisdone that sickness supernatural, now  it  is  taken  in
 source_lines: 25584-25633
 length: 1444
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

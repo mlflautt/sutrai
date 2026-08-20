@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 26. When
 source_lines: 25856-25989
 length: 1103
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

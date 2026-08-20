@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (3)  The  Spine  Seat
 source_lines: 47566-47632
 length: 3991
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

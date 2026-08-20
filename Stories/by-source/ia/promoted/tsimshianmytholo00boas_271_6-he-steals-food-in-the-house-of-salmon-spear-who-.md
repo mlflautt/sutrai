@@ -5,7 +5,7 @@ title: 6.  He  steals  food  in  the  house  of  Salmon  Spear,  who  fights  wi
   | (6)  Thunderbird  steals  the  wife  of  another  bird  (p.  712).
 source_lines: 56302-56396
 length: 3138
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

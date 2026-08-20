@@ -4,7 +4,7 @@ source: indianwhystories00lind
 title: INDIAN  WHY  STORIES
 source_lines: 2116-2147
 length: 936
-culture: Indian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

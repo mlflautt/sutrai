@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 126.  COYOTE  AND  THE ROLLING  STONE.
 source_lines: 26109-26122
 length: 871
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

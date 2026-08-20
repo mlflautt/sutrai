@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 74.  THE  GIRL,  SPIDER-WOMAN,  AND  THE  BALL  GAME.
 source_lines: 24323-24351
 length: 2001
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

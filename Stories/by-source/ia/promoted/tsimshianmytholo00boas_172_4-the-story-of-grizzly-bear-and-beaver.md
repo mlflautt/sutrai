@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 4.  The  Story  of  Grizzly  Bear  and  Beaver
 source_lines: 42305-42325
 length: 1077
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

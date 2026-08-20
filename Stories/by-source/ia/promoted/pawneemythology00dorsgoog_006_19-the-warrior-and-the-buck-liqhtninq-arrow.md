@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 19.  THE  WARRIOR  AND  THE  BUCK  LIQHTNINQ  ARROW.'
 source_lines: 3968-4121
 length: 9320
-culture: Pawnee
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

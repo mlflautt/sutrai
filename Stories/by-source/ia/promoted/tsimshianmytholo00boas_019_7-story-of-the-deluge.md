@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 7.  Story  of  the  Deluge  ^
 source_lines: 5533-6017
 length: 24816
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -5,7 +5,7 @@ title: 910.  Qla'neqMak"  carves  dolphins  out  of  rotten  wood.  They  jump  
   | (24)  Whaling
 source_lines: 48498-48512
 length: 889
-culture: Chinook
+culture: Native American
 story_type: legend
 status: promoted
 ---

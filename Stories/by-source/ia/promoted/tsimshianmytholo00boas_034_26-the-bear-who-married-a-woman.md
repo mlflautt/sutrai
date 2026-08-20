@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 26.  The  Bear  Who  Married  a  Woman'
 source_lines: 9826-9853
 length: 1570
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

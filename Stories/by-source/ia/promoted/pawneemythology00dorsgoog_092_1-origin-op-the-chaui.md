@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 1. ORIGIN OP THE CHAUI.
 source_lines: 22530-22541
 length: 740
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

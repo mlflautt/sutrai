@@ -1,0 +1,62 @@
+story_id: ArmenianMythology_001_by-the-turks
+title: BY THE TURKS
+source: ArmenianMythology
+culture: Armenian
+story_type: divine_myth
+narrative_arc:
+  beginning: 'BY THE TURKS Heler nee °° yen "7 hea a ANT Aer ; ipaere spy ; -* | oe
+    eng gE é rr} 4 *_L img gat pay, => ae , 55% toa a : | AUTHOR’S PREFACE HE ancient
+    religion of Armenia was derived from three main sources: National, Iranian, and
+    Asianic. The Asi- anic element, including the Semitic, does not seem to have ex-
+    tended beyond the objectionable but widely spread rites of a mother goddess. The
+    National element came from Eastern Europe and must have had a common origin with
+    the Iranian. But it, no d...'
+  middle: 'ability. The ancient material was not so scanty as broken. So analogy,
+    wherever it could be found within the family, was called upon to restore the nat-
+    ural connections. Among the numerous writers on Armenian mythology, three names
+    stand high: Mgrdich Emin of Moscow, Prof. Heinrich Gelzer of Jena, and Father
+    Leo Alishan of Venice. Emin laid the foundation of the scientific treatment of
+    Arme- nian mythology in the middle of the nineteenth century, and his excellent
+    contribution has become indisp...'
+  end: nian folk-lore a systematic form, while A. Aharonian’s thesis on the same subject
+    1s not devoid of interest. Unfortunately Stackelberg’s article, written in Russian,
+    was accessible to the author only in an Armenian résumé. Sandalgian’s Histoire
+    Documentaire de PArménie, which appeared in 1917 but came to the author’s notice
+    only recently, contains important chapters on ancient Armenian religion and mythology.
+    The part that interprets Urartian inscriptions through ancient Greek and Armenian
+    has n...
+key_characters:
+- Asianic
+- Father
+- Iranian
+- Greek
+- Seminary
+key_scenes:
+- "The Asi- \nanic element, including the Semitic, does not seem to have ex- \ntended\
+  \ beyond the objectionable but widely spread rites of a \nmother goddess"
+- "So analogy, wherever it could be \nfound within the family, was called upon to\
+  \ restore the nat- \nural connections"
+- "Emin laid the foundation of the scientific treatment of Arme- \nnian mythology\
+  \ in the middle of the nineteenth century, and \nhis excellent contribution has\
+  \ become indispensable in t"
+- "Sandalgian’s Histoire Documentaire de PArménie, \nwhich appeared in 1917 but came\
+  \ to the author’s notice only \nrecently, contains important chapters on ancient\
+  \ Armenian \nreligion an"
+- "The part that interprets Urartian \ninscriptions through ancient Greek and Armenian\
+  \ has not met \nwith general recognition among scholars"
+visual_style: Armenian manuscript illumination, khachkar cross-stones, birds/angels,
+  floral marginalia
+suggested_medium: animation_1min
+estimated_duration_seconds: 30
+color_palette:
+- '#1a1a2e'
+- '#c0392b'
+- '#f39c12'
+- '#27ae60'
+- '#8e44ad'
+cultural_notes: Pre-Christian pagan roots, Christian synthesis, Mount Ararat, Vahagn/Astghik
+production_status: brief_generated
+tags:
+- armenian
+- divine_myth
+- animation_1min

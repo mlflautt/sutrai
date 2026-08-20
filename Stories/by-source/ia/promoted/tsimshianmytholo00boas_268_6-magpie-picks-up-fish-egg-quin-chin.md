@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 6.  Magpie  picks  up  fish  egg  Quin,  Chin.
 source_lines: 56197-56226
 length: 836
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

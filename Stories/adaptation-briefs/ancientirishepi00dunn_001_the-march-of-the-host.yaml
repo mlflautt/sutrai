@@ -1,0 +1,60 @@
+story_id: ancientirishepi00dunn_001_the-march-of-the-host
+title: THE  MARCH  OF  THE  HOST
+source: ancientirishepi00dunn
+culture: Celtic
+story_type: hero_tale
+narrative_arc:
+  beginning: THE MARCH OF THE HOST W. 389. On the first stage the hosts went ^ from
+    Cruachan/ they slept the night at Cul SUinne, ^ where to-day is Cargin's Lough.
+    2 And ^ in that place ^ was fixed the tent of Aihll son of Ross, * and the trappings
+    were arranged, both bedding and bed-clothes.^ The tent of Fergus macRoig was on
+    his right hand ; Cormac Conlongas, Conchobar's son, was be- side him ; Ith macEtgaith
+    next to that ; Fiachu mac- Firaba, ^ the son of Conchobar's daughter,^ at its
+    side ; *Conall Cerna...
+  middle: ^besides servants and henchmen.' Next, Flidais Foltchain (' of the Lovely
+    Hair'), wife first of Ailill Finn (' the Fair '). She took part in the Cow-spoil
+    of Cualnge after she had slept with Fergus ; and she it was that every seventh
+    night brought sustenance > Eg. 1782. "- ■* LU. 156-157. • Eg. 1782. '• ••* Stowe.
+    =••••* Translating from Stowe. »•••'* LU. 160. ■•' LU. 160. «•••• LU. 161. »•••»
+    Eg. 1782 21 22 Tain Bo Cualnge VV. 404. i" nn]k to the men of Erin on the march,
+    for king and queen and...
+  end: 'd made a circuit of the camp. Then, ^when she had reviewed the host,* were
+    Medb''s horses unyoked and her chariots let down, and she took her place beside
+    Ailill macMata. And AiUll asked tidings of Medb : who was eager and who was loath
+    for the warfare. " Futile for all is the emprise but for one troop only, ^ namely
+    the division of the Galian ('' of Leinster '')," * quoth Medb. * " Why blamest
+    thou these men ? " queried Ailill. "It is not that we blame them," Medb made answer.*
+    " What good service...'
+key_characters:
+- King
+- Let
+- Leinster
+- Fedlimid
+- Marsh
+key_scenes:
+- "She took part in \nthe Cow-spoil of Cualnge after she had slept with Fergus ; \n\
+  and she it was that every seventh night brought sustenance \n\n> Eg"
+- "' Medb suffered \nnot her chariot to be let down nor her horses unyoked \nuntil\
+  \ she had made a circuit of the camp"
+- "Then, ^when she had reviewed the host,* were Medb's \nhorses unyoked and her chariots\
+  \ let down, and she \ntook her place beside Ailill macMata"
+- "\" Futile for all is the emprise but \nfor one troop only, ^ namely the division\
+  \ of the Galian \n(' of Leinster '),\" * quoth Medb"
+- "\"It is not that we blame \nthem,\" Medb made answer"
+visual_style: Insular illumination (Book of Kells), knotwork borders, zoomorphic interlace,
+  vellum texture
+suggested_medium: animation_series
+estimated_duration_seconds: 300
+color_palette:
+- '#1a1a2e'
+- '#0f3460'
+- '#e94560'
+- '#f0d653'
+- '#a8c8d0'
+cultural_notes: Otherworld (Tir na Nog), geasa, shapeshifting, heroic cycles (Ulster,
+  Fenian)
+production_status: brief_generated
+tags:
+- celtic
+- hero_tale
+- animation_series

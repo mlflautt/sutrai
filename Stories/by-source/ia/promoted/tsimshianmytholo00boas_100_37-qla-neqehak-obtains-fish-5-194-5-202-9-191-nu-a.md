@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 37.  Qla'neqeHak"  obtains  fish  5.194;  5.202;  9.191;  Nu  ap  908. See
 source_lines: 33354-33407
 length: 2984
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

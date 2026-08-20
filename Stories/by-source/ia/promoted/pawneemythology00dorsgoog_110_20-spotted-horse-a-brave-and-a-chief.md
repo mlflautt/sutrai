@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 20.  SPOTTED-HORSE, A  BRAVE  AND  A  CHIEF.
 source_lines: 23020-23036
 length: 1110
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

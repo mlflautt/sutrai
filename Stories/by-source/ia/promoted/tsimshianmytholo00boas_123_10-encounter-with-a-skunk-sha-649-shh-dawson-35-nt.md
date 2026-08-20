@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: '10.  Encounter  with  a  skunk  Sha  649;  Shh  Dawson  35:  Ntl  Teit  2.45.'
 source_lines: 34508-34518
 length: 636
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

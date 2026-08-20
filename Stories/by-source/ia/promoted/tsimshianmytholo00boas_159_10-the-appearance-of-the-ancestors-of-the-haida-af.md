@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (40) RAVEN PRETENDS TO BE DEAD
 source_lines: 41237-41274
 length: 2184
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 63.  The  Transformers  quarrel  Sts  5.23;  Ntia  5.16;  Ntl&  Teit  2.43;
 source_lines: 34193-34209
 length: 879
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 14. The mcred Oracle of Apollo
 source_lines: 12192-12265
 length: 1824
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

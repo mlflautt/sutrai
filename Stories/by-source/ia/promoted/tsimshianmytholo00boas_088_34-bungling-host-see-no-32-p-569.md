@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  Bungling  host. See  No.  32,  p.  569.
 source_lines: 32699-32806
 length: 5377
-culture: Chinook
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

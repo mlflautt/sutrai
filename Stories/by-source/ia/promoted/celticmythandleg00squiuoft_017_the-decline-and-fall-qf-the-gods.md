@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: THE DECLINE AND FALL QF THE GODS
 source_lines: 8890-9694
 length: 33784
-culture: Norse/Icelandic
+culture: Celtic
 story_type: origin_myth
 status: promoted
 ---

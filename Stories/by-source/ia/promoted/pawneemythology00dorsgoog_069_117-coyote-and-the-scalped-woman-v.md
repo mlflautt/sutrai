@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 117.  COYOTE  AND  THE  SCALPED-WOMAN.V
 source_lines: 20387-20454
 length: 3047
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

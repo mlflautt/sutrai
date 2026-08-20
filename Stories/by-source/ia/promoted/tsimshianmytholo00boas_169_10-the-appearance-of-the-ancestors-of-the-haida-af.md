@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (212) TXa'MSEM  finds  a  BEAUTIFtTL  BLANKET (p. 72)
 source_lines: 42197-42218
 length: 1352
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

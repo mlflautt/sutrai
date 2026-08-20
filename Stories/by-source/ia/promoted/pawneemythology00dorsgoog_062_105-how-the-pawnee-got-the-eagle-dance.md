@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 105.  HOW  THE  PAWNEE  GOT  THE  EAGLE  DANCE'
 source_lines: 18798-19273
 length: 29218
-culture: Pawnee
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

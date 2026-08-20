@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 77.  THE MEDICINE-CHILD  AND  THE  BEAVER MEDICINE.
 source_lines: 24373-24460
 length: 6533
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

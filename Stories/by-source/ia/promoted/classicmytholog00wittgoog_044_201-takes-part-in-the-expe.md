@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 201. Takes part in the expe*
 source_lines: 12381-12408
 length: 710
-culture: Unknown
+culture: Greek
 story_type: legend
 status: promoted
 ---

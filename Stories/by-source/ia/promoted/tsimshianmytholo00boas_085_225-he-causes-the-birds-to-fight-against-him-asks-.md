@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 225.  He  causes  the  birds  to  fight  against  him;  asks  his  sister  Siwa's
 source_lines: 32274-32435
 length: 5198
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

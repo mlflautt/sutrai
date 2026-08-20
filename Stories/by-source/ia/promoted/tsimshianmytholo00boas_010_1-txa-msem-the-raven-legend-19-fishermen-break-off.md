@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  Txa'msem  (The  Raven  Legend)* | (19) FISHERMEN BREAK OFF TXa'mSEM's JAW*
 source_lines: 3524-3620
 length: 5447
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

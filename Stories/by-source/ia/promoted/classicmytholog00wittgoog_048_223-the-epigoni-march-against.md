@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 223. The Epigoni march against
 source_lines: 12705-12724
 length: 517
-culture: Unknown
+culture: Greek
 story_type: legend
 status: promoted
 ---

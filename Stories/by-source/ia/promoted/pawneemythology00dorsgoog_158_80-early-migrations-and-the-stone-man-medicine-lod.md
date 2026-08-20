@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 80. EARLY MIGRATIONS AND THE STONE-MAN MEDICINE-LODGE.
 source_lines: 24626-24780
 length: 11741
-culture: Pawnee
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

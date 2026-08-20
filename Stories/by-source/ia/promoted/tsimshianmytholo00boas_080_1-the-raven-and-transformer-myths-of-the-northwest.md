@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1. THE RAVEN AND TRANSFORMER MYTHS OF THE NORTHWEST
 source_lines: 31177-31195
 length: 675
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

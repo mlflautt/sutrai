@@ -4,7 +4,7 @@ source: ArmenianMythology
 title: BY THE TURKS
 source_lines: 369-470
 length: 3649
-culture: Chinese
+culture: Armenian
 story_type: divine_myth
 status: promoted
 ---

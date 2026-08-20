@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 8.  Origin  of  lire  Ts  63;  Na  31;  Tla  11;  Tib  83;  Tl  4.263;  Tl  5.314;
 source_lines: 31239-31252
 length: 578
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

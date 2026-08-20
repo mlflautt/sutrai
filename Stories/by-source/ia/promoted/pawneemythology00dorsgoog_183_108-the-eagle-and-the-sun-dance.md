@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 108.  THE  EAGLE  AND  THE  SUN-DANCE.
 source_lines: 25760-25772
 length: 817
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

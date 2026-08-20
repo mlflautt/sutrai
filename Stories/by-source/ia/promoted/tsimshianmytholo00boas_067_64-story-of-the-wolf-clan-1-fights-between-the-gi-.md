@@ -5,7 +5,7 @@ title: 64.  Story  of  the  Wolf  Clan' | (1) FIGHTS between THE GI-SPA-X-LA'°T
   THE GIT-I)zi'''S
 source_lines: 18612-19968
 length: 73199
-culture: Tsimshian
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

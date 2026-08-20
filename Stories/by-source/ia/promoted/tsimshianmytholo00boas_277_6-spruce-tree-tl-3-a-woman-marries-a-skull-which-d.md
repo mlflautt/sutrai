@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 6.  Spruce  tree  Tl. | (3)  A  woman  marries  a  skull,  which  disappears  again  Tl,  M.
 source_lines: 56787-56799
 length: 502
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

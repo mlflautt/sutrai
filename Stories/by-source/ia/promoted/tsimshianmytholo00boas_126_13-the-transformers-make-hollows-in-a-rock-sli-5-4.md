@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 13.  The  Transformers  make  hollows  in  a  rock  Sli«  5.4;  Shh  Dawson
 source_lines: 34583-34599
 length: 873
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

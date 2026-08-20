@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 8.  Sun  and  Moon
 source_lines: 42529-42671
 length: 8837
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

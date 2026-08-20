@@ -1,0 +1,42 @@
+story_id: classicmytholog00wittgoog_012_143-helps-alomaeon-in-his
+title: 143. Helps Alomaeon in his
+source: classicmytholog00wittgoog
+culture: Greek
+story_type: hero_tale
+narrative_arc:
+  beginning: 143. Helps Alomaeon in his distress and gives him his daugh- ter in marriHge,
+    228. Acheron. One of the rivers of the Lower World. Psyche is rowed across it
+    by Charon, 241. Acritiu*, K
+  middle: ing of Argos. Bnilds a brnzen room for his daughter Danne, and afterwards
+    shuts her up with her child in a chest and turns them adrift, 0/>. Is acci- dentally
+    killed by his grandson P
+  end: erseus^ 102. Acfaeon, Is turned into a stag as a punishment fur looking at
+    the goddess Artemis whien bathing, 24 and 25. AdmUus. Is helped by Apollo to win
+    the hand of Alcestis, 01 to
+key_characters:
+- King
+- Argos
+- Acheron
+- Danne
+- Alcestis
+key_scenes:
+- "One of the rivers of the \nLower World"
+- "Is acci- \ndentally killed by his grandson \nPerseus^ 102"
+- "Acfaeon, Is turned into a stag as \na punishment fur looking at the \ngoddess Artemis\
+  \ whien bathing, \n24 and 25"
+visual_style: Classical red-figure/black-figure vase painting, marble sculpture, architectural
+  orders
+suggested_medium: short_animation_30s
+estimated_duration_seconds: 30
+color_palette:
+- '#e8c58d'
+- '#1a1a1a'
+- '#c0392b'
+- '#ffffff'
+- '#4a4a4a'
+cultural_notes: Olympian pantheon, heroic myth cycles, fate (moira), hubris/nemesis
+production_status: brief_generated
+tags:
+- greek
+- hero_tale
+- short_animation_30s

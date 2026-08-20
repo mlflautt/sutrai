@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  Txa'msem  (The  Raven  Legend)* | (3) STONE AND ELDERBERRY BUSH'
 source_lines: 2915-3016
 length: 5709
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

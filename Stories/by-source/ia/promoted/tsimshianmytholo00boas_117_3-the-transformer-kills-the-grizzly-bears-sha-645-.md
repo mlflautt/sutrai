@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: '3.  The  Transformer  kills  the  Grizzly  Bears  Sha  645;  Shh  5.2:  Ntk'
 source_lines: 34339-34387
 length: 2732
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

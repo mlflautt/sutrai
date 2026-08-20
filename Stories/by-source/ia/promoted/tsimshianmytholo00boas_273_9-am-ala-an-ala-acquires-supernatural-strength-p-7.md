@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 9.  Am'ala'.  («)  An'ala'  acquires  supernatural  strength  (p.  729).
 source_lines: 56538-56557
 length: 778
-culture: Tsimshian
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

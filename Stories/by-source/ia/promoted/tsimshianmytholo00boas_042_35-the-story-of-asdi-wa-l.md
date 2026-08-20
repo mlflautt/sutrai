@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 35.  The  Story  of  Asdi-wa'l.'
 source_lines: 12578-12717
 length: 7127
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

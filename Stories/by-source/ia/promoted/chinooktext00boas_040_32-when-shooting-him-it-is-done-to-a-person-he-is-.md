@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 32.  When shooting  him it  is  done  to  a  person  he  is  paid
 source_lines: 26221-26252
 length: 843
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 16.  The  hunters.
 source_lines: 56682-56722
 length: 1260
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -1,0 +1,51 @@
+story_id: ancientirishepi00dunn_014_frequently-occurring-place
+title: FREQUENTLY OCCURRING PLACE
+source: ancientirishepi00dunn
+culture: Celtic
+story_type: hero_tale
+narrative_arc:
+  beginning: 'FREQUENTLY OCCURRING PLACE AND PERSONAL-NAMES. It will simplify matters
+    for the English reader if the following points respecting the pronunciation of
+    proper names in medieval Irish, are borne in mind : Each simple word is accented
+    on the first syllable. Pronounce : a (long), as in aught ; a (short), as in hot.
+    c with slender vowels (e, i), as in king ; never as s. c with broad vowels (a,
+    o, u), as in car ; never as s. ch with slender vowels (e, i), as in German Ich
+    ; never as in chuYch. ch with...'
+  middle: 'as v. mh and bh intervocalic with broad vowels, as w. 6 (long), as in note
+    ; o (short), as in done. s with slender vowels (e, i), as in shine ; never as
+    z. s with broad vowels (a, o, u), as s. t with slender vowels (e, i), as in tin.
+    t with broad vowels (a, o, u), as in threw. th, like h. u (long), as in pool :
+    u (short), as in full. The remaining consonants are pronounced almost as in English,
+    Aed : to rime with Day thesouth-west of the County Aed Ernmas : the father of
+    the Galway Morrigan Aif6...'
+  end: 'ch : a lead- ing Ulster hero ; father of Conall Cernach and brother of Iliach
+    (pronounced Aver- gin) Ane : a district in which is Knockaney in the County Limerick
+    Ardachad : north of Druim Liccd Ard Ciannachta : a place in the barony of Ferrard,
+    in the County Louth Ard Cuillenn : in Ulster, east of Moin Coltna .•\rd Macha
+    : Armagh Assail : a place in Meath Assd : north of Finnabair (Fen- nor), on Medb''s
+    march out of Connacht into Ulster Ath : '' a ford '' (pronounced Ah) Ath Aladh
+    Ind : a ford in ...'
+key_characters:
+- King
+- Sometimes
+- Setanta
+- Fian
+- Crua
+key_scenes: []
+visual_style: Insular illumination (Book of Kells), knotwork borders, zoomorphic interlace,
+  vellum texture
+suggested_medium: animation_series
+estimated_duration_seconds: 204
+color_palette:
+- '#1a1a2e'
+- '#0f3460'
+- '#e94560'
+- '#f0d653'
+- '#a8c8d0'
+cultural_notes: Otherworld (Tir na Nog), geasa, shapeshifting, heroic cycles (Ulster,
+  Fenian)
+production_status: brief_generated
+tags:
+- celtic
+- hero_tale
+- animation_series

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 23.  The  Mink  who  Married  a  Princess
 source_lines: 44737-45031
 length: 17093
-culture: Tsimshian
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

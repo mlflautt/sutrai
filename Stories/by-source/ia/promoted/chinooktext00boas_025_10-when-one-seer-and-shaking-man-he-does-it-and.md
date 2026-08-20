@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 10.  When  one  seer  and  shaking  man- he  does  it, and
 source_lines: 25075-25098
 length: 525
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

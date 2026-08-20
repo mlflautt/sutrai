@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 85.  THE  MEDICINE-MAN  WHO  KILLED  HIS  SON.'
 source_lines: 14804-15103
 length: 18502
-culture: Pawnee
+culture: Native American
 story_type: legend
 status: promoted
 ---

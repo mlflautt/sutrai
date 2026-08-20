@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 356.  Thus  the  married  woman  and  her  children  would,  in  case  of
 source_lines: 26700-26892
 length: 9203
-culture: Indian
+culture: Native American
 story_type: legend
 status: promoted
 ---

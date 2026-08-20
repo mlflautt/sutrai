@@ -4,7 +4,7 @@ source: ancientirishepi00dunn
 title: J  THE  HARRYING  OF  CUALNGE  FOLLOWETH  HERE
 source_lines: 5447-5627
 length: 7714
-culture: Unknown
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

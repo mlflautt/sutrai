@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 8.  Tlie  bird  Tsiskin  quarrels  with  the  Black  Bear.  The  Bear  snuffs
 source_lines: 53230-53244
 length: 695
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

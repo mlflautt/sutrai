@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 86.  THE  CHIEF'S  SON  WHO  RECEIVED  THE  ANIMAL  POWER.
 source_lines: 24950-25000
 length: 3442
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

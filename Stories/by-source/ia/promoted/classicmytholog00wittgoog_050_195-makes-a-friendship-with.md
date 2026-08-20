@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 195. Makes a friendship with
 source_lines: 12751-12898
 length: 3680
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

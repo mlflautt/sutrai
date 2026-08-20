@@ -1,0 +1,59 @@
+story_id: chinesefairybook00wilh_025_the-miserly-farmer
+title: THE MISERLY FARMER
+source: chinesefairybook00wilh
+culture: Chinese
+story_type: fairy_tale
+narrative_arc:
+  beginning: 'THE MISERLY FARMER ONCE upon a time there was a farmer who had carted
+    pears to market. Since they were very sweet and fragrant, he hoped to get a good
+    price for them. A bonze with a torn cap and tattered robe stepped up to his cart
+    and asked for one. The farmer repulsed him, but the bonze did not go. Then the
+    farmer grew angry and began to call him names. The bonze said: "You have pears
+    by the hundred in your cart. I only ask for one. Surely that does you no great
+    injury. Why suddenly grow so an...'
+  middle: '^ou have pears then why do you not eat your OA\m?" He answered : "I first
+    must have a seed to plant. '' '' And with that he began to eat the pear with gusto.
+    When he had finished, he held the pit in his hand, took his pick-ax from his shoulder;
+    and dug a hole a couple of inches deep. Into this he thrust the pit, and covered
+    it with earth. Then he asked the folk in the market place for water, with which
+    to water it. A pair of curiosity seekers brought him hot water from SAINTS AND
+    MAGICIANS 89 the ...'
+  end: en the bonze took his pick-ax and cut down the tree. Crash, crash ! so it went
+    for a while, and the tree was felled. Then he took the tree on his shoulder and
+    walked away at an easy gait. When the bonze had begun to make his magic, the farmer,
+    too, had mingled with the crowd. With neck out-stretched and staring eyes he had
+    stood there and had entirely forgotten the business he hoped to do with his pears.
+    When the bonze had gone off he turned around to look after his cart. His pears
+    had aU disapp...
+key_characters:
+- King
+- Han
+- West
+- City
+- 'Yes'
+key_scenes:
+- "Then the \nfarmer grew angry and began to call him names"
+- "An artisan \nsaw the whole affair from his shop, and since the \nnoise annoyed\
+  \ him, he took some money, bought a pear \nand gave it to the bonze"
+- "When he had finished, he held the pit in his hand, \ntook his pick-ax from his\
+  \ shoulder; and dug a hole \na couple of inches deep"
+- "A \npair of curiosity seekers brought him hot water from \n\nSAINTS AND MAGICIANS\
+  \ 89 \n\nthe hostlery in the street, and with it the bonze \nwatered the pit"
+- "Thousands of eyes were turned on \nthe spot"
+visual_style: Classical Chinese ink wash (shui-mo), gongbi detail, silk scroll format,
+  seal script calligraphy
+suggested_medium: animation_3min
+estimated_duration_seconds: 90
+color_palette:
+- '#0d0d0d'
+- '#c8a951'
+- '#8b0000'
+- '#006400'
+- '#f5f5dc'
+cultural_notes: Daoist/Buddhist/Confucian layers; Eight Immortals, Dragon Kings, Jade
+  Emperor
+production_status: brief_generated
+tags:
+- chinese
+- fairy_tale
+- animation_3min

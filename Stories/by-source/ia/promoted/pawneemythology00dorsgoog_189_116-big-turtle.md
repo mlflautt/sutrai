@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 116. BIG  TURTLE.
 source_lines: 25972-25985
 length: 849
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

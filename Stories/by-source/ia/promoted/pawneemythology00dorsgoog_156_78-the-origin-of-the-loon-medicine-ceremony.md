@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 78.  THE  ORIGIN  OF  THE  LOON  MEDICINE  CEREMONY.
 source_lines: 24461-24503
 length: 3123
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 6.  She  kills  the  otters;  her  son  carries  her  home  (p.  755)  Ts,  Kai.
 source_lines: 56800-56815
 length: 620
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

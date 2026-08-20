@@ -1,0 +1,61 @@
+story_id: celticmythandleg00squiuoft_016_finn-finds-the-salmon-of-knowledge
+title: FINN FINDS THE SALMON OF KNOWLEDGE
+source: celticmythandleg00squiuoft
+culture: Celtic
+story_type: hero_tale
+narrative_arc:
+  beginning: FINN FINDS THE SALMON OF KNOWLEDGE From the Drawing by H. R. Millar Finn
+    and the Fenians 211 scalded it, to receive fore-knowledge and magic counsel.1
+    Thus armed, Finn was more than a match for the Clann Morna. Curious legends tell
+    how he dis covered himself to his father's old followers, con founded his enemies
+    with his magic, and turned them into faithful servants.2 Even Goll of the Blows
+    had to submit to his sway. Gradually he welded the two opposing clans into one
+    Fianna, over which he ruled...
+  middle: d. The reader will remember3 how, when the Dagda gave up the kingship of
+    the immortals, five aspirants appeared to claim it; how of these five — Angus,
+    Mider, L£r, Ilbhreach son of Mannanan, and Bodb the Red — the latter was chosen;
+    how L£r refused to acknowledge him, but was reconciled later; how Mider, equally
+    rebellious, fled to " desert country round Mount Leinster " in County Carlow;
+    and how a yearly war was waged upon him and his people by the rest of the gods
+    to irThis and other "boy-expl...
+  end: ', their hounds roused a beautiful fawn, which, although at every moment apparently
+    nearly overtaken, led them in full chase as far as Mount Leinster. Here it suddenly
+    disappeared into a cleft in the hillside. Heavy snow, " making the forest''s branches
+    as it were a withe-twist ", now fell, forcing the Fenians to seek for some shelter,
+    and they therefore explored the place into which the fawn had vanished. It led
+    to a splendid sidh in the hollow of the hill. Enter ing it, they were greeted
+    by a be...'
+key_characters:
+- Ler
+- King
+- See
+- Surly
+- Caoilte
+key_scenes:
+- "Millar \n\nFinn and the Fenians 211 \n\nscalded it, to receive fore-knowledge and\
+  \ magic \ncounsel"
+- "Curious legends tell how he dis \ncovered himself to his father's old followers,\
+  \ con \nfounded his enemies with his magic, and turned \nthem into faithful servants"
+- "Here \nit suddenly disappeared into a cleft in the hillside"
+- "Heavy snow, \" making the forest's branches as it \nwere a withe-twist \", now\
+  \ fell, forcing the Fenians to \nseek for some shelter, and they therefore explored\
+  \ \nthe place into which t"
+- "Finn promised \nhis aid, and, with the twilight of that same day, the \nattacking\
+  \ forces appeared, and made their annual \nassault"
+visual_style: Insular illumination (Book of Kells), knotwork borders, zoomorphic interlace,
+  vellum texture
+suggested_medium: animation_series
+estimated_duration_seconds: 181
+color_palette:
+- '#1a1a2e'
+- '#0f3460'
+- '#e94560'
+- '#f0d653'
+- '#a8c8d0'
+cultural_notes: Otherworld (Tir na Nog), geasa, shapeshifting, heroic cycles (Ulster,
+  Fenian)
+production_status: brief_generated
+tags:
+- celtic
+- hero_tale
+- animation_series

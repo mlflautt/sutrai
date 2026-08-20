@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 174. Flees away from Corinth
 source_lines: 11857-11907
 length: 1246
-culture: Unknown
+culture: Greek
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 62.  The  Cannibal  ^
 source_lines: 18382-18560
 length: 9655
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

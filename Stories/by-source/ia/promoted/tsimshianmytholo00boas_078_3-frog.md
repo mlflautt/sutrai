@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 3.  Frog
 source_lines: 28119-31143
 length: 136406
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

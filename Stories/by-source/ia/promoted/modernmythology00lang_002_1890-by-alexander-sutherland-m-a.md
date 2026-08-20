@@ -4,7 +4,7 @@ source: modernmythology00lang
 title: 1890.  By  Alexander  Sutherland,  M.  A.,
 source_lines: 12029-12229
 length: 5166
-culture: Unknown
+culture: Comparative
 story_type: legend
 status: promoted
 ---

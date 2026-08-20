@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 37.  The  Blind  Git-qIa'^da  (p.  246)
 source_lines: 49566-49851
 length: 17484
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

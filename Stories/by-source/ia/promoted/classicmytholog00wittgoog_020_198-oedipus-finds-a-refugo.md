@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 198. Oedipus finds a refugo
 source_lines: 10577-10636
 length: 1397
-culture: Unknown
+culture: Greek
 story_type: legend
 status: promoted
 ---

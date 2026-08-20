@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 31.  THE  POOR  BOY  AND  THE  MUD  PONIES.
 source_lines: 23368-23381
 length: 919
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

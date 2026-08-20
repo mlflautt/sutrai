@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 81.  THB  FOSSIL  OlAfTT  MEDICINE-LODOE.'
 source_lines: 14161-14242
 length: 4957
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

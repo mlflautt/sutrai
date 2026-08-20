@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 62.  The  Q^xxibal  (p.  350)
 source_lines: 51896-51910
 length: 828
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

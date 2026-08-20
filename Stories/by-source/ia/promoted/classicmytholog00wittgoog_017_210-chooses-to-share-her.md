@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 210. Chooses to share her
 source_lines: 10384-10433
 length: 1338
-culture: Unknown
+culture: Greek
 story_type: divine_myth
 status: promoted
 ---

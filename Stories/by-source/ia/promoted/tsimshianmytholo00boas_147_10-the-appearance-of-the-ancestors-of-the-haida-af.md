@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (24) FISHERMEN BREAK OFF TXA'MSEM's JAW  (p.  74)
 source_lines: 38939-39037
 length: 5671
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

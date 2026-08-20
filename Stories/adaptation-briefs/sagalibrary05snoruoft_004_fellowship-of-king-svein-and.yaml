@@ -1,0 +1,60 @@
+story_id: sagalibrary05snoruoft_004_fellowship-of-king-svein-and
+title: FELLOWSHIP  OF  KING  SVEIN  AND
+source: sagalibrary05snoruoft
+culture: Norse/Icelandic
+story_type: hero_tale
+narrative_arc:
+  beginning: FELLOWSHIP OF KING SVEIN AND HARALD. A LITTLE later it was, that Harald
+    and Svein spake on an evening over the drink, and Svein asked what precious things
+    Harald had, whereby he set the greatest store. He answered that it was his banner,
+    Landwaster. Then asked Svein what went with the banner that it was so mickle dear
+    a thing. Harald said it was told of it, that he would have the victory before
+    whom the banner was borne, and said that even so had it betided sithence he had
+    got that. Svein answer...
+  middle: 'hast so done before, as to hold to that only of thy covenants as seemed
+    to thee would drag thine own case most forward." Harald answers : " Less cases
+    wilt thou know of my not having held my v. G 82 The Saga Library. XXII covenants,
+    than I ween King Magnus will cry that he knoweth of thy not having held with him."
+    And therewithal each went his way. In the evening, when Harald went to sleep in
+    the poop of his ship, he spake to his shoe-swain : " Now will I not lie in the
+    bed to-night ; whereas my...'
+  end: 'tood fast in the tree. The man leapt forthwith out into the boat, but pit-mirk
+    it was, and he rowed straight away ; but the axe which stood fast in the tree
+    was left behind for a token. Then Harald waked his men, and let them know into
+    what treachery they were come : " We may see," said he, " that we have here no
+    help in Svein, so soon as he casts himself into treason against us ; so will that
+    be the best choice, to seek to get away hence while choice there is. Let us loose
+    our ships and row awa...'
+key_characters:
+- Kikina
+- Skald
+- Hap
+- King
+- Har
+key_scenes:
+- "FELLOWSHIP OF KING SVEIN AND \nHARALD"
+- "Harald said \nit was told of it, that he would have the victory \nbefore whom the\
+  \ banner was borne, and said that \neven so had it betided sithence he had got that"
+- "I found this evening that Svein my uncle-in-law \nwas much wroth with my plain\
+  \ speech; so thou \nshalt hold ward thereof, if here be to-night aught \nof tidings"
+- "\" \n\nThen went Harald into another place to sleep, \nbut laid in his bed there\
+  \ a tree-stub"
+- "The man leapt forthwith \nout into the boat, but pit-mirk it was, and he \nrowed\
+  \ straight away ; but the axe which stood \nfast in the tree was left behind for\
+  \ a token"
+visual_style: Viking Age art styles (Borre, Jelling, Mammen, Ringerike, Urnes), runic
+  inscription
+suggested_medium: animation_series
+estimated_duration_seconds: 184
+color_palette:
+- '#1a1a1a'
+- '#8b0000'
+- '#daa520'
+- '#4a4a4a'
+- '#f5f5dc'
+cultural_notes: Yggdrasil, Ragnarok, nine worlds, runic magic, skaldic poetry
+production_status: brief_generated
+tags:
+- norse/icelandic
+- hero_tale
+- animation_series

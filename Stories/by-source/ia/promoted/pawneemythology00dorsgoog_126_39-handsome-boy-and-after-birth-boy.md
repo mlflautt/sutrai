@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 39.  HANDSOME-BOY  AND  AFTER-BIRTH  BOY.
 source_lines: 23513-23583
 length: 5178
-culture: Pawnee
+culture: Native American
 story_type: legend
 status: promoted
 ---

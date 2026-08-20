@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 16.  Origin  of  the  deer  H  ap  883;  Ne  5.200;  Ne  9.201;  Ne  11.211;
 source_lines: 33571-33611
 length: 2481
-culture: Tsimshian
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

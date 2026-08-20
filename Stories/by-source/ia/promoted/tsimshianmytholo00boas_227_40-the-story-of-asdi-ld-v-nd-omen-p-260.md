@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 40.  The  Story  of  Asdi'ld.\  .v.nd  Omen  (p.  260)
 source_lines: 50029-50120
 length: 5917
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

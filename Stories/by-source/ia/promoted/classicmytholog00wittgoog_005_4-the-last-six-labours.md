@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 4. The Last Six Labours,
 source_lines: 5838-6590
 length: 34573
-culture: Unknown
+culture: Greek
 story_type: origin_myth
 status: promoted
 ---

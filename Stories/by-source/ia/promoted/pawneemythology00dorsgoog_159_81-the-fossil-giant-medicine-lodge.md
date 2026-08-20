@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 81.  THE FOSSIL  GIANT  MEDICINE-LODGE.
 source_lines: 24781-24795
 length: 1001
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 96.  THE  BUFFALO  MEDICINE DANCE.
 source_lines: 25467-25481
 length: 879
-culture: Pawnee
+culture: Native American
 story_type: legend
 status: promoted
 ---

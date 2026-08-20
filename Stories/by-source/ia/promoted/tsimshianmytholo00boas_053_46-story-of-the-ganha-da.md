@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 46.  Story'  of  the  Ganha'da^
 source_lines: 14875-15258
 length: 20469
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 10.  THE  ORIGIN  OF  A  NEW  BAND.
 source_lines: 22764-22776
 length: 839
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

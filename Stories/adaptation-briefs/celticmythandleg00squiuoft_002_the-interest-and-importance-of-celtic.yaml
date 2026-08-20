@@ -1,0 +1,60 @@
+story_id: celticmythandleg00squiuoft_002_the-interest-and-importance-of-celtic
+title: THE INTEREST AND IMPORTANCE OF CELTIC
+source: celticmythandleg00squiuoft
+culture: Celtic
+story_type: hero_tale
+narrative_arc:
+  beginning: THE INTEREST AND IMPORTANCE OF CELTIC MYTHOLOGY It should hardly be necessary
+    to remind the reader of what profound interest and value to every nation are its
+    earliest legendary and poetical records. The beautiful myths of Greece form a
+    sufficing ex ample. In threefold manner, they have influenced the destiny of the
+    people that created them, and of the country of which they were the imagined theatre.
+    First, in the ages in which they were still fresh, belief and pride in them were
+    powerful enough...
+  middle: f a poetic interest that still makes a petty kingdom of greater account
+    in the eyes of its compeers than many others far superior to it in extent and
+    resources. This permeating influence of the Greek poetical mythology, apparent
+    in all civilized countries, has acted especially upon our own. From almost the
+    very dawn of English literature, the Greek stories of gods and heroes have formed
+    a large part of the stock-in-trade of English poets. The inhabitants of Olympus
+    occupy, under their better-kno...
+  end: e eighteenth century, its figures became mere puppets. With every wood a "grove",
+    and every rustic maid a " nymph ", one could only expect to find Venus armed with
+    patch and powder-puff, Mars shouldering a musket, and Apollo inspiring the versifier's
+    own trivial strains. The affectation killed — and fortu nately killed — a mode
+    of expression which had be come obsolete. Smothered by just ridicule, and abandoned
+    to the commonplace vocabulary of the inferior hack-writer, classic myth became
+    a subje...
+key_characters:
+- Inspiration
+- Gwyn
+- King
+- Bor
+- Tristrem
+key_scenes:
+- "In threefold manner, they have influenced \nthe destiny of the people that created\
+  \ them, and of \nthe country of which they were the imagined theatre"
+- "Secondly, \nthey gave the inspiration to sculptor and poet of an \nart and literature\
+  \ unsurpassed, if not unequalled, by \nany other age or race"
+- "From almost the \nvery dawn of English literature, the Greek stories of \ngods\
+  \ and heroes have formed a large part of the \nstock-in-trade of English poets"
+- "The magic cauldron of classic myth fed, \nlike the Celtic \" Grail \", all who\
+  \ came to it foi \nsustenance"
+- "At last, however, its potency became somewhat \nexhausted"
+visual_style: Insular illumination (Book of Kells), knotwork borders, zoomorphic interlace,
+  vellum texture
+suggested_medium: animation_3min
+estimated_duration_seconds: 74
+color_palette:
+- '#1a1a2e'
+- '#0f3460'
+- '#e94560'
+- '#f0d653'
+- '#a8c8d0'
+cultural_notes: Otherworld (Tir na Nog), geasa, shapeshifting, heroic cycles (Ulster,
+  Fenian)
+production_status: brief_generated
+tags:
+- celtic
+- hero_tale
+- animation_3min

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 121.  COYOTE  TRIES  TO  POOL  THE  RAIN-OODS.^
 source_lines: 20663-20684
 length: 1266
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

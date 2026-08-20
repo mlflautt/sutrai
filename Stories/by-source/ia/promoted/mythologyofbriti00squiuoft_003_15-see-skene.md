@@ -4,7 +4,7 @@ source: mythologyofbriti00squiuoft
 title: 15. See  Skene.
 source_lines: 19414-19511
 length: 1719
-culture: Unknown
+culture: Celtic
 story_type: legend
 status: promoted
 ---

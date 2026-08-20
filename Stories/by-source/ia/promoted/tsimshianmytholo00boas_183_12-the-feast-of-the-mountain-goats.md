@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 12.  The  Feast  of  the  Mountain  Goats
 source_lines: 43233-43295
 length: 3646
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 91.  THE  ORIGIN  OP  THE  BUFFALO  CEREMONY.'
 source_lines: 17333-17661
 length: 20123
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

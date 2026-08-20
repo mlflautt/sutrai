@@ -4,7 +4,7 @@ source: chinesefairybook00wilh
 title: WHY DOG AND CAT ARE ENEMIES
 source_lines: 1565-1628
 length: 2532
-culture: Unknown
+culture: Chinese
 story_type: fairy_tale
 status: promoted
 ---

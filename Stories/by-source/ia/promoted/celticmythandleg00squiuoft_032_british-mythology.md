@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: BRITISH MYTHOLOGY
 source_lines: 16146-16198
 length: 1957
-culture: Welsh
+culture: Celtic
 story_type: legend
 status: promoted
 ---

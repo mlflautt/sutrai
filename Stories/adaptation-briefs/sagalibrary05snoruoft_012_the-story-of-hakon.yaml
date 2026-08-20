@@ -1,0 +1,60 @@
+story_id: sagalibrary05snoruoft_012_the-story-of-hakon
+title: THE STORY OF HAKON
+source: sagalibrary05snoruoft
+culture: Norse/Icelandic
+story_type: legend
+narrative_arc:
+  beginning: 'THE STORY OF HAKON SHOULDER-BROAD. CHAPTER I. THE BEGINNINGS OF HAKON
+    SHOULDER-BROAD. HAKON, the son of King Sigurd, was taken for head of the flock
+    which had erst followed King Eystein, and the flockmen gave him the king''s name.
+    Then was he of ten winters. There were then with him these : Sigurd, the son of
+    Hall ward Freeholder of Reyr, and Andreas and Onund, the sons of Simon, and fosterbrothers
+    of Hakon, and many other chief- tains and friends of Kings Eystein and Sigurd.
+    They fared first up ...'
+  middle: hing of bonders and by- men, and craved aid of them. He deemed the men gave
+    little cheer to this, and gave out that he trusted them ill. So he fared away
+    with two ships into the Wick, and was all unglad. He was minded to go and meet
+    King Ingi, for he had heard that King Ingi fared with a mickle host from the north
+    round the Wick. But when Gregory was gone but a short way towards the north he
+    came upon Simon Sheath and Haldor, the son of Bryniolf, and Gyrd, the son of Amundi,
+    King Ingi's fosterbr...
+  end: e head of that host which was aboard the merchant ships that floated off the
+    town. He was a viking and a robber. But Hakon and Sigurd and the main host was
+    in the town, and drew up on the bridges. All men there had gone under Hakon. Ill
+    Story of Hakon Shoulder-Broad. 401 CHAPTER III. THE FLIGHT OF KING HAKON. GREGORY
+    and his rowed up along the river, and let the ships drift down the stream upon
+    Thorliot and his. For a while they shot at each other, until Thorliot sprang overboard
+    and his fellows...
+key_characters:
+- Nuns
+- King
+- Cheapings
+- Yuletide
+- Ingi
+key_scenes:
+- "HAKON, the son of King Sigurd, was \ntaken for head of the flock which had \nerst\
+  \ followed King Eystein, and the \nflockmen gave him the king's name"
+- "King Ingi cast \nhis owning over all that which they had in Norway, \nand made\
+  \ them outlaws"
+- "He deemed the \nmen gave little cheer to this, and gave out that he \ntrusted them\
+  \ ill"
+- "Gregory was much fain of them, \nand he turned back and all they together, and\
+  \ \nhad eleven ships"
+- "But when they rowed in to \nKing's Rock, Hakon and his were holding a Thing \n\
+  outside the town, and saw their faring"
+visual_style: Viking Age art styles (Borre, Jelling, Mammen, Ringerike, Urnes), runic
+  inscription
+suggested_medium: animation_series
+estimated_duration_seconds: 300
+color_palette:
+- '#1a1a1a'
+- '#8b0000'
+- '#daa520'
+- '#4a4a4a'
+- '#f5f5dc'
+cultural_notes: Yggdrasil, Ragnarok, nine worlds, runic magic, skaldic poetry
+production_status: brief_generated
+tags:
+- norse/icelandic
+- legend
+- animation_series

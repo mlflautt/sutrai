@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 4.  The  Transformer  kiUs  the  elk  monster  She  5.2;  Shh  Dawson  32;
 source_lines: 34388-34428
 length: 2343
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

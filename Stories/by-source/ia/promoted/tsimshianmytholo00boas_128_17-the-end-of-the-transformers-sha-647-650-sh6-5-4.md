@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 17.  The  end  of  the  Transformers  Sha  647,  650;  Sh6  5.4;  She  Dawson
 source_lines: 34626-34648
 length: 1025
-culture: Indian
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

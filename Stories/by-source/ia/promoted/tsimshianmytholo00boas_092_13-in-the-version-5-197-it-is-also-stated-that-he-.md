@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 13.  In  the  version  5.197  it  is  also  stated  that  he  met  the  ancestor  of
 source_lines: 33062-33073
 length: 512
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -5,7 +5,7 @@ title: 5.  He  induces  the  animals  to  pelt  him  with  sea  eggs,  which  he
   | (6)  Raven  steals  the  whale  (p.  688)  Ts,  Tl,  Sk,  Ne,  Esk.
 source_lines: 56099-56115
 length: 570
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

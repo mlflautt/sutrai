@@ -1,0 +1,50 @@
+story_id: indianwhystories00lind_014_indian-why-stories
+title: INDIAN  WHY  STORIES
+source: indianwhystories00lind
+culture: Native American
+story_type: legend
+narrative_arc:
+  beginning: INDIAN WHY STORIES stick that the white Beaver had given him and the
+    arrow that 0/^-man had given to him to prove it. ***Good, ' said the Owl-chief,
+    *I can help you, but first you must help yourself. Take this bow. It is a medicine-bow;
+    then you will have a bow that will not break and an arrow that is good and straig
+  middle: ht. Now go down this mountain until you come to a river. It will be dark
+    when you reach this river, but you will know the way. There will be a great cottonwood-tree
+    on the bank of the stream where you first come to the water. At this tree, you
+    must turn down the stream and keep on travelling without rest, until you h
+  end: ear a splashing in the water near you. When you hear the splashing, you must
+    shoot this arrow at the sound. Shoot quickly, for if you do not you can never
+    have any good luck. If you do as I have told you the splasher will be killed and
+    you must then take his hide and wear it always. The skin that the splasher 86
+    o o ll
+key_characters:
+- Shoot
+- Owl
+- Beaver
+- Good
+- Now
+key_scenes:
+- "Now go \ndown this mountain until you come to a \nriver"
+- "It will be dark when you reach this \nriver, but you will know the way"
+- "There \nwill be a great cottonwood-tree on the bank \nof the stream where you first\
+  \ come to the \nwater"
+- "At this tree, you must turn down the \nstream and keep on travelling without rest,\
+  \ \nuntil you hear a splashing in the water near \nyou"
+- "If you do as I have told you the splasher \nwill be killed and you must then take\
+  \ his hide \nand wear it always"
+visual_style: Atmospheric illustration, dreamlike narrative art, textured paper, muted
+  palette
+suggested_medium: short_animation_30s
+estimated_duration_seconds: 30
+color_palette:
+- '#2c2c2c'
+- '#8b7355'
+- '#a0522d'
+- '#2f4f4f'
+- '#f5f5dc'
+cultural_notes: Universal mythic motifs, archetypal patterns
+production_status: brief_generated
+tags:
+- native american
+- legend
+- short_animation_30s

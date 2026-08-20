@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 91.  THE BEAR  MEDICINE AND CEREMONY.
 source_lines: 25227-25291
 length: 4852
-culture: Pawnee
+culture: Native American
 story_type: legend
 status: promoted
 ---

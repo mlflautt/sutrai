@@ -4,7 +4,7 @@ source: ArmenianMythology
 title: NATURE WORSHIP AND NATURE MYTHS
 source_lines: 2009-2262
 length: 13025
-culture: Persian
+culture: Armenian
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 113. THE SPIRIT  WIFE AND THE WHISTLE DANCE.
 source_lines: 25837-25869
 length: 2224
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

@@ -1,0 +1,42 @@
+story_id: classicmytholog00wittgoog_048_223-the-epigoni-march-against
+title: 223. The Epigoni march against
+source: classicmytholog00wittgoog
+culture: Greek
+story_type: legend
+narrative_arc:
+  beginning: 223. The Epigoni march against Thebes, 224 and 225. The The- bans decide
+    to abandon the city, 225 and 226. The Epigoni and others re-peopio it, 226 and
+    227. l%ermodon
+  middle: ', A river in Asia, near which was the country of the Amazons, 125. Thersander,
+    Son of Polynices. Hade king of Thebes by the Epigoni, on their taking posses-
+    sion of t'
+  end: he city, 226. JTiiszus, Son of Aegeus king of Athens. Is brought up at Troezen
+    by his mother Aethra, 177 snd 178. Is cent by her to the court of his father at
+    Athens,
+key_characters:
+- Polynices
+- Asia
+- Son
+- Aegeus
+- Troezen
+key_scenes:
+- "The The- \nbans decide to abandon the city, \n225 and 226"
+- "l%ermodon, A river in Asia, near \nwhich was the country of the \nAmazons, 125"
+- "Hade king of Thebes by the \nEpigoni, on their taking posses- \nsion of the city,\
+  \ 226"
+visual_style: Classical red-figure/black-figure vase painting, marble sculpture, architectural
+  orders
+suggested_medium: short_animation_30s
+estimated_duration_seconds: 30
+color_palette:
+- '#e8c58d'
+- '#1a1a1a'
+- '#c0392b'
+- '#ffffff'
+- '#4a4a4a'
+cultural_notes: Olympian pantheon, heroic myth cycles, fate (moira), hubris/nemesis
+production_status: brief_generated
+tags:
+- greek
+- legend
+- short_animation_30s

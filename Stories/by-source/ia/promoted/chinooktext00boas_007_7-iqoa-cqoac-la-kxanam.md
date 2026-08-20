@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 7.  IQOA'CQOAC  lA'KXANAM.
 source_lines: 14717-15264
 length: 17948
-culture: Unknown
+culture: Chinook
 story_type: trickster_tale
 status: promoted
 ---

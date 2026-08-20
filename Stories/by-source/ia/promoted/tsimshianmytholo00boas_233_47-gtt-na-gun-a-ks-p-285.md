@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 47.  Gtt-na-gun-a'ks  (p.  285)
 source_lines: 50864-50931
 length: 4667
-culture: Tsimshian
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

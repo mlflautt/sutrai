@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (29) TXa'mSEM and his slave  ' (p.  72)
 source_lines: 39294-39453
 length: 8325
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

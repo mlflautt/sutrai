@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 118.  HOW  A  WITCH-WOMAN  WAS  IQLLED  BY  COYOIE^
 source_lines: 20455-20575
 length: 6115
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 25.  Wrestling  in  air  . .
 source_lines: 49003-49565
 length: 34729
-culture: Tsimshian
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

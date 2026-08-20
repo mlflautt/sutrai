@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  Txa'msem  (The  Raven  Legend)* | (2) ORIGIN OF DAYLIGHT^
 source_lines: 2804-2914
 length: 6229
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 5. Medea^s lUvenge.
 source_lines: 7625-10156
 length: 118541
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

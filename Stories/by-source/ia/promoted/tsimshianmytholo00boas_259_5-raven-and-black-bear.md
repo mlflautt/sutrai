@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 5.  Raven  and  Black  Bear
 source_lines: 53856-54053
 length: 10809
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

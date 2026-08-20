@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 40.  The  Stohy  ok  Asdii.da  and  Omen'
 source_lines: 13463-13785
 length: 14352
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

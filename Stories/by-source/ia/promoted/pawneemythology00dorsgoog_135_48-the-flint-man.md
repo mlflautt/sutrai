@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 48.  THE  FLINT  MAN.
 source_lines: 23863-23891
 length: 1957
-culture: Unknown
+culture: Native American
 story_type: divine_myth
 status: promoted
 ---

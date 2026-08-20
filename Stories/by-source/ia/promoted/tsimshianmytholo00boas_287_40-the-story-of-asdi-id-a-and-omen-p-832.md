@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 40.  The  story  of  Asdi'Id.a,  and  Omen  (p.  832).
 source_lines: 57178-57191
 length: 527
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

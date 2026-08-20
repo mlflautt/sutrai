@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 52.  YOUNQ  HAWK  HUNTS  FOR  HIS  MOTHER.'
 source_lines: 9149-9203
 length: 1976
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

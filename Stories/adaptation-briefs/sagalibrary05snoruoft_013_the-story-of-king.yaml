@@ -1,0 +1,58 @@
+story_id: sagalibrary05snoruoft_013_the-story-of-king
+title: THE STORY OF KING
+source: sagalibrary05snoruoft
+culture: Norse/Icelandic
+story_type: hero_tale
+narrative_arc:
+  beginning: THE STORY OF KING MAGNUS, SON OF ERLING. CHAPTER I. THE BEGINNINGS OF
+    KING MAGNUS ERLINGSON. SITHENCE Erling was ware of this, what was the rede-making
+    of Hakon and his, he sent bidding to all lords of whom he wotted that they had
+    been trusty friends of King Ingi, and also to those of the bodyguards and liegemen
+    of the king who had got away, and to the house-carles of Gregory, and made a meeting
+    appointed. And when they met and had their talk, they forthwith took the rede
+    to hold to- gether thei...
+  middle: e, that that was his rede, that he should be taken to king who 436 The Saga
+    Library. I was come of kingly kin, and he for the ruling of the flock in whom
+    wits might be looked for, and said that that would be better for the hosting.
+    Then they tried Arni, King's Stepfather, if he would let take to king any of his
+    sons, brothers to King Ingi. He answered that the son of Kristin, the daughter's
+    son of King Sigurd, was best born of kin for the kingdom of Norway. "And there
+    is," said he, " a man to be...
+  end: whatever happens, that the honour shall be fast to him who ruleth the flock,
+    as that things may fare the other way, even as it hath now fared with mickle many,
+    who have taken up such big matters, that for that they have tyned all their own,
+    and life withal. But if this affair should speed well, it may be that there be
+    some who then would like to have chosen this task for themselves ; and he will
+    need this, who goes into this trouble, to set strong stays thereto, that he sit
+    not under the withsta...
+key_characters:
+- King
+- Sloven
+- Let
+- Camel
+- Jutland
+key_scenes:
+- "And when they met and had their \ntalk, they forthwith took the rede to hold to-\
+  \ \ngether their flock, and this they bound with fast \nwords betwixt them"
+- "I \n\nwas come of kingly kin, and he for the ruling of \n\nthe flock in whom wits\
+  \ might be looked for, and said \n\nthat that would be better for the hosting"
+- "He answered that the son of Kristin, the \n\ndaughter's son of King Sigurd, was\
+  \ best born of \n\nkin for the kingdom of Norway"
+- "\" Many took well \n\nto this rede"
+- "\" \n\nAll yeasaid it to make that fellowship with full \n\ntroth"
+visual_style: Viking Age art styles (Borre, Jelling, Mammen, Ringerike, Urnes), runic
+  inscription
+suggested_medium: animation_series
+estimated_duration_seconds: 300
+color_palette:
+- '#1a1a1a'
+- '#8b0000'
+- '#daa520'
+- '#4a4a4a'
+- '#f5f5dc'
+cultural_notes: Yggdrasil, Ragnarok, nine worlds, runic magic, skaldic poetry
+production_status: brief_generated
+tags:
+- norse/icelandic
+- hero_tale
+- animation_series

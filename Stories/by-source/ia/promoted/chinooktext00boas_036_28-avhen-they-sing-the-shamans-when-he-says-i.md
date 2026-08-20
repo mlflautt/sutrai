@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: '28.  AVhen  they  sing  the  shamans,  when  he  says:  "I'
 source_lines: 26085-26134
 length: 1315
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

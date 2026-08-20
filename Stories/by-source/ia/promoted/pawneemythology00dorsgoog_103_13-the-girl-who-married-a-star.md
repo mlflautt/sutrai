@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 13.  THE  GIRL  WHO  MARRIED  A  STAR.
 source_lines: 22825-22841
 length: 1006
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

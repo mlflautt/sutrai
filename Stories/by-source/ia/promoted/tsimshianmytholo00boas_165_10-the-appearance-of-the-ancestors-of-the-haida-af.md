@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (46) WREN KILLS THE BEAR
 source_lines: 41990-42051
 length: 3417
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

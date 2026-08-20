@@ -4,7 +4,7 @@ source: ArmenianMythology
 title: THE RELIGIOUS DEVELOPMENT
 source_lines: 568-795
 length: 11368
-culture: Persian
+culture: Armenian
 story_type: divine_myth
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 9. OK;  UNO'  ITCA'KXANAM.
 source_lines: 16604-16972
 length: 13001
-culture: Unknown
+culture: Chinook
 story_type: fairy_tale
 status: promoted
 ---

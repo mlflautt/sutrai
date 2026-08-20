@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 49.  Gau'o  (p.  297)
 source_lines: 50949-51431
 length: 35214
-culture: Tsimshian
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

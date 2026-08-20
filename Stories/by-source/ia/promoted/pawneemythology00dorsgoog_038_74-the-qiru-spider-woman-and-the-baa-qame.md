@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 74.  THE  QIRU  SPIDER-WOMAN,  AND  THE  BAa  QAME.'
 source_lines: 11482-11625
 length: 8658
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

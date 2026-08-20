@@ -5,7 +5,7 @@ title: 1.  Txa'msem  (The  Raven  Legend)* | (9) GIANT LEARNS HOW TO COOK OLACHE
   '
 source_lines: 3105-3351
 length: 13715
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (6)  Drowning
 source_lines: 47891-47937
 length: 2516
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

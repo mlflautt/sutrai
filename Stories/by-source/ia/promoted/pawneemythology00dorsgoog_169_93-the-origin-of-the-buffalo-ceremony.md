@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 93. THE ORIGIN OF  THE  BUFFALO CEREMONY.
 source_lines: 25358-25430
 length: 5411
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

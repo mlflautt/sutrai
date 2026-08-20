@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 21.  The  Otter  Who  Married  the  Princess^
 source_lines: 8448-8770
 length: 17162
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

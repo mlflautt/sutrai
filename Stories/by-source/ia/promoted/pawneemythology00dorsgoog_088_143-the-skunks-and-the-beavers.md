@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 143.  THE  SKUNKS  AND  THE  BEAVERS.'
 source_lines: 22232-22336
 length: 5976
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

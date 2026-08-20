@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 123.  COYOTE WHO CALLED  HIMSELF  DRAGGING-THE-STONE.
 source_lines: 26035-26058
 length: 1629
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

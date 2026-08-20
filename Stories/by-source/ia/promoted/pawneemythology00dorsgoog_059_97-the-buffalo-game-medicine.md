@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 97.  THE  BUFFALO  GAME  MEDICINE'
 source_lines: 17864-18062
 length: 11328
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

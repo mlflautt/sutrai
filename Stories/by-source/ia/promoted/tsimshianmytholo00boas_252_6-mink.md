@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 6.  Mink
 source_lines: 53097-53110
 length: 570
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

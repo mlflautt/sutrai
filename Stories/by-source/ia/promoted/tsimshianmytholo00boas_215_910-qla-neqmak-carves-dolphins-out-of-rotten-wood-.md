@@ -5,7 +5,7 @@ title: 910.  Qla'neqMak"  carves  dolphins  out  of  rotten  wood.  They  jump  
   | (17)  The  Youth  Takes  Away  the  Canoe
 source_lines: 48402-48422
 length: 1037
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

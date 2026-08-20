@@ -1,0 +1,55 @@
+story_id: celticmythandleg00squiuoft_031_gaelic-mythology
+title: GAELIC MYTHOLOGY
+source: celticmythandleg00squiuoft
+culture: Celtic
+story_type: hero_tale
+narrative_arc:
+  beginning: GAELIC MYTHOLOGY II. d'Arbois de Jubainville. — LE CYCLE MYTHOLOGIQUE
+    IRLAN- DAIS ET LA MYTHOLOGIE CELTIQUE. Vol. II of the " Cours de Litte'rature
+    celtique". Paris, 1884. Translated into Eng lish as THE IRISH MYTHOLOGICAL CYCLE
+    AND CELTIC MYTHOLOGY. With notes by R. I. Best. Dublin, 1903. An account of Irish
+    mythical history and of some of the greater Gaelic gods. With chapters on some
+    of the more striking phases of Celtic belief. Alfred Nutt. — THE VOYAGE OF BRAN,
+    SON OF FEBAL. An Irish Histor...
+  middle: . 6 of " Popu lar Studies in Mythology, Romance, and Folklore ". London,
+    1900. Patrick Weston Joyce. — OLD CELTIC ROMANCES. Translated from the Gaelic.
+    London, 1894. A retelling in popular modern style of some of the more im portant
+    mythological and Fenian stories. Lady Gregory. — GODS AND FIGHTING MEN. The story
+    of the Tuatha De Danaan and of the Fianna of Erin. Arranged and put into English
+    by Lady Gregory. With a Preface by W. B. Yeats. London, 1904. Covers much the
+    same ground as Mr. Joyce's...
+  end: n, 1891. An account of the Fenians from the Scottish- Gaelic side. Alfred Nutt.
+    — CUCHULAINN THE IRISH ACHILLES. No. 8 of "Popular Studies in Mythology, Romance,
+    and Folklore". London, 1900. A brief but excellent introduction to the Cuchulainn
+    cycle. Lady Gregory. — CUCHULAIN OF MUIRTHEMNE. The story of the Men of the Red
+    Branch of Ulster. Arranged and put into English by Lady Gregory. With a Preface
+    by W. B. Yeats. London, 1902. A retelling in poetic prose of the tales connected
+    with Cuchu lain...
+key_characters:
+- Band
+- Cuailgne
+- Alfred
+- Fenian
+- Appendix
+key_scenes:
+- "An account of Irish mythical history and of some of the \ngreater Gaelic gods"
+- "A retelling in poetic prose of the tales connected with Cuchu \nlainn"
+- "An old Irish prose-epic translated for \nthe first time from the Leabhar na h-Uidhri\
+  \ and the Yellow \nBook of Lecan"
+visual_style: Insular illumination (Book of Kells), knotwork borders, zoomorphic interlace,
+  vellum texture
+suggested_medium: animation_1min
+estimated_duration_seconds: 30
+color_palette:
+- '#1a1a2e'
+- '#0f3460'
+- '#e94560'
+- '#f0d653'
+- '#a8c8d0'
+cultural_notes: Otherworld (Tir na Nog), geasa, shapeshifting, heroic cycles (Ulster,
+  Fenian)
+production_status: brief_generated
+tags:
+- celtic
+- hero_tale
+- animation_1min

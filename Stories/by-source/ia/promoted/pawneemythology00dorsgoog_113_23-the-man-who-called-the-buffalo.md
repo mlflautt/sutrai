@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 23.  THE  MAN  WHO  CALLED  THE  BUFFALO.
 source_lines: 23092-23136
 length: 3243
-culture: Indian
+culture: Native American
 story_type: legend
 status: promoted
 ---

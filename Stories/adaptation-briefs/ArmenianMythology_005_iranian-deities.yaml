@@ -1,0 +1,57 @@
+story_id: ArmenianMythology_005_iranian-deities
+title: IRANIAN DEITIES
+source: ArmenianMythology
+culture: Armenian
+story_type: divine_myth
+narrative_arc:
+  beginning: IRANIAN DEITIES I. ARAMAZD HOEVER was the chief deity of the Armenians
+    when they conquered Urartu, in later times that important position was occupied
+    by Aramazd. Aramazd is an Armenian corruption of the Auramazda of the old Persian
+    inscriptions. His once widely spread cult is one of our strongest proofs that
+    at least a crude and imperfect form of Zoroastrianism existed in Armenia. Yet
+    this Armenian deity is by no means an exact duplicate of his Persian namesake.
+    He _ possesses some attributes t...
+  middle: 'from Zoroastrianism, and that the supremacy of Ar- amazd seems never to
+    have risen in Armenia to a monotheism that could degrade other gods and goddesses
+    into mere angels (Ameshas and Yazatas). Aramazd is represented as the cre- ator
+    of heaven and earth by Agathangelos in the same manner as by Xerxes who says in
+    one of his inscriptions: “ Auramazda is a great god, greater than all gods, who
+    has created this heaven and this earth.” The Armenian Aramazd was called “ great”
+    * and he must have been ...'
+  end: heless he no doubt stood and fought for the right (Armen. ardar, “ righteous,”
+    Iran., arda, Sansk. rita). . Aramazd was above all the giver of prosperity and
+    more especially of “abundance and fatness” in the land. Herein his ancient character
+    of a sky-god comes into prominence. Amenaber, “bringer of all (good) things,”
+    was a beloved title of his.” He made the fields fertile and the gardens and the
+    vineyards fruitful, no doubt through rain. The idea of an Earth goddess had become
+    dim in the Armen...
+key_characters:
+- Julian
+- Erzinjan
+- Anatu
+- Zoroaster
+- King
+key_scenes:
+- "He _ possesses \nsome attributes that remind us of an older sky-god"
+- "There were other gods beside him, \ncome from everywhere and anywhere, of whom\
+  \ he was the \nfather"
+- "As far as we know he \nnever figures as a warlike god, nor is his antagonism against\
+  \ \nthe principle of evil as marked as that of the Avestic Ahura- \nMazda"
+- "Nevertheless he no doubt stood and fought for the \nright (Armen"
+- "Herein \nhis ancient character of a sky-god comes into prominence"
+visual_style: Armenian manuscript illumination, khachkar cross-stones, birds/angels,
+  floral marginalia
+suggested_medium: animation_series
+estimated_duration_seconds: 216
+color_palette:
+- '#1a1a2e'
+- '#c0392b'
+- '#f39c12'
+- '#27ae60'
+- '#8e44ad'
+cultural_notes: Pre-Christian pagan roots, Christian synthesis, Mount Ararat, Vahagn/Astghik
+production_status: brief_generated
+tags:
+- armenian
+- divine_myth
+- animation_series

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 15.  The  winter  hunters  and  the  Mosquito (p.  740).
 source_lines: 56659-56681
 length: 869
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

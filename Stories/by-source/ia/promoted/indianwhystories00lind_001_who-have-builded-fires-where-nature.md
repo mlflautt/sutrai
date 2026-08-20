@@ -4,7 +4,7 @@ source: indianwhystories00lind
 title: WHO  HAVE  BUILDED FIRES  WHERE  NATURE
 source_lines: 66-232
 length: 4515
-culture: Indian
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

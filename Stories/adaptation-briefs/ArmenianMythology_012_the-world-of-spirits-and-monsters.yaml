@@ -1,0 +1,58 @@
+story_id: ArmenianMythology_012_the-world-of-spirits-and-monsters
+title: THE WORLD OF SPIRITS AND MONSTERS
+source: ArmenianMythology
+culture: Armenian
+story_type: hero_tale
+narrative_arc:
+  beginning: THE WORLD OF SPIRITS AND MONSTERS HE ARMENIAN world of spirits and monsters
+    teems with elements both native and foreign. Most of the names are of Persian
+    origin, although we do not know how much of this lore came directly from Iran.
+    For we may safely assert that the majority of these uncanny beings bear a general
+    Indo-European, one might even say, universal character. So any attempt to explain
+    them locally, as dim memories of an- cient monsters or of conquered and exterminated
+    races will in the ...
+  middle: g whom we should include the nymphs of the classical world, the elves and
+    kobolds of the Teutons, the vilas of the Slavs, the jin and devs of Islam, etc.’
+    At this undeveloped stage of comparative folklore it would be rash to posit a
+    common origin for all these multitudinous beings. Yet they show, in their feats
+    and characteristics, many noteworthy interrelations and similarities all over
+    the world. Leaving aside the difficult question whether serpent-worship precedes
+    and underlies all other reli...
+  end: they reside in and protect, their old homes. Both the serpent and the ancestral
+    ghost have an interest in the fecundity of the family and the fertility of the
+    fields. They possess superior wisdom, healing power, and dispose of wealth, etc.
+    They do good to those whom they love, harm to those whom they hate. Then these
+    serpents and dragons frequently appear as the physical manifestation of other
+    spirits than ghosts, and so we have a large class of serpent-fairies in all ages
+    and in many parts of t...
+key_characters:
+- Kirche
+- Babylon
+- Erman
+- Hruden
+- Ahrvan
+key_scenes:
+- "THE WORLD OF SPIRITS AND MONSTERS \n\nHE ARMENIAN world of spirits and monsters\
+  \ teems \nwith elements both native and foreign"
+- "For we may safely \nassert that the majority of these uncanny beings bear a general\
+  \ \nIndo-European, one might even say, universal character"
+- "So \nany attempt to explain them locally, as dim memories of an- \ncient monsters\
+  \ or of conquered and exterminated races will in \nthe long run prove futile"
+- "WORLD OF SPIRITS AND MONSTERS 73 \n\ntion to the ghost"
+- "The geni, the ancestral spirits, usually ap- \npear in the form of a serpent"
+visual_style: Armenian manuscript illumination, khachkar cross-stones, birds/angels,
+  floral marginalia
+suggested_medium: animation_series
+estimated_duration_seconds: 300
+color_palette:
+- '#1a1a2e'
+- '#c0392b'
+- '#f39c12'
+- '#27ae60'
+- '#8e44ad'
+cultural_notes: Pre-Christian pagan roots, Christian synthesis, Mount Ararat, Vahagn/Astghik
+production_status: brief_generated
+tags:
+- armenian
+- hero_tale
+- animation_series

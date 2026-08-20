@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 89. THE  BEAR  MEDICINE-MAN.
 source_lines: 25098-25154
 length: 4259
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

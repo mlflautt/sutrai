@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 8. When  it  goes  his  soul  the  sick  one's thus  ghosts,  when 2o
 source_lines: 25019-25044
 length: 634
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

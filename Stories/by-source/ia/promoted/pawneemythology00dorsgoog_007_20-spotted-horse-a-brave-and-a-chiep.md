@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 20. SPOTTED-HORSE;  A  BRAVE  AND  A  CHIEP.'
 source_lines: 4122-4305
 length: 11635
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

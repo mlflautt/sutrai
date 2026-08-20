@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 48.  The  Four  Chiefs  and  Chief  Giuzzly  Beak'
 source_lines: 15259-15508
 length: 13531
-culture: Tsimshian
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

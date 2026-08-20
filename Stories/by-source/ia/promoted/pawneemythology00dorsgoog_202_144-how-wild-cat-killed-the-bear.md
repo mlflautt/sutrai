@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 144. HOW WILD-CAT KILLED THE BEAR.
 source_lines: 26298-26308
 length: 632
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

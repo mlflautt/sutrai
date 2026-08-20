@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 25. When  long  their  ropes  are  made  those
 source_lines: 25820-25853
 length: 588
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

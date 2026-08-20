@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 6.  G'idEsdzti',  northwest  of  MUlbank  Sound.  These  are  considered
 source_lines: 25419-25450
 length: 1294
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

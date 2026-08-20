@@ -4,7 +4,7 @@ source: ArmenianMythology
 title: THE WORLD OF SPIRITS AND MONSTERS
 source_lines: 2854-5888
 length: 132058
-culture: Persian
+culture: Armenian
 story_type: hero_tale
 status: promoted
 ---

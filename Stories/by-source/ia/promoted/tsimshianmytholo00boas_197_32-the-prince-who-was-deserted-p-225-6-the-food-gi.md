@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 32.  The  Prince  Who  Was  Deserted  (p.  225) | (6)  The  food  given  to  the  people  can  not  be  exhausted.
 source_lines: 46424-47015
 length: 27691
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

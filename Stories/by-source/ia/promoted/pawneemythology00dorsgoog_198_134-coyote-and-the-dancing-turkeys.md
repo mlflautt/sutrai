@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 134. COYOTE  AND  THE  DANCING  TURKEYS.
 source_lines: 26203-26213
 length: 520
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

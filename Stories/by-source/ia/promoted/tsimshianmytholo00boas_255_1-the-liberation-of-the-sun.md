@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  The  Liberation  of  the  Sun
 source_lines: 53254-53472
 length: 11322
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

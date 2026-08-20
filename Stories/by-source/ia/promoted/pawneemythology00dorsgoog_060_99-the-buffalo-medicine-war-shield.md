@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 99.  THE  BUFFALO  MEDICINE  WAR  SHIELD.^
 source_lines: 18063-18145
 length: 4931
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

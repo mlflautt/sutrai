@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 83.  ORIGIN  OF  THE  GEESE  MEDICINE.
 source_lines: 24844-24884
 length: 2889
-culture: Pawnee
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

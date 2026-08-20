@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (43) WAR WITH THE TIIUNDERBIKD
 source_lines: 41540-41857
 length: 19141
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

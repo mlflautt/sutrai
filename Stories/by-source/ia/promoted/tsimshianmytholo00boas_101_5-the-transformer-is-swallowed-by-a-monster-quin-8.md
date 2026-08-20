@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 5.  The  Transformer  is  swallowed  by  a  monster  Quin  84;  Chin  20.
 source_lines: 33442-33460
 length: 906
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

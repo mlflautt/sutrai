@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 22.  THE  SON  OP  WIND,  KBADY-TO-OIVE'
 source_lines: 4322-4568
 length: 15161
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

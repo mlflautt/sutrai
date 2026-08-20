@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (31) TXa'mSEM AND THE HUNTER (p.  75)
 source_lines: 39490-39603
 length: 6713
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 52.  Story  of  the  Wolf  Clan  '
 source_lines: 16021-16582
 length: 29413
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

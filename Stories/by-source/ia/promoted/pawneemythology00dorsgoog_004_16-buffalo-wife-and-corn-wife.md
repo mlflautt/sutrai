@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 16.  BUFFALO-WIFE  AND  CORN-WIFE.'
 source_lines: 3037-3317
 length: 16791
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

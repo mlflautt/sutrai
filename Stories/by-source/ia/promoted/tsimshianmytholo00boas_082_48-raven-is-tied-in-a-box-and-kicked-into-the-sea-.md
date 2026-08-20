@@ -5,7 +5,7 @@ title: 48.  Raven  is  tied  in  a  box  and  kicked  into  the  sea  Tla  12,  
   ;  T16  121-
 source_lines: 31428-31535
 length: 5941
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

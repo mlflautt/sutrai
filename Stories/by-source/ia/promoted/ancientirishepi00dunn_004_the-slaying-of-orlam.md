@@ -4,7 +4,7 @@ source: ancientirishepi00dunn
 title: THE  SLAYING  OF  ORLAM
 source_lines: 4801-5446
 length: 25910
-culture: Unknown
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

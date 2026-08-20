@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 6. The Marriage of Heradea with Deianiray and
 source_lines: 6591-6780
 length: 8510
-culture: Unknown
+culture: Greek
 story_type: fairy_tale
 status: promoted
 ---

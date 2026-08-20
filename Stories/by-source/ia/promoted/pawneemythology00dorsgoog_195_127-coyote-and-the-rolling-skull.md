@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 127.  COYOTE  AND  THE  ROLLING  SKULL.
 source_lines: 26123-26136
 length: 894
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

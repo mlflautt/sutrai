@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 138.  COYOTE  TRIES  TO  MARRY  RABBIT.'
 source_lines: 22034-22085
 length: 2018
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

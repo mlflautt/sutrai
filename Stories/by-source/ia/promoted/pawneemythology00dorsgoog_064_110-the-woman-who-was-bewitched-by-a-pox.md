@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 110.  THE  WOMAN  WHO  WAS  BEWITCHED  BY  A  POX.'
 source_lines: 19504-19558
 length: 3359
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

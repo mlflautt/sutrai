@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (41) RAVEN BURNS HIS SISTER's GROINS
 source_lines: 41275-41447
 length: 10243
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

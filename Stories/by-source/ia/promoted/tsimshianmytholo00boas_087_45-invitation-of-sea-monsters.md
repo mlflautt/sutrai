@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 45.  Invitation  of  sea  monsters
 source_lines: 32548-32601
 length: 2757
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

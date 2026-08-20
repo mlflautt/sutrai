@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 57.  THE  BOY  WHO  MARRIED  A  BUFFALO.'
 source_lines: 9704-9801
 length: 5605
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

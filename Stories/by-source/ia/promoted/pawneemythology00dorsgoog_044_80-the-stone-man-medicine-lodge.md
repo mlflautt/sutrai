@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 80.  THE  STONE-MAN  MEDICINE-LODGE.'
 source_lines: 13449-14160
 length: 42609
-culture: Unknown
+culture: Native American
 story_type: divine_myth
 status: promoted
 ---

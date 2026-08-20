@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 70.  THE  GIRL  WHO  CALLED  THE  BUFFALO.
 source_lines: 24233-24289
 length: 4023
-culture: Pawnee
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

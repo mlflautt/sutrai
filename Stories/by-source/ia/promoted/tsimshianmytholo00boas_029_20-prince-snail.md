@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 20.  Prince  Snail  ^
 source_lines: 8162-8447
 length: 15553
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

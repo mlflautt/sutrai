@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (8)  Berries  in  Winter
 source_lines: 48062-48075
 length: 792
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

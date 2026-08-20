@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 50.  Story  of  the  G'ispawadwe'da^
 source_lines: 15513-15529
 length: 964
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

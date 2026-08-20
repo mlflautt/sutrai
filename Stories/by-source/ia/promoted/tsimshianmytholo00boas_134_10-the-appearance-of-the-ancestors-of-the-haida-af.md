@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (3) HE BREAKS VT THE MOOX AND PITS IT IN THE SKY
 source_lines: 36807-36823
 length: 750
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 5.  When  they  go  the  seers,  they  arrive  seaward their  spirits  at
 source_lines: 24942-24969
 length: 719
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

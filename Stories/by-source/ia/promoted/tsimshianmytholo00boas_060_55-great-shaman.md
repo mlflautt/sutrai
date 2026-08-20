@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 55. Great  Shaman  ^
 source_lines: 17338-17627
 length: 16069
-culture: Tsimshian
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (2) RAVEN THREATENS TO LET OUT THE DAYLIGHT
 source_lines: 36680-36806
 length: 6878
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 205. Is killed by his son un-
 source_lines: 11731-11856
 length: 3184
-culture: Unknown
+culture: Greek
 story_type: divine_myth
 status: promoted
 ---

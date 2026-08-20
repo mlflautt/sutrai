@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 22.  THE  SON  OP  WIND.  READY-TO-GIVE.
 source_lines: 23054-23091
 length: 2885
-culture: Unknown
+culture: Native American
 story_type: divine_myth
 status: promoted
 ---

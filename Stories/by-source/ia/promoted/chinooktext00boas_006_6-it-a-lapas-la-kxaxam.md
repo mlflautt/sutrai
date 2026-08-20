@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 6.  IT;A'LAPAS lA'KXAXAM.
 source_lines: 12971-14716
 length: 50226
-culture: Unknown
+culture: Chinook
 story_type: fairy_tale
 status: promoted
 ---

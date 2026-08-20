@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (42) RAVEN DESERTS MASTER  FISHERMAN ON A LONELY ISLAND
 source_lines: 41448-41539
 length: 5886
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 12.  Woman  with  toothed  vagina  Sla«  650;  Shh  5.1;  Shr  Dawson  32;
 source_lines: 34567-34582
 length: 864
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

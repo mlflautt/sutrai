@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 39.  The  drifting  log  (p.  831).
 source_lines: 57159-57177
 length: 785
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

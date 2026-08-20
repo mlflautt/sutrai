@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 56.  Story  of  the  Ghost  (p.  3.36)
 source_lines: 51736-51747
 length: 742
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

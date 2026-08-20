@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 42.  The  Watek-Being  who  Married  the  Princess (p. 272)
 source_lines: 50135-50152
 length: 1119
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

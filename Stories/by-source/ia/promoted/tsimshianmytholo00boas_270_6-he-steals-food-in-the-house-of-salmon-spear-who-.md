@@ -5,7 +5,7 @@ title: 6.  He  steals  food  in  the  house  of  Salmon  Spear,  who  fights  wi
   | (6) The  Thunderhird  abducts  Raven's  son  (p.  70S).
 source_lines: 56284-56301
 length: 652
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

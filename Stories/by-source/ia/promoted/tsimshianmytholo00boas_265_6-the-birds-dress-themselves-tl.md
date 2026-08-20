@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 6.  The  birds  dress  themselves  Tl.
 source_lines: 55890-56077
 length: 5704
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 44.  THE  SHOOTING  OP  THE  SQUIRREL'S  NOSB.^
 source_lines: 7775-7911
 length: 8021
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

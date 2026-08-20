@@ -1,0 +1,60 @@
+story_id: ArmenianMythology_006_semitic-deities
+title: SEMITIC DEITIES
+source: ArmenianMythology
+culture: Armenian
+story_type: hero_tale
+narrative_arc:
+  beginning: SEMITIC DEITIES EMITIC deities were introduced into the Armenian pan-
+    theon comparatively late, notwithstanding the fact that the Armenians had always
+    been in commercial intercourse with their southern neighbours. It was Tigranes
+    the Great (94-54 B.c.) who brought these gods and goddesses back from his conquests
+    along with their costly statues.’ It is not easy to say how much of politics can
+    be seen in this procedure. As a semi-barbarian, who had acquired a taste for western
+    things, he surely wa...
+  middle: rs became little more than local deities, and that not without at first
+    hav- ing encountered fierce opposition. The early stage of things is clearly reflected
+    in the relation of Ba’al Shamin to Vahagn and in the manner in which he figures
+    in the hero stories of Armenia as one who is discomfited or slain in battle. It
+    is becoming more and more certain that almost all of these Se- mitic gods were
+    brought from Phoenicia. But they hardly can have come in organized, coherent groups
+    like Ba’al Sha- mi...
+  end: material was expressive of the character and story of the deity whom it endeavored
+    to portray. In the legendary his- tory of Armenia, where euhemerism rules supreme,
+    Ba’al Sha- min appears as a giant whom the Syrians deified on account of his valorous
+    deeds, but who had been vanquished by Aram and slain by his soldiers.* In reality
+    Ba’al Shamin was originally a supreme god of the heavens, who gave good and evil,
+    life and death, rain and sunshine, but who had already merged his identity in
+    that o...
+key_characters:
+- King
+- See
+- Phoenicia
+- Vana
+- Eshmun
+key_scenes:
+- ") who brought these gods and goddesses back \nfrom his conquests along with their\
+  \ costly statues"
+- "However, in Armenia itself no real fusion took \nplace between the native and foreign\
+  \ gods"
+- "The extant \nrecords show that out of all the Syrian gods and goddesses \nwho migrated\
+  \ north, only AstXik (Astarte-Aphrodite) ob- \ntained a wide popularity"
+- "On the contrary, the others became \nlittle more than local deities, and that not\
+  \ without at first hav- \ning encountered fierce opposition"
+- "It is \nbecoming more and more certain that almost all of these Se- \nmitic gods\
+  \ were brought from Phoenicia"
+visual_style: Armenian manuscript illumination, khachkar cross-stones, birds/angels,
+  floral marginalia
+suggested_medium: animation_3min
+estimated_duration_seconds: 71
+color_palette:
+- '#1a1a2e'
+- '#c0392b'
+- '#f39c12'
+- '#27ae60'
+- '#8e44ad'
+cultural_notes: Pre-Christian pagan roots, Christian synthesis, Mount Ararat, Vahagn/Astghik
+production_status: brief_generated
+tags:
+- armenian
+- hero_tale
+- animation_3min

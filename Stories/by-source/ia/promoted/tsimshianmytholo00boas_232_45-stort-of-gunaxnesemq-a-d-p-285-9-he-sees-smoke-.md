@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 45.  Stort  of  Gunaxnesemq-a'd  (p.  285) | (9)  He  sees  smoke  in  the  center  of  a  fine  valley  Se.  At  the  end  of  the  Killer  Whale
 source_lines: 50669-50857
 length: 12361
-culture: Tsimshian
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 22.  The  Widow  and  her  Daughter^
 source_lines: 8771-9029
 length: 14273
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

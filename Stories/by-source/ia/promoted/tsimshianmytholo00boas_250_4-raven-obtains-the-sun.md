@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 4.  Raven  Obtains  the  Sun
 source_lines: 53018-53067
 length: 2614
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 17.  CKULKULO'L  ICTA'KXANAM.
 source_lines: 23406-24188
 length: 26726
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 90.  THE  BEAR MEDICINE
 source_lines: 25155-25226
 length: 5300
-culture: Pawnee
+culture: Native American
 story_type: legend
 status: promoted
 ---

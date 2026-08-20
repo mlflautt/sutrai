@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 15.  THE  METEORITE  PEOPLE/
 source_lines: 2960-3036
 length: 4770
-culture: Pawnee
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 9.  When  it  is  seen  ahorse,  at  the  ghosts  it  Is.  When
 source_lines: 25047-25072
 length: 764
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 45.  Stort  of  Gunaxnesemq-a'd  (p.  285) | (1)  He  meets  Blind  Geese  '  (Ts  1,  Ts  4,  Mo,  Hai  6)  who  are  digging  roots,  which  he
 source_lines: 50624-50642
 length: 1423
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 55. HAWK SLAYS  THE FIRE-KEEPER.
 source_lines: 24006-24038
 length: 2351
-culture: Pawnee
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

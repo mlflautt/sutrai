@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (30) RAVEN AND EAGLE GATHER RED AND BLACK COD
 source_lines: 39454-39489
 length: 2153
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

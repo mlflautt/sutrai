@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 8.  How  Ya  l6^\  Went  To  Get  Married  to  the  Salmon  Princess
 source_lines: 54855-55536
 length: 38564
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

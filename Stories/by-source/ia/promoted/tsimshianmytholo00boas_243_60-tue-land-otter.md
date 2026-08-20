@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 60.  TuE  Land  Otter
 source_lines: 51839-51871
 length: 1721
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 29. When  his  sickness he  makes  it  on  his  guardian  then  he  is  told
 source_lines: 26137-26162
 length: 650
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

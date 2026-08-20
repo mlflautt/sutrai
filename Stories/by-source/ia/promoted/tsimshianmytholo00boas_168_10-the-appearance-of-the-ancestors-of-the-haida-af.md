@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (186) TXa'MSEM pretends to build a canoe  ' (p.  84)
 source_lines: 42111-42196
 length: 4721
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

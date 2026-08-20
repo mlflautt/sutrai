@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 18.  Plucking  Out  Eyes  '
 source_lines: 7809-8001
 length: 10063
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: ancientirishepi00dunn
 title: HERE  NOW  FOLLOWETH  THE  DISGUISING  OF  TAMON
 source_lines: 9630-13457
 length: 144958
-culture: Unknown
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

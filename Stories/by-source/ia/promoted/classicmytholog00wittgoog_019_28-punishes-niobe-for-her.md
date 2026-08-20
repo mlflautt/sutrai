@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 28. Punishes Niobe for her
 source_lines: 10501-10566
 length: 1765
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

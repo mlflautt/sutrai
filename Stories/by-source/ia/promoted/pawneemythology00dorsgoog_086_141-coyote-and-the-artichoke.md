@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 141.  COYOTE  AND  THE  ARTICHOKE.'
 source_lines: 22176-22191
 length: 906
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

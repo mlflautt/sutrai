@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 65.  The  Transformer  teaches  man  ho-vv  to  catch  fish  Sts  Hill-Tout
 source_lines: 34009-34050
 length: 2620
-culture: Tsimshian
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

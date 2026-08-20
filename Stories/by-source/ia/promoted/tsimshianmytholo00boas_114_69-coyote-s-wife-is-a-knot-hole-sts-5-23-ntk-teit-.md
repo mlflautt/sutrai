@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 69.  Coyote's  wife  is  a  knot-hole  Sts  5.23;  Ntk  Teit  2.44;  Ntl6  Nicola
 source_lines: 34210-34242
 length: 1780
-culture: Indian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

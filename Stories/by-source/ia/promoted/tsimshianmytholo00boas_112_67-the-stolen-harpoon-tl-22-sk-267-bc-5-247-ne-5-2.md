@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 67.  The  stolen  harpoon  Tl  22;  Sk  267;  BC  5.247;  Ne  5.201;  Co  5.64,
 source_lines: 34070-34192
 length: 7136
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

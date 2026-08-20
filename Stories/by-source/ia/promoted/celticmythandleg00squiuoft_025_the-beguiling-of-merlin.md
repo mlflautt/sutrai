@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: THE BEGUILING OF MERLIN
 source_lines: 13937-14177
 length: 9978
-culture: Unknown
+culture: Celtic
 story_type: origin_myth
 status: promoted
 ---

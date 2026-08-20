@@ -1,0 +1,59 @@
+story_id: celticmythandleg00squiuoft_023_the-treasures-of-britain
+title: THE TREASURES OF BRITAIN
+source: celticmythandleg00squiuoft
+culture: Celtic
+story_type: hero_tale
+narrative_arc:
+  beginning: THE TREASURES OF BRITAIN It is in keeping with the mythological character
+    of Arthur that the early Welsh tales recorded of him are of a different nature
+    from those which swell the pseudo-histories of Nennius1 and of Geoffrey of Monmouth.
+    We hear nothing of that subjuga tion of the countries of Western Europe which
+    fills so large a part in the two books of the Historia Britonum which Geoffrey
+    has devoted to him.2 Conqueror he is, but his conquests are not in any land known
+    to geographers. It is a...
+  middle: wn, one night, to sleep upon a yellow calf-skin, the only furniture in a
+    noisome hut, in which he had taken shelter, that was comparatively free from vermin,
+    he had the vision which is related in the tale 1 "History of the Britons ", §
+    50. 8 Geoffrey of Monmouth. Books IX and X, and chaps. I and n of XI. The Treasures
+    of Britain 337 called " The Dream of Rhonabwy ".l He thought that he was travelling
+    with his companions towards the Severn, when they heard a rushing noise behind
+    them, and, lookin...
+  end: it was he who, in his love of war, had purposely precipitated the Battle of
+    Camlan. Arthur had sent him to reason with Medrawt; but though Arthur had charged
+    him with the fairest sayings he could think of, Iddawc translated them into the
+    harshest he could devise. But he had done seven years' penance, and had been forgiven,
+    and was now riding to Arthur's camp. Thither he insisted upon taking Rhonabwy
+    and his companions. Arthur's army was encamped for a mile around the ford of Rhyd
+    y Groes, upon b...
+key_characters:
+- Gwyn
+- Tuirenn
+- King
+- Rhonabwy
+- See
+key_scenes:
+- "This is the true history of King Arthur, \nand we may read more fragments and snatches\
+  \ of \nit in two prose-tales preserved in the Red Book of \nHergest"
+- "The Treasures of Britain 337 \n\ncalled \" The Dream of Rhonabwy \""
+- "l He thought \nthat he was travelling with his companions towards \nthe Severn,\
+  \ when they heard a rushing noise behind \nthem, and, looking back, saw a gigantic\
+  \ rider upon \na monstrou"
+- "So terrible was the horseman's \nappearance that they all started to run from him"
+- "In despair they fell down \nand besought their pursuer's mercy"
+visual_style: Insular illumination (Book of Kells), knotwork borders, zoomorphic interlace,
+  vellum texture
+suggested_medium: animation_series
+estimated_duration_seconds: 201
+color_palette:
+- '#1a1a2e'
+- '#0f3460'
+- '#e94560'
+- '#f0d653'
+- '#a8c8d0'
+cultural_notes: Otherworld (Tir na Nog), geasa, shapeshifting, heroic cycles (Ulster,
+  Fenian)
+production_status: brief_generated
+tags:
+- celtic
+- hero_tale
+- animation_series

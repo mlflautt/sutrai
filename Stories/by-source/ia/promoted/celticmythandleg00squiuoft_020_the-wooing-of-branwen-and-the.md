@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: THE WOOING OF BRANWEN AND THE
 source_lines: 11157-11767
 length: 22556
-culture: Greek
+culture: Celtic
 story_type: origin_myth
 status: promoted
 ---

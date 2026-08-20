@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 2.  The  Meeting  of  the  Wild  Animals'
 source_lines: 5129-5255
 length: 6941
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

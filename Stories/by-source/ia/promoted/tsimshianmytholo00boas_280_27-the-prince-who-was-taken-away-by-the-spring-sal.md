@@ -5,7 +5,7 @@ title: 27.  The  prince  who  was  taken  away  by  the  Spring  Salmon (p.  770
   (See
 source_lines: 56863-56879
 length: 622
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (33) RAVEN MAPRIES  HAIR-SEAL  WOMAN*
 source_lines: 40933-41051
 length: 6859
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

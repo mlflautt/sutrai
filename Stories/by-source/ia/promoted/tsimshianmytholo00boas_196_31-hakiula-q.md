@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 31.  HakIula'q
 source_lines: 46297-46331
 length: 2054
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 2. The Birth and Youth of Hei'odes.
 source_lines: 5327-5492
 length: 7903
-culture: Unknown
+culture: Greek
 story_type: fairy_tale
 status: promoted
 ---

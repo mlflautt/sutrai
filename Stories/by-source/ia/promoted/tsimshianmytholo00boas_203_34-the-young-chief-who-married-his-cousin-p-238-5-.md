@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (5)  Precipice
 source_lines: 47836-47890
 length: 3420
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

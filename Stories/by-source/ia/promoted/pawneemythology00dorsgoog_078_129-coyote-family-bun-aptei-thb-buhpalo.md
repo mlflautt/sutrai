@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 129.  COYOTE  FAMILY  BUN  APTEI  THB  BUHPALO.'
 source_lines: 21526-21582
 length: 2270
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 63.  Origix  of  the  Caxnibals  (p.  353)
 source_lines: 51911-52602
 length: 39975
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

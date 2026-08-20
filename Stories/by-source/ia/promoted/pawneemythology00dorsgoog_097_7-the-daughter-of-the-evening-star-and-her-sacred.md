@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 7.  THE  DAUGHTER  OF  THE  EVENING-STAR  AND  HER  SACRED
 source_lines: 22703-22724
 length: 1430
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

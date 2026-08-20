@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 23.  The  Mixk  Who  Married  a  Princess  '
 source_lines: 9030-9134
 length: 5489
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

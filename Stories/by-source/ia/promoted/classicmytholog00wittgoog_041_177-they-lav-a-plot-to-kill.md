@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 177. They lav a plot to kill
 source_lines: 12167-12191
 length: 542
-culture: Unknown
+culture: Greek
 story_type: divine_myth
 status: promoted
 ---

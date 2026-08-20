@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 4.  Girls  are  married  by  supernatural  beings  or  animals,  and  re-
 source_lines: 44467-44736
 length: 13481
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

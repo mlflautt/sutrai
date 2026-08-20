@@ -5,7 +5,7 @@ title: 910.  Qla'neqMak"  carves  dolphins  out  of  rotten  wood.  They  jump  
   | (22)  Gambling-Match
 source_lines: 48465-48486
 length: 624
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 140. Is killed in trying to
 source_lines: 11610-11642
 length: 914
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

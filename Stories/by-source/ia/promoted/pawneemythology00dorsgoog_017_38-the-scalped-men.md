@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 38.  THE  SCALPED  MEN.'
 source_lines: 6612-6711
 length: 6055
-culture: Pawnee
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

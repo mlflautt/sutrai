@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 1.  CIKIA  ICTA'KXANAM.
 source_lines: 349-1857
 length: 43496
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

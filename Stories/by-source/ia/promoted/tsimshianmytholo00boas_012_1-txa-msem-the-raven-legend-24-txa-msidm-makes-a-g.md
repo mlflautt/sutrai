@@ -5,7 +5,7 @@ title: 1.  Txa'msem  (The  Raven  Legend)* | (24) TXa'mSIDM makes A GIRL SICK AN
   THEN CtTRES HER'
 source_lines: 3891-4132
 length: 14037
-culture: Tsimshian
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

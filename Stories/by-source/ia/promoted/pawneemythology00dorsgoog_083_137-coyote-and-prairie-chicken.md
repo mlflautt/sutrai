@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 137.  COYOTE  AND  PRAIRIE-CHICKEN.'
 source_lines: 21964-22033
 length: 1886
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

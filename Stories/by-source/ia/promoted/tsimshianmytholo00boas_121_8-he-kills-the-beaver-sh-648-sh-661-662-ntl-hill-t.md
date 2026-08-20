@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: '8.  He  kills  the  beaver  Sh  648;  Sh  661,  662:  Ntl  Hill-Tout  1.204;'
 source_lines: 34466-34487
 length: 1094
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

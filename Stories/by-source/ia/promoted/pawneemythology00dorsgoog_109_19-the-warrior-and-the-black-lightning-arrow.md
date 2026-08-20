@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 19. THE  WARRIOR  AND THE BLACK  LIGHTNING ARROW.
 source_lines: 22998-23019
 length: 1611
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

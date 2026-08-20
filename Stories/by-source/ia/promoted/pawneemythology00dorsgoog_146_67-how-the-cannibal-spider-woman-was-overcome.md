@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 67. HOW  THE  CANNIBAL  SPIDER-WOMAN  WAS  OVERCOME.
 source_lines: 24173-24194
 length: 1418
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

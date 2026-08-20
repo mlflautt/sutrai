@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 33.  When  a  ''strong  man"  is  shot,  a  child  is  made  read3\  Its  face
 source_lines: 26640-34502
 length: 210160
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

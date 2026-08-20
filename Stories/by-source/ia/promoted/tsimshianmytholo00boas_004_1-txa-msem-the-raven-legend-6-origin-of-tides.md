@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  Txa'msem  (The  Raven  Legend)* | (6) ORIGIN OF TIDES  '
 source_lines: 3017-3051
 length: 1743
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

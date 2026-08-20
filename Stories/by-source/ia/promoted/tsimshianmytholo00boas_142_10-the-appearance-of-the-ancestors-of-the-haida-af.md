@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (12) RAVEN CARVES SALMON OUT OF VARIOUS KINDS OF WOOD
 source_lines: 37815-38140
 length: 17092
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 42.  BURNT-BELLY  AND  HIS  DREAMS.^
 source_lines: 7384-7528
 length: 8753
-culture: Indian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

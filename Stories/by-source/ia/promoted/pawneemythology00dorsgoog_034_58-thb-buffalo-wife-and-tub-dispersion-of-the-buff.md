@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 58.  THB  BUFFALO  WIFE  AND  TUB  DISPERSION  OF  THE  BUFFALO/
 source_lines: 9802-9934
 length: 6997
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

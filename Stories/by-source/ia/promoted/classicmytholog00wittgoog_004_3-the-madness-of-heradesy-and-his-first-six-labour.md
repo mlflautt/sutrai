@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 3. The Madness of HeradeSy and his First Six Labours.
 source_lines: 5493-5837
 length: 16186
-culture: Unknown
+culture: Greek
 story_type: divine_myth
 status: promoted
 ---

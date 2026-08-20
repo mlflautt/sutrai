@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 29.  HOW  THE  WITCH-WOMAN  WAS KILLED.
 source_lines: 23297-23336
 length: 2802
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

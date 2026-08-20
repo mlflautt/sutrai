@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 18. THE CANNIBAL  WITCH  AND  THE  DOY  WHO  CONQUERED  THE
 source_lines: 22933-22997
 length: 4654
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

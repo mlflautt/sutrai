@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (37) RAVEN STEALS HIS SISTERS' BERRIES
 source_lines: 41145-41220
 length: 4386
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

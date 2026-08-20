@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 8.  CONTEST BETWEEN THE MORNING-STAR AND  THE  MOON.
 source_lines: 22725-22749
 length: 1553
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

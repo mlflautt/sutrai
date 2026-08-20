@@ -4,7 +4,7 @@ source: ancientirishepi00dunn
 title: CHARIOTEERS
 source_lines: 13459-13768
 length: 12797
-culture: Unknown
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

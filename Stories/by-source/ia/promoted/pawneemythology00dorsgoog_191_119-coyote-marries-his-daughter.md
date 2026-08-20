@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 119.  COYOTE MARRIES  HIS  DAUGHTER.
 source_lines: 26003-26013
 length: 618
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 11.  STIKUA'  ITCA'KXANAM.
 source_lines: 17807-19255
 length: 38428
-culture: Unknown
+culture: Chinook
 story_type: trickster_tale
 status: promoted
 ---

@@ -5,7 +5,7 @@ title: 11.  She  makes  the  Bear  believe  that  her  copper  or  dentalia  orn
   | (5)  Marriage  of  the  girl  with  the  lake-being  (p.  838).
 source_lines: 57233-57258
 length: 1249
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

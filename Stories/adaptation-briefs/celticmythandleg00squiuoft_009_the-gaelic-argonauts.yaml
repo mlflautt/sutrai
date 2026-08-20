@@ -1,0 +1,60 @@
+story_id: celticmythandleg00squiuoft_009_the-gaelic-argonauts
+title: THE GAELIC ARGONAUTS
+source: celticmythandleg00squiuoft
+culture: Celtic
+story_type: fairy_tale
+narrative_arc:
+  beginning: THE GAELIC ARGONAUTS The preparations for this war are said to have lasted
+    seven years. It was during the interval that there befel an episode which might
+    almost be called the " Argonautica" of the Gaelic mythology.1 In spite of the
+    dethronement of Bress, the Fomors still claimed their annual tribute from the
+    tribe of the goddess Danu, and sent their tax-gatherers, nine times nine in number,
+    to " Balor's Hill" to collect it. But, while they waited for the gods to come
+    to tender their submission ...
+  middle: Lugh the Far-shooter, the new-come sun-god of the Gaels. He fell upon 1
+    This story of the Fate of the Children of Tuirenn is mentioned in the ninth- century
+    " Cormac's Glossary". It is found in various Irish and Scottish MSS., including
+    the Book of Lecan. The present re-telling is from Eugene O'Curry's translation,
+    published in Atlantis, Vol. IV. 89 QO Mythology of the British Islands the Fomorian
+    tax-gatherers, killing all but nine of them, and these he only spared that they
+    might go back to th...
+  end: it. There came to it Elathan and Tethra and Indech, kings of the Fomors; Bress
+    himself, and Balor of the stout blows; Cethlenn the crooked tooth, Balor's wife;
+    Balor's twelve white-mouthed sons; and all the chief Fomorian warriors and druids.
+    Meanwhile, upon earth, Lugh was sending mes sengers all over Erin to assemble
+    the Tuatha D£ Danann. Upon this errand went Lugh's father Cian, who seems to have
+    been a kind of lesser solar deity,1 son of Diancecht, the god of medicine. As
+    Cian was going over...
+key_characters:
+- Ler
+- Tuirenn
+- King
+- See
+- Antiq
+key_scenes:
+- "But, while they waited for the gods to come to \ntender their submission and their\
+  \ subsidy, they saw \na young man approaching them"
+- "\" Like to the setting \nsun\", says the story, \" was the splendour of his coun\
+  \ \ntenance and his forehead, and they were not able to \nlook in his face for the\
+  \ greatness of his splendo"
+- "for he was Lugh the Far-shooter, \nthe new-come sun-god of the Gaels"
+- "He fell upon \n\n1 This story of the Fate of the Children of Tuirenn is mentioned\
+  \ in the ninth- \ncentury \" Cormac's Glossary\""
+- It is found in various Irish and Scottish MSS
+visual_style: Insular illumination (Book of Kells), knotwork borders, zoomorphic interlace,
+  vellum texture
+suggested_medium: animation_series
+estimated_duration_seconds: 300
+color_palette:
+- '#1a1a2e'
+- '#0f3460'
+- '#e94560'
+- '#f0d653'
+- '#a8c8d0'
+cultural_notes: Otherworld (Tir na Nog), geasa, shapeshifting, heroic cycles (Ulster,
+  Fenian)
+production_status: brief_generated
+tags:
+- celtic
+- fairy_tale
+- animation_series

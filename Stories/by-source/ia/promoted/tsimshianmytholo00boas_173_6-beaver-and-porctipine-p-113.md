@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 6.  Beaver  and  PoRCTipiNE  (p.  113)
 source_lines: 42334-42515
 length: 10926
-culture: Tsimshian
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

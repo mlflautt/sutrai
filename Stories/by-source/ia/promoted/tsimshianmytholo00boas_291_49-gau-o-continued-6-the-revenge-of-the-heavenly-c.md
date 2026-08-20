@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 49.  Gau'o— Continued. | (6) The  revenge  of  the  heavenly  children — Continued.
 source_lines: 57346-57369
 length: 783
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

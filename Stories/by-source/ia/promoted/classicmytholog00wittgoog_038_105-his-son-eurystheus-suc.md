@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 105. His son Eurystheus suc-
 source_lines: 11967-12067
 length: 2457
-culture: Unknown
+culture: Greek
 story_type: divine_myth
 status: promoted
 ---

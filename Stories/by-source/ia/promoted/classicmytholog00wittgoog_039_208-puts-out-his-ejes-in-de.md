@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 208. Puts out. his ejes in de-
 source_lines: 12068-12100
 length: 873
-culture: Unknown
+culture: Greek
 story_type: divine_myth
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: FOR  THE MORE DIFFICULT  WORDS
 source_lines: 19624-20100
 length: 8095
-culture: Unknown
+culture: Celtic
 story_type: legend
 status: promoted
 ---

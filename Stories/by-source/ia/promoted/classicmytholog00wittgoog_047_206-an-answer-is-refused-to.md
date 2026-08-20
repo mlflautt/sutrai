@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 206. An answer is refused to
 source_lines: 12497-12693
 length: 4533
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

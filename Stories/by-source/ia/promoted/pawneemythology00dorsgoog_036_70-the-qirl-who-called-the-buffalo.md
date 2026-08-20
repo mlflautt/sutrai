@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 70.  THE  QIRL  WHO  CALLED  THE  BUFFALO'
 source_lines: 11055-11261
 length: 12692
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

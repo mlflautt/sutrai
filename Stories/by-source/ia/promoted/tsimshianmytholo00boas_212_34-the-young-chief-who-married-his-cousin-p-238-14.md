@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (14)  The  Revenge  of  the  A.vimals
 source_lines: 48339-48357
 length: 1028
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 27. THE  BOY  WHO  CALLED  THE  BUFFALO  AND  WENT  TO  NORTH
 source_lines: 23239-23264
 length: 1475
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

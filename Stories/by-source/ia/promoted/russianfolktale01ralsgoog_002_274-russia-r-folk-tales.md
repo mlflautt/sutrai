@@ -4,7 +4,7 @@ source: russianfolktale01ralsgoog
 title: 274. RUSSIA r^ FOLK-TALES
 source_lines: 13522-18634
 length: 196079
-culture: Unknown
+culture: Slavic
 story_type: fairy_tale
 status: promoted
 ---

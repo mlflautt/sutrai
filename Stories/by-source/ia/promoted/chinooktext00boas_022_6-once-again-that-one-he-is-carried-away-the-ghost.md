@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 6. Once again that  one he  is  carried  away ;  the  ghosts  they  carry  him  away.
 source_lines: 24972-25004
 length: 870
-culture: Unknown
+culture: Chinook
 story_type: fairy_tale
 status: promoted
 ---

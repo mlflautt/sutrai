@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 2.  The  Origin  of  Fresh  Water
 source_lines: 53473-53562
 length: 5197
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

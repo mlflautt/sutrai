@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 64.  Story  of  the  Wolf  Clan' | (3) WAK BETWEEN THE HATOA AND THE G'I-SPA-X-l1'°TS
 source_lines: 19969-25398
 length: 296280
-culture: Tsimshian
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

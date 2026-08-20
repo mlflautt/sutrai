@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 27. When  they  are  angrv  not  having  guardian
 source_lines: 25992-26082
 length: 1880
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

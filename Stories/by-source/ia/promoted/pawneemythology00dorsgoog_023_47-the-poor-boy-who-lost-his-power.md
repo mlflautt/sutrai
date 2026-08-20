@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 47.  THE  POOR  BOY  WHO  LOST  HIS  POWER.^
 source_lines: 8357-8444
 length: 5081
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

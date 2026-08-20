@@ -1,0 +1,61 @@
+story_id: classicmytholog00wittgoog_010_4-the-journey-home
+title: 4. The Journey Home.
+source: classicmytholog00wittgoog
+culture: Greek
+story_type: hero_tale
+narrative_arc:
+  beginning: 4. The Journey Home. When they were all in the ship, the heroes pushed
+    off and sailed away. As it was midnight the helmsman had to steer by the . stars,
+    but he knew how to guide the ship towards the setting sun which was the direc-
+    tion in which Greece lay and by daybreak they were already far from the land.
+    King Aeetes came down to the shore with his followers, who took with them weapons
+    to fight with, and also torches for burning the ship. But when they reached it,
+    they stood rubbing their eye...
+  middle: ertaking the Argo. They rowed with all their might, and towards even- ing
+    they came in sight of the Argo. Medea knew that all on board would be killed if
+    they fell into the hands of her father, and when his ship had almost overtaken
+    the Argo, she took a long knife and stabbed her brother Absyrtus to death, and
+    cut him in pieces before the eyes of Aeetes and flung the pieces into the sea.
+    The king who had been so angry, now tore his hair for grief; he no longer cared
+    about the Golden Fleece, and ...
+  end: he buried him with great magnificence. When that w^s done, the wish nearest
+    his heart was to catch the Argo, and he manned three ships with sailors, and told
+    them to go in search of her and never to return till they had found her. They
+    sailed about in all directions, but could not find a trace of the ship anywhere,
+    so as they were afraid to go back to the king THK QUEST OF THE ARGONAUTS. 167
+    without her, they moored on a strange island, where they settled down and btiilt
+    houses and remained for ...
+key_characters:
+- Rocks
+- King
+- Minos
+- Wandering
+- Sacred
+key_scenes:
+- "stars, but he knew how to guide \nthe ship towards the setting sun which was the\
+  \ direc- \ntion in which Greece lay and by daybreak they were \nalready far from\
+  \ the land"
+- "King Aeetes came down to \nthe shore with his followers, who took with them \n\
+  weapons to fight with, and also torches for burning the \nship"
+- "When that w^s done, the wish nearest his heart was to \ncatch the Argo, and he\
+  \ manned three ships with sailors, \nand told them to go in search of her and never\
+  \ to \nreturn till they "
+- "167 \n\nwithout her, they moored on a strange island, where \nthey settled down\
+  \ and btiilt houses and remained for \nthe rest of their lives"
+- A violent storm now overtook the Argo
+visual_style: Classical red-figure/black-figure vase painting, marble sculpture, architectural
+  orders
+suggested_medium: animation_3min
+estimated_duration_seconds: 78
+color_palette:
+- '#e8c58d'
+- '#1a1a1a'
+- '#c0392b'
+- '#ffffff'
+- '#4a4a4a'
+cultural_notes: Olympian pantheon, heroic myth cycles, fate (moira), hubris/nemesis
+production_status: brief_generated
+tags:
+- greek
+- hero_tale
+- animation_3min

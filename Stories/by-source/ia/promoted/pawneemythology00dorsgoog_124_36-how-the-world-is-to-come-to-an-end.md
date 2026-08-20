@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 36.  HOW  THE  WORLD  IS  TO COME TO  AN END.
 source_lines: 23454-23485
 length: 2179
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

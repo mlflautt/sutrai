@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: ENTRANCE TO THE GREAT CAIRN OF NEW
 source_lines: 278-333
 length: 993
-culture: Unknown
+culture: Celtic
 story_type: legend
 status: promoted
 ---

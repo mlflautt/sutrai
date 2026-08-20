@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (6) THE ORIGIN OF TIDES (p.  64)
 source_lines: 37141-37410
 length: 14069
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

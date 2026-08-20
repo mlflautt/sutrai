@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 11.  The  Story  of  NAlq
 source_lines: 42947-43099
 length: 9403
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

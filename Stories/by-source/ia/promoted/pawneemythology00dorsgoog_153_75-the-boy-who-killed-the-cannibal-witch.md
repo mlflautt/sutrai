@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 75.  THE  BOY  WHO  KILLED  THE  CANNIBAL  WITCH.
 source_lines: 24352-24363
 length: 743
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

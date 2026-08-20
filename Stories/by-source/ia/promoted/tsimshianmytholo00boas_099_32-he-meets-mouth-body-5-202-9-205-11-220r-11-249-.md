@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 32.  He  meets  Mouth  Body  5.202;  9.205;  11.220r|  11.249;  Dawson  20,
 source_lines: 33321-33349
 length: 1081
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

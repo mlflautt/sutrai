@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 32.  ORIGIN  OP  THE  BUFFALO  BUNDLE'
 source_lines: 5922-5987
 length: 3582
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

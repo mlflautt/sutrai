@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 21. When  it  is  sent  to  him
 source_lines: 25325-25454
 length: 1634
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 112.  THE  MAN  WHO  WENT  TO  SPIRIT  LAND.
 source_lines: 25807-25836
 length: 2169
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

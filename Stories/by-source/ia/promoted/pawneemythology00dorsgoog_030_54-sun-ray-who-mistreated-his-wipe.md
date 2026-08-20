@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 54.  SUN-RAY,  WHO  MISTREATED  HIS  WIPE/
 source_lines: 9294-9389
 length: 5682
-culture: Pawnee
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

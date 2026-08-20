@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 88.  PROUD  BOY  AND  THE  ANIMAL  MBDiaNB.
 source_lines: 25001-25097
 length: 7328
-culture: Pawnee
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

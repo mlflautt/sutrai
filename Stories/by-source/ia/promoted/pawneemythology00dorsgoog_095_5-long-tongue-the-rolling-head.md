@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 5.  LONG-TONGUE,  THE  ROLLING  HEAD.
 source_lines: 22597-22653
 length: 4093
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

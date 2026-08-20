@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 87.  THE  THUNDER-BIRD  CEREMONY.'
 source_lines: 15104-15284
 length: 10690
-culture: Pawnee
+culture: Native American
 story_type: legend
 status: promoted
 ---

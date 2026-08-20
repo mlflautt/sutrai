@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: LER AND THE SWANS
 source_lines: 5710-6042
 length: 12109
-culture: Unknown
+culture: Celtic
 story_type: divine_myth
 status: promoted
 ---

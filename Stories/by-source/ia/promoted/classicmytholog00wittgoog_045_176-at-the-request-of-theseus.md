@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 176. At the request of Theseus,
 source_lines: 12428-12464
 length: 996
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

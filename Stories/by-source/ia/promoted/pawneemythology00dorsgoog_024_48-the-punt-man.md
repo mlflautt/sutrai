@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 48.  THE  PUNT  MAN.'
 source_lines: 8445-8596
 length: 9273
-culture: Pawnee
+culture: Native American
 story_type: divine_myth
 status: promoted
 ---

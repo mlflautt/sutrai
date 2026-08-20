@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 37.  THE  HERMAPHRODITE.^
 source_lines: 6573-6611
 length: 2322
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

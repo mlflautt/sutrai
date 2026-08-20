@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 84. THE  WONDERFUL  BOY  WHO KILLED  HIS FATHER.
 source_lines: 24885-24949
 length: 4708
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

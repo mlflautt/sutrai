@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: FINN FINDS THE SALMON OF KNOWLEDGE
 source_lines: 8284-8889
 length: 25008
-culture: Unknown
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

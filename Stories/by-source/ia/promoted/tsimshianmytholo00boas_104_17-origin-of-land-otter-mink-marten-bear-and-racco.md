@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 17.  Origin  of  land  otter,  mink,  marten,  bear,  and  raccoon  II  ap  883;
 source_lines: 33612-33622
 length: 515
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

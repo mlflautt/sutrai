@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 5.  He  meets  Ha'yihk'a^ve  at  LE^la'd  in  Hardy  Bay  5.197;  9.195;
 source_lines: 32915-33020
 length: 5984
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

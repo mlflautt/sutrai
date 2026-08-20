@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 59.  Six  Hunters  '
 source_lines: 18074-18106
 length: 1788
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

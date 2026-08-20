@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: '9.  He  kills  the  marmot  (bush-tail  rat)  Sha  64S:  Shh  5.1:  Ntl  Teit'
 source_lines: 34488-34507
 length: 1283
-culture: Unknown
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

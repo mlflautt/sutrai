@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 34. When  shooting  him  it  is  on  hiiu  a  strong  man,  it  is  made  ready
 source_lines: 26269-26368
 length: 1786
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 53.  THE  DOQ-BOY  WHO  MARRIED  THE  CHIEFS  DAUGHTER.'
 source_lines: 9204-9293
 length: 5084
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

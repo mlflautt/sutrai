@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 7.  Woodpecker  was a  Chief  at  the  Time  the  Whole  World
 source_lines: 54555-54854
 length: 16868
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: russianfolktale01ralsgoog
 title: 137. Cf. Brocklmus in (he previously quoted ' Berichte,' 1861, p. aaS-9. For
 source_lines: 7409-13521
 length: 237396
-culture: Unknown
+culture: Slavic
 story_type: hero_tale
 status: promoted
 ---

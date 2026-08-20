@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 78.  THE  ORIGIN  OP  THE  UWN  MEDICINE  CEREMONY.'
 source_lines: 12291-12616
 length: 20092
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

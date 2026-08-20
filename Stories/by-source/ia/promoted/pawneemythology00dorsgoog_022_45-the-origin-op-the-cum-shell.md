@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 45.  THE  ORIGIN  OP  THE  CUM  SHELL'
 source_lines: 7912-8356
 length: 24823
-culture: Pawnee
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

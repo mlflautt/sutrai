@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 102.  THE  WOLF  WARRIOR.
 source_lines: 25594-25621
 length: 2064
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

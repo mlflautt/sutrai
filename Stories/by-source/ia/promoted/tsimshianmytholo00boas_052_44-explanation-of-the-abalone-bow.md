@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 44.  Explanation  of  the  Abalone  Bow'
 source_lines: 14834-14871
 length: 2021
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 3.  The  Witch.
 source_lines: 43121-43162
 length: 2525
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

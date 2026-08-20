@@ -4,7 +4,7 @@ source: ancientirishepi00dunn
 title: FOLLOWETH  HERE  BELOW
 source_lines: 8771-9010
 length: 10516
-culture: Unknown
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

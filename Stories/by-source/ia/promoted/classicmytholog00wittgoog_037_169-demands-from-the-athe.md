@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 169. Demands from the Athe-
 source_lines: 11914-11957
 length: 938
-culture: Unknown
+culture: Greek
 story_type: divine_myth
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 30.  BuKxixG  Leggings  and  Bi-tining  Snowshoes  (p.  216)
 source_lines: 46194-46296
 length: 7349
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

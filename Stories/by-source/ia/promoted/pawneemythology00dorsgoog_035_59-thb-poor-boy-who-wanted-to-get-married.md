@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 59.  THB  POOR  BOY  WHO  WANTED  TO  GET  MARRIED.'
 source_lines: 9935-11054
 length: 54488
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

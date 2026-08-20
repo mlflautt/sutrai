@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 24.  THE  WONDERFUL  BOY.
 source_lines: 23137-23197
 length: 4515
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

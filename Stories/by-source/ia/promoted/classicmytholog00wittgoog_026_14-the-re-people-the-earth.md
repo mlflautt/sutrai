@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 14. The^ re-people the earth
 source_lines: 10937-10964
 length: 577
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

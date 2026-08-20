@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 42.  BURNT-BELLY  AND  HIS  DREAMS.
 source_lines: 23703-23721
 length: 1345
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 28.  The  Town  of  Chief  Peace
 source_lines: 46073-46193
 length: 6722
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

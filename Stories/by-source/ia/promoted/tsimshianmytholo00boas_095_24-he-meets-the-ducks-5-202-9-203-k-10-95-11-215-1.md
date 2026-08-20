@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: '24.  He meets the Ducks 5.202; 9.203; K  10.95: 11.215; 11.234;'
 source_lines: 33140-33224
 length: 4356
-culture: Tsimshian
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

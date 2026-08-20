@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 42.  The  Water  Being  Who  Married  the  Princess^
 source_lines: 14208-14495
 length: 15861
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

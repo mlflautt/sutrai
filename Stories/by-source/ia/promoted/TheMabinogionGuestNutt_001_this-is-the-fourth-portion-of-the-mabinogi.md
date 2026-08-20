@@ -4,7 +4,7 @@ source: TheMabinogionGuestNutt
 title: THIS IS THE FOURTH PORTION OF THE MABINOGI
 source_lines: 2989-3029
 length: 1519
-culture: Unknown
+culture: Celtic
 story_type: legend
 status: promoted
 ---

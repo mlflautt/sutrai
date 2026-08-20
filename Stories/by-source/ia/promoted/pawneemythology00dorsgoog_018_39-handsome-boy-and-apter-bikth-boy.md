@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 39.  HANDSOME-BOY  AND  APTER-BIKTH BOY.'
 source_lines: 6712-7375
 length: 39840
-culture: Indian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

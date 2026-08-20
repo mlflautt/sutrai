@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 130.  COYOTE  STEALS  TURTLE'S  BUFFALO.'
 source_lines: 21583-21656
 length: 4452
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

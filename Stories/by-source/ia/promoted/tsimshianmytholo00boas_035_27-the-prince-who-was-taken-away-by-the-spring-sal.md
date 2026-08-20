@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 27.  The  Prince  Who  Was  Taken  Away  by  the  Spring  Salmon''
 source_lines: 9854-10616
 length: 42313
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 5.  The  Transformers  of  the  Uta'mqt.
 source_lines: 34807-35676
 length: 48742
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

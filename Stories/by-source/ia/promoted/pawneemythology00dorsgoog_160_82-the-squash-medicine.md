@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 82.  THE  SQUASH  MEDICINE.
 source_lines: 24796-24843
 length: 3519
-culture: Unknown
+culture: Native American
 story_type: divine_myth
 status: promoted
 ---

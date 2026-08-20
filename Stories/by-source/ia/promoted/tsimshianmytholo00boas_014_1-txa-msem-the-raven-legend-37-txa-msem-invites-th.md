@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 1.  Txa'msem  (The  Raven  Legend)* | (37) TXA'mSEM invites THE MONSTERS  '
 source_lines: 4839-4864
 length: 1576
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

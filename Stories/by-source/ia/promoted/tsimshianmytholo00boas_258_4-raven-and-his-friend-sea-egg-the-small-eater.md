@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 4.  Raven  and  His  Friend  Sea  Egg,  the  Small  Eater
 source_lines: 53725-53855
 length: 6999
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 34.  The  Young  Chief  who  Married  his  Cousin  (p.  238) | (9)  The  Heat  Test
 source_lines: 48076-48246
 length: 9711
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

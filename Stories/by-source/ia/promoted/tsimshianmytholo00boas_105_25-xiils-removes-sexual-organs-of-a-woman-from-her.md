@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 25.  Xiils  removes  sexual  organs  of  a  woman  from  her  chest,  and
 source_lines: 33662-33674
 length: 524
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

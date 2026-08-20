@@ -4,7 +4,7 @@ source: ancientirishepi00dunn
 title: FOLLOW  NOW
 source_lines: 13770-13848
 length: 3488
-culture: Unknown
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

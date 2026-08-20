@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 109. THE  SKELETON  MAN  AND THE SUN-DANCE.
 source_lines: 25773-25782
 length: 595
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

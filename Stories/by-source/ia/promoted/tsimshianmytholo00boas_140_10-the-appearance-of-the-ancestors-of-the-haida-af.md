@@ -5,7 +5,7 @@ title: 10.  The  appearance  of  the  ancestors  of  the  Haida  after  the  Del
   | (9) STONE AND ELDERBERRY BUSH (}).  62)
 source_lines: 37617-37673
 length: 2948
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

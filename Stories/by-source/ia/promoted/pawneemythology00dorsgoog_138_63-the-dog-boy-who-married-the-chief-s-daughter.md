@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 63.  THE  DOG-BOY  WHO  MARRIED  THE  CHIEF'S  DAUGHTER.
 source_lines: 23968-23985
 length: 1087
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

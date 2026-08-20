@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 1. The War with the Teleboae.
 source_lines: 5187-5326
 length: 6521
-culture: Unknown
+culture: Greek
 story_type: fairy_tale
 status: promoted
 ---

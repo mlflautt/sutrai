@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 47. Killed by Bcllerophon,
 source_lines: 10761-10859
 length: 2300
-culture: Unknown
+culture: Greek
 story_type: legend
 status: promoted
 ---

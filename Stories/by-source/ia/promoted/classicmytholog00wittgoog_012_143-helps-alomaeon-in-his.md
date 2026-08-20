@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 143. Helps Alomaeon in his
 source_lines: 10157-10179
 length: 571
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

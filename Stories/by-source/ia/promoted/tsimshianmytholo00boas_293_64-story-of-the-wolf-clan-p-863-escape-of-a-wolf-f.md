@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 64.  Story  of  the  Wolf  Clan  (p.  863). Escape  of  a  Wolf  family  after  a  war  in
 source_lines: 57457-61429
 length: 104662
-culture: Tsimshian
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

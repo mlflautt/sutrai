@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: '11.  Encomiter  with  the  Eagle  Sh  5.4;  Sh  Dawson  32;  Sh  649:  Xtl<('
 source_lines: 34519-34566
 length: 2896
-culture: Tsimshian
+culture: Native American
 story_type: legend
 status: promoted
 ---

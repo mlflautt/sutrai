@@ -1,0 +1,61 @@
+story_id: celticmythandleg00squiuoft_022_gwydion-conquers-pryderi
+title: GWYDION CONQUERS PRYDERI
+source: celticmythandleg00squiuoft
+culture: Celtic
+story_type: hero_tale
+narrative_arc:
+  beginning: GWYDION CONQUERS PRYDERI From the Draiving by E. Wallcousim The Victories
+    of Light over Darkness 3 1 1 darkness met face to face. But Pryderi was the waning
+    power, and he fell before the strength and magic of Gwydion. " And at Maen Tyriawc,
+    above Melenryd, was he buried, and there is his grave", says the Mabinogi, though
+    the ancient Welsh poem, called the " Verses of the Graves of the Warriors"1, assigns
+    him a different resting-place.2 This decisive victory over Hades and its kings
+    was the end o...
+  middle: ogi, which deal with the races of British gods equivalent to the Gaelic
+    Tuatha D6 Danann. The earliest references to him in Welsh literature seem to treat
+    him as merely a warrior-chieftain, no better, if no worse, than several others,
+    such as " Geraint, a tributary prince of Devon ", immortalized both by the bards1
+    and by Tennyson. Then, following upon this, we find him lifted to the extraordinary
+    position of a king of gods, to whom the old divine families of Don, of Llyr, and
+    of Pwyll pay unque...
+  end: Black Book of Caermarthen and the Red Book of Hergest. "When Geraint was born,
+    open were the gates of heaven", begins its last verse. It is translated in Vol.
+    I of Skene, p. 267. 812 The Mythological 4 ' Coming of A rthur " 313 divine race
+    — sons of Nudd, of Llyr, of Bran, of Govannan, and of Arianrod. In another " Red
+    Book " tale, that of " Kulhwch and Olwen ", even greater gods are his vassals.
+    Amaethon son of Don, ploughs for him, and Govannan son of Don, rids the iron,
+    while two other sons o...
+key_characters:
+- King
+- Gwalchmei's
+- Encircled
+- Camelot
+- Govannan
+key_scenes:
+- "Wallcousim \n\nThe Victories of Light over Darkness 3 1 1 \n\ndarkness met face\
+  \ to face"
+- "But Pryderi was the \nwaning power, and he fell before the strength and \nmagic\
+  \ of Gwydion"
+- "He is not mentioned in any \nof the Four Branches of the Mabinogi, which deal \n\
+  with the races of British gods equivalent to the \nGaelic Tuatha D6 Danann"
+- "Then, following upon this, we \nfind him lifted to the extraordinary position of\
+  \ a \nking of gods, to whom the old divine families of \nDon, of Llyr, and of Pwyll\
+  \ pay unquestioned \nho"
+- "\"When Geraint was \nborn, open were the gates of heaven\", begins its last verse"
+visual_style: Insular illumination (Book of Kells), knotwork borders, zoomorphic interlace,
+  vellum texture
+suggested_medium: animation_series
+estimated_duration_seconds: 291
+color_palette:
+- '#1a1a2e'
+- '#0f3460'
+- '#e94560'
+- '#f0d653'
+- '#a8c8d0'
+cultural_notes: Otherworld (Tir na Nog), geasa, shapeshifting, heroic cycles (Ulster,
+  Fenian)
+production_status: brief_generated
+tags:
+- celtic
+- hero_tale
+- animation_series

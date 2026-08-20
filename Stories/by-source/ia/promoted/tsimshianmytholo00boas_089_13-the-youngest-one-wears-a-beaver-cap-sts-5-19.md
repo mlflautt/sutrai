@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 13.  The  youngest  one  wears  a  beaver  cap  Sts  5.19.
 source_lines: 32860-32896
 length: 1732
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

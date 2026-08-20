@@ -4,7 +4,7 @@ source: indianwhystories00lind
 title: FACWG  PAGE
 source_lines: 233-333
 length: 3098
-culture: Indian
+culture: Native American
 story_type: origin_myth
 status: promoted
 ---

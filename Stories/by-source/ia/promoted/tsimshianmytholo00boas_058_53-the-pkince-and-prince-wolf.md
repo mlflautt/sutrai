@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 53.  The  Pkince  and  Prince  Wolf'
 source_lines: 16583-16872
 length: 15494
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

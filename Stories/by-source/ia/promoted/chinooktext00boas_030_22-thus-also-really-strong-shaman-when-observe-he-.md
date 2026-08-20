@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 22. Thus  also  really strong  shaman.  When  observe he  does  her
 source_lines: 25457-25581
 length: 1690
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

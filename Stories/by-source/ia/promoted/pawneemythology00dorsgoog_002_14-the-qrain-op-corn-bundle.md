@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 14.  THE  QRAIN-OP-CORN  BUNDLE'
 source_lines: 2839-2959
 length: 6866
-culture: Unknown
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

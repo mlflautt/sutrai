@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 107.  BURNT-BELLY  AND  THE  IMXL*
 source_lines: 19274-19503
 length: 13296
-culture: Pawnee
+culture: Native American
 story_type: legend
 status: promoted
 ---

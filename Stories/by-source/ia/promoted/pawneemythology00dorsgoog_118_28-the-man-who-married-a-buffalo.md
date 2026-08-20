@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 28.  THE MAN WHO MARRIED  A BUFFALO.
 source_lines: 23265-23296
 length: 2414
-culture: Unknown
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

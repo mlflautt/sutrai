@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 16.  The  Hunters'
 source_lines: 7322-7687
 length: 19033
-culture: Tsimshian
+culture: Native American
 story_type: fairy_tale
 status: promoted
 ---

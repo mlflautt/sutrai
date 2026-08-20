@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 72. Obtains also a third part
 source_lines: 10637-10682
 length: 1084
-culture: Unknown
+culture: Greek
 story_type: hero_tale
 status: promoted
 ---

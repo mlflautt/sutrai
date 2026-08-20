@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 10.  CA'XAL  lA'KXANAM.
 source_lines: 16973-17806
 length: 20356
-culture: Unknown
+culture: Chinook
 story_type: trickster_tale
 status: promoted
 ---

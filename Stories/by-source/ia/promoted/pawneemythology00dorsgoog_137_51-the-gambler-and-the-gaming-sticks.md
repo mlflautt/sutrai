@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 51. THE GAMBLER  AND THE GAMING-STICKS.
 source_lines: 23918-23959
 length: 2954
-culture: Pawnee
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---

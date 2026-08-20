@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 147.  TURTLE'S  WAR  PARTY.'
 source_lines: 22452-22529
 length: 4011
-culture: Indian
+culture: Native American
 story_type: hero_tale
 status: promoted
 ---

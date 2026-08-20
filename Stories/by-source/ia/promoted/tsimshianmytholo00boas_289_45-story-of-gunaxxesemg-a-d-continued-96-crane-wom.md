@@ -4,7 +4,7 @@ source: tsimshianmytholo00boas
 title: 45.  Story  of  GunaxxEsemg'a'd — Continued. | (96)  Crane  Woman,  who  is  mending  her  canoe  Sk.
 source_lines: 57293-57307
 length: 627
-culture: Unknown
+culture: Native American
 story_type: legend
 status: promoted
 ---

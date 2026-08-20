@@ -4,7 +4,7 @@ source: celticmythandleg00squiuoft
 title: SIR GALAHAD
 source_lines: 14265-14326
 length: 2252
-culture: Welsh
+culture: Celtic
 story_type: hero_tale
 status: promoted
 ---

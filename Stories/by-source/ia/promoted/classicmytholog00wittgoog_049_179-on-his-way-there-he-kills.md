@@ -4,7 +4,7 @@ source: classicmytholog00wittgoog
 title: 179. On his way there, he kills
 source_lines: 12725-12750
 length: 726
-culture: Unknown
+culture: Greek
 story_type: legend
 status: promoted
 ---

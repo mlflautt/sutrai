@@ -4,7 +4,7 @@ source: chinooktext00boas
 title: 20. When  he  is  bad, he  is  evilly  disposed  against  him, now  a  seer,
 source_lines: 25237-25322
 length: 1974
-culture: Unknown
+culture: Chinook
 story_type: legend
 status: promoted
 ---

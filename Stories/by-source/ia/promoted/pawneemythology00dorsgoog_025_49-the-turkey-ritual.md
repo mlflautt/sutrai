@@ -4,7 +4,7 @@ source: pawneemythology00dorsgoog
 title: 49.  THE  TURKEY  RITUAL'
 source_lines: 8597-8744
 length: 4677
-culture: Unknown
+culture: Native American
 story_type: trickster_tale
 status: promoted
 ---
